@@ -7,3 +7,10 @@
 .footer-bottom {
     background-color: #dee2e6;
 }
+
+.socials, .quick, .location{
+    text-decoration: underline;
+    text-decoration-thickness: 3px;
+    text-decoration-color: $primary-color;
+    text-underline-offset: 5px;    
+}
