@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "https://examplesite.com/"
-title = "Andromeda-light - Software and SAAS Landing Hugo Theme"
+title = "Betterify - Helping Better Financial Management"
 theme = "andromeda-light"
 # post pagination
 paginate = "6"

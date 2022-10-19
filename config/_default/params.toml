@@ -13,13 +13,13 @@ author = "Themefisher"
 image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
 
 # footer information
-footer_info = "Lorem ipsum dolor sit sed dmi amet, consectetur adipiscing. Cdo tellus, sed condimentum volutpat."
+footer_info = "We help in Better Management of Finances, Accounts, Investments, and Taxes (FAIT). Let’s Betterify!!"
 
 # contact form action
 contact_form_action = "https://formspree.io/f/xgernlzd" # contact form works with https://formspree.io
 
 # copyright
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "© [Betterify](https://www.betterify.in/) | Designed By [Themefisher](https://themefisher.com/) and Developed By [Gethugothemes](https://gethugothemes.com/)"
 
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>" 
 custom_script= "" 

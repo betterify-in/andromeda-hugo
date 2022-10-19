@@ -25,7 +25,7 @@ h5 = "16px"
 h6 = "15px"
 # Give your font name from google font. add font weight using ":wght@" and separate by ";"
 # example: "Work Sans:wght@400;500;600"
-primary_font = "Poppins:wght@400;500;600"
+primary_font = "Roboto:wght@400;500;600"
 primary_font_type = "sans-serif" # [serif/sans-serif]
 secondary_font = ""
 secondary_font_type = "" # [serif/sans-serif]

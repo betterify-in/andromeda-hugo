@@ -93,7 +93,7 @@ ul, li {
 body {
   color: #888888;
   background-color: #ffffff;
-  font-family: "Poppins", sans-serif;
+  font-family: "Roboto", sans-serif;
   font-weight: 400;
   font-size: 15px;
   line-height: 1.7; }
@@ -422,7 +422,7 @@ form label {
  # helper classes
 -------------------------------------------------------------------*/
 .primary-font {
-  font-family: "Poppins", sans-serif; }
+  font-family: "Roboto", sans-serif; }
 
 .font-weight-400 {
   font-weight: 400; }
@@ -1330,3 +1330,9 @@ footer.footer {
 .form-status {
   color: #FE6019;
   font-weight: 500; }
+
+.footer {
+  background-color: #e9ecef; }
+
+.footer-bottom {
+  background-color: #dee2e6; }

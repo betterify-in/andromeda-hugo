@@ -1,8 +1,8 @@
 ---
 # banner
 banner:
-  title: "Andromeda is the most intuitive way to prototype Designs"
-  button: "Get Premium Version"
+  title: "We help in Better Management of Finances, Accounts, Investments, and Taxes (FAIT). Let’s Betterify!!"
+  button: "Betterify TV"
   button_link: "https://gethugothemes.com/products/andromeda/"
   image: "images/banner-app.png"
 
