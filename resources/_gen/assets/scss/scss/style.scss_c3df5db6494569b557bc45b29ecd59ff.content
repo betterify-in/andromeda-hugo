@@ -1252,8 +1252,8 @@ header {
     -webkit-text-decoration-color: transparent;
     -moz-text-decoration-color: transparent; }
   .blog-card .card-title a:hover {
-    color: #333333;
-    text-decoration-color: #444444;
+    color: #FE6019;
+    text-decoration-color: #FE6019;
     -webkit-text-decoration-color: #444444;
     -moz-text-decoration-color: #444444; }
 
@@ -1342,3 +1342,21 @@ footer.footer {
   text-decoration-thickness: 3px;
   text-decoration-color: #FE6019;
   text-underline-offset: 5px; }
+
+blockquote:hover {
+  background-color: #FE6019; }
+
+body::selection {
+  background-color: #e34701;
+  color: #ffffff; }
+
+body::-webkit-scrollbar {
+  width: .5rem; }
+
+body::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+  -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3); }
+
+body::-webkit-scrollbar-thumb {
+  background-color: #FE6019;
+  outline: 2px solid #fff; }
