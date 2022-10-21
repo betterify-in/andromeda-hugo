@@ -3,8 +3,8 @@ date: "2021-07-12"
 title: "Three reasons you DON’T need an app on the App Store"
 image: "images/blog/03.jpg"
 author_info: 
-  name: "Derick Barker"
-  image: "images/author/derick.jpg"
+  name: "Betterify"
+  image: "images/author/betterify.png"
 draft: false
 ---
 

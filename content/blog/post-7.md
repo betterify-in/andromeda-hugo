@@ -3,8 +3,8 @@ date: "2021-07-08"
 title: "How and why we decided to launch an EMI scheme for our employees."
 image: "images/blog/02.jpg"
 author_info: 
-  name: "Derick Barker"
-  image: "images/author/derick.jpg"
+  name: "Betterify"
+  image: "images/author/betterify.png"
 draft: false
 ---
 
