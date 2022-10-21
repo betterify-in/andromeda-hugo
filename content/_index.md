@@ -3,7 +3,7 @@
 banner:
   title: "We help in Better Management of Finances, Accounts, Investments, and Taxes (FAIT). Let’s Betterify!!"
   button: "Betterify TV"
-  button_link: "https://gethugothemes.com/products/andromeda/"
+  button_link: "https://www.youtube.com/channel/UCiyLlAY3_T1XiADSThStYGA"
   image: "images/banner-app.png"
 
 

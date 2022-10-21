@@ -47,11 +47,11 @@ preloader = "images/favicon.png" # use jpg, png, svg or gif format.
 [navigation_button]
 enable = true
 label = "Betterify TV"
-link = "https://gethugothemes.com/products/andromeda/"
+link = "https://www.youtube.com/channel/UCiyLlAY3_T1XiADSThStYGA"
 
 # cookies
 [cookies]
-enable = false
+enable = true
 expire_days = 2
 content = "This site uses cookies. By continuing to use this website, you agree to their use."
 button = "I Accept"
@@ -67,20 +67,20 @@ button_link = "https://gethugothemes.com/products/andromeda/"
 ############################# social site ########################
 [[social]]
 title = "Andromeda"
-icon = "lab la-facebook-f" # https://icons8.com/line-awesome
+icon = "lab la-facebook-square" # https://icons8.com/line-awesome
 link = "#!"
 
 [[social]]
 title = "AndromedaTweet"
-icon = "lab la-twitter" # https://icons8.com/line-awesome
+icon = "lab la-twitter-square" # https://icons8.com/line-awesome
 link = "#!"
 
 [[social]]
 title = "AndromedaIn"
-icon = "lab la-linkedin-in" # https://icons8.com/line-awesome
+icon = "lab la-linkedin" # https://icons8.com/line-awesome
 link = "#!"
 
 [[social]]
 title = "AndromedaPin"
-icon = "lab la-pinterest" # https://icons8.com/line-awesome
-link = "#!"
+icon = "lab la-youtube-square" # https://icons8.com/line-awesome
+link = "https://www.youtube.com/channel/UCiyLlAY3_T1XiADSThStYGA"
