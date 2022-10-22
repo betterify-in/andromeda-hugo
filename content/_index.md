@@ -82,39 +82,39 @@ how_it_works:
 # testimonials
 testimonials:   
   enable: true
-  subtitle: "Our Testimonial"
-  title: "Don't take our word for it"
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
+  subtitle: "Inspiration!!"
+  title: "Quotes inspire us to achieve more"
+  description: "Following quotes of great achievers inspire us and help us to achieve <br>more in the areas of Financial Management and Wealth Management."
   image_left: "images/testimonials-01.png"
   image_right: "images/testimonials-02.png"
   
   testimonials_quotes:
-  - quote: "Lorem ipsum dolor amet, conseetur adipiscing elit. Ornare quam porta arcu congue felis volutpat. Vitae lectudbfs dolor faucibus"
+  - quote: "Stay on top of your finances. Don’t leave that up to others. ~ Leif Garrett"
     name: "Betterify"
     designation: "Finance"
     image: "images/user-img/05-i.png"
 
-  - quote: "Conseetur adipiscing elit. Ornare quam porta arcu congue felis volutpat. Vitae lectudbfs pellentesque vitae dolor faucibus"
+  - quote: "It’s good to have money and the things that money can buy, but it’s good, too, to check up once in a while and make sure that you haven’t lost the things that money can’t buy. ~ George Lorimer"
     name: "Betterify"
     designation: "Money"
     image: "images/user-img/05-i.png"
 
-  - quote: "Lorem ipsum dolor amet, conseetur adipiscing elit. Ornare quam porta arcu congue felis volutpat. Vitae lectudbfs pellentesque vitae dolor"
+  - quote: "The stock market is filled with individuals who know the price of everything, but the value of nothing. ~ Phillip Fisher"
     name: "Betterify"
     designation: "Equity"
     image: "images/user-img/05-i.png"
 
-  - quote: "Lorem ipsum dolor amet, conseetur adipiscing elit. porta arcu congue felis volutpat. Vitae lectudbfs pellentesque vitae dolor faucibus"
+  - quote: "If you have trouble imagining a 20% loss in the stock market, you shouldn’t be in stocks. ~ John Bogle"
     name: "Betterify"
     designation: "Stocks"
     image: "images/user-img/05-i.png"
 
-  - quote: "Lorem ipsum dolor ame conseetur. Ornare quam porta arcu congue felis volutpat. Vitae lectudbfs pellentesque vitae dolor faucibus"
+  - quote: "Fear, greed and hope have destroyed more portfolio value than any recession or depression we have ever been through. ~ James O’Shaughnessy"
     name: "Betterify"
     designation: "Portfolio"
     image: "images/user-img/05-i.png"
 
-  - quote: "Lorem ipsum dolor amet, conseetur adipiscing elit. Ornare quam porta arcu congue lectudbfs pellentesque vitae dolor faucibus"
+  - quote: "Wealth consists not in having great possessions, but in having few wants. ~ Epictetus"
     name: "Betterify"
     designation: "Wealth"
     image: "images/user-img/05-i.png"

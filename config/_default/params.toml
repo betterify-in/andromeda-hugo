@@ -59,10 +59,10 @@ button = "I Accept"
 # call-to-action
 [cta]
 enable = true
-title = "Get Andromeda-Premium Now"
+title = "We bring you Video Stories"
 content = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
 button = "Betterify TV"
-button_link = "https://gethugothemes.com/products/andromeda/"
+button_link = "https://www.youtube.com/channel/UCiyLlAY3_T1XiADSThStYGA"
 
 ############################# social site ########################
 [[social]]

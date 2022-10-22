@@ -1360,3 +1360,6 @@ body::-webkit-scrollbar-track {
 body::-webkit-scrollbar-thumb {
   background-color: #FE6019;
   outline: 2px solid #fff; }
+
+.features-card:hover {
+  background-color: #F6FF33; }
