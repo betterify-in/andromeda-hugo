@@ -66,21 +66,26 @@ button_link = "https://www.youtube.com/channel/UCiyLlAY3_T1XiADSThStYGA"
 
 ############################# social site ########################
 [[social]]
-title = "Andromeda"
+title = "Facebook"
 icon = "lab la-facebook-square" # https://icons8.com/line-awesome
 link = "#!"
 
 [[social]]
-title = "AndromedaTweet"
+title = "BetterifyIn"
 icon = "lab la-twitter-square" # https://icons8.com/line-awesome
-link = "#!"
+link = "https://twitter.com/BetterifyIn" #!
 
 [[social]]
-title = "AndromedaIn"
+title = "LinkedIn"
 icon = "lab la-linkedin" # https://icons8.com/line-awesome
 link = "#!"
 
 [[social]]
-title = "AndromedaPin"
+title = "Betterify TV"
 icon = "lab la-youtube-square" # https://icons8.com/line-awesome
 link = "https://www.youtube.com/channel/UCiyLlAY3_T1XiADSThStYGA"
+
+[[social]]
+title = "Betterify-In"
+icon = "lab la-github-square" # https://icons8.com/line-awesome
+link = "https://github.com/betterify-in"
