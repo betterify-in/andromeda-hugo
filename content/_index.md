@@ -39,27 +39,27 @@ features:
   features_blocks:
   - icon: "las la-user"
     title: "Wealth Management"
-    content: "Waking body has the waking consciousness. The waking mind has a different reality. The waking mind most of the time is day-dreaming."
+    content: "As wealth management experts or **wealth** management advisors we provide services to a wide array of clients ranging from affluent to high-net-worth and ultra-high-net-worth individuals and families."
   - icon: "las la-user-circle"
     title: "Financial Management"
-    content: "Dreaming body goes *through* the reality of the dreaming consciousness. While dreaming, the dreaming consciousness is more real than waking consciousness."
+    content: "As **Financial** Managers we are skilled in the field of risk management, budget planning, strategic planning and financial data analysis."
   - icon: "las la-user-friends"
     title: "Accounting Management"
-    content: "Drugged consciousness alters our normal consciousness. Druggs have the effect of altering our consciousness and can give us a drug-induced reality."
+    content: "We’re here to offer the best support, to help you troubleshoot any of you business, **accounting** and taxation issues. You can trust us to solve your Accounting Problems into Opportunities."
   - icon: "las la-user-plus"
     title: "Investment Management"
-    content: "Dreamless body experiencess the reality of the dreamless consciousness. In the dreamless body the mind is totally absent and experiences."
+    content: "As investment management experts or **investment** management advisors we provide services to a wide array of clients ranging from affluent to high-net-worth and ultra-high-net-worth individuals and families."
   - icon: "las la-users"
     title: "Taxation Management"
-    content: "The awakened body experiences unity with the whole. Awakened consciousness gives the experience of non-dual and absolute reality."
+    content: "We’re here to offer the best support, to help you troubleshoot any of you business, accounting and **taxation** issues. You can trust us to solve your Accounting Problems into Opportunities."
 
 
 # intro_video
 intro_video:   
   enable: true
   subtitle: "Short Intro Video"
-  title: "Built exclusively for you"
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
+  title: "Watch Betterify TV"
+  description: "We bring you news on Finance, Money, and Markets. <br> We share ideas and tips on Better Financial Management and Better Wealth Management."
   video_url: "https://www.youtube.com/embed/dyZcRRWiuuw"
   video_thumbnail: "images/video-popup.jpg"
 
@@ -69,13 +69,13 @@ how_it_works:
   enable: true
   block:
   - subtitle: "Primary Speciality"
-    title: "You Will Not miss Your All misunderstandings"
-    description: "Protect your design vision and leave nothing up to interpretation with interaction recipes. Quickly share and access all your team members interactions by using libraries, ensuring consistency throughout the."
+    title: "You will not miss anything on Business News"
+    description: "Our primary speciality is to share business news and economic news. All that is related to SMBs and startups."
     image: "images/features-01.png"
 
   - subtitle: "Secondary Speciality"
-    title: "Say hello to no-code The Advance Creation"
-    description: "From the simplest of interactions to those that use Excel-gradeing formulas, ProtoPie can handle them all. Make mind-blowing of New interactions everyday without ever having to write any new code."
+    title: "How to make money in the Stock Markets?"
+    description: "Our secondary speciality is to share share market news. What are the best stocks and companies to invest in?"
     image: "images/features-02.png"
 
 

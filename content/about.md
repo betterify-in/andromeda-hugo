@@ -7,7 +7,7 @@ draft: false
 who_we_are:
   enable: true
   subtitle: "Who We Are"
-  title: "Hello, We're Andromeda Here for your Help"
+  title: "Hello, We help in Better Financial Management"
   description: "Your online Health & Fitness companion that offers free assistance on its Facebook Group and provides quality paid guided personal training packages by and through website. We are the first ever, online manifesto in Bangladesh to make place you will select when you think of getting fit"
 
   image: "images/about/01.jpg"
