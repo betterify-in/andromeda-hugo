@@ -71,7 +71,7 @@ icon = "lab la-facebook-square" # https://icons8.com/line-awesome
 link = "#!"
 
 [[social]]
-title = "BetterifyIn"
+title = "Twitter"
 icon = "lab la-twitter-square" # https://icons8.com/line-awesome
 link = "https://twitter.com/BetterifyIn" #!
 
@@ -81,11 +81,11 @@ icon = "lab la-linkedin" # https://icons8.com/line-awesome
 link = "#!"
 
 [[social]]
-title = "Betterify TV"
+title = "YouTube"
 icon = "lab la-youtube-square" # https://icons8.com/line-awesome
 link = "https://www.youtube.com/channel/UCiyLlAY3_T1XiADSThStYGA"
 
 [[social]]
-title = "Betterify-In"
+title = "GitHub"
 icon = "lab la-github-square" # https://icons8.com/line-awesome
 link = "https://github.com/betterify-in"
