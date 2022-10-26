@@ -48,6 +48,41 @@ BSE AllCap Shares Analysis is a Web App that covers all the scrips in the BSE Al
 </div>
 {{< /rawhtml >}}
 
+{{< rawhtml >}}
+<div class="card bd-callout bd-callout-info shadow">
+<h4 id="conveying-meaning-to-assistive-technologies">BSE AllCap Shares Analysis</h4>
+<p class="yellow">The total active shares traded on BSE are 4000+ scrips and the BSE AllCap index contains 1000+ scrips. And the BSE AllCap Index does a Turnover of more than 95% (97.36% as on 1st Oct, 2021) of the total BSE turnover.</p>
+</div>
+<style>
+  .bd-callout-info {
+    border-left-color: #5bc0de;
+}
+  .bd-callout {
+    padding: 1.25rem;
+    margin-top: 1.25rem;
+    margin-bottom: 1.25rem;
+    border: 1px solid #03a9f4;
+    border-left-width: .25rem;
+    border-radius: .25rem;
+}
+.yellow {  
+   margin: 0 -0.4em;
+   padding: 0.1em 0.4em;
+   line-height: 1.8em;
+   border-radius: 0.8em 0.3em;
+   background: transparent;
+   background-image: linear-gradient(
+    to right,
+    rgba(250, 225, 134, 0.1),
+    rgba(250, 225, 134, 0.7) 4%,
+    rgba(250, 225, 134, 0.3)
+  );
+  //-webkit-box-decoration-break: clone;
+  //box-decoration-break: clone;
+}
+</style>
+{{< /rawhtml >}}
+
 You may also like to see the App in action in the browser. It is device responsive and mobile friendly:
 
 {{< rawhtml >}}
