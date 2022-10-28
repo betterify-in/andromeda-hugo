@@ -60,7 +60,7 @@ intro_video:
   subtitle: "Short Intro Video"
   title: "Watch Betterify TV"
   description: "We bring you news on Finance, Money, and Markets. <br> We share ideas and tips on Better Financial Management and Better Wealth Management."
-  video_url: "https://www.youtube.com/embed/dyZcRRWiuuw"
+  video_url: "https://www.youtube.com/embed/EQOhA_l2bRo" #https://www.youtube.com/embed/dyZcRRWiuuw
   video_thumbnail: "images/video-popup.jpg"
 
 
