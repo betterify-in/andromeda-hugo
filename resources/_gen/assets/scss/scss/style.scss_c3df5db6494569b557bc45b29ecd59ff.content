@@ -1363,3 +1363,18 @@ body::-webkit-scrollbar-thumb {
 
 .features-card:hover {
   background-color: #F6FF33; }
+
+.content img {
+  width: 100%; }
+
+.btn.btn-primary {
+  color: #ffff;
+  text-decoration: none; }
+
+.yellow {
+  margin: 0 -0.4em;
+  padding: 0.1em 0.4em;
+  line-height: 1.8em;
+  border-radius: 0.8em 0.3em;
+  background: transparent;
+  background-image: linear-gradient(to right, rgba(250, 225, 134, 0.1), rgba(250, 225, 134, 0.7) 4%, rgba(250, 225, 134, 0.3)); }
