@@ -1378,3 +1378,6 @@ body::-webkit-scrollbar-thumb {
   border-radius: 0.8em 0.3em;
   background: transparent;
   background-image: linear-gradient(to right, rgba(250, 225, 134, 0.1), rgba(250, 225, 134, 0.7) 4%, rgba(250, 225, 134, 0.3)); }
+
+.card:hover {
+  background-color: #ffeb3b; }
