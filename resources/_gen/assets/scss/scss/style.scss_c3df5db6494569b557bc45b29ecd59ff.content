@@ -1381,3 +1381,22 @@ body::-webkit-scrollbar-thumb {
 
 .card:hover {
   background-color: #ffeb3b; }
+
+.content img {
+  margin-top: 30px !important; }
+
+.tableRow {
+  background-color: #f6fdfd; }
+
+tr {
+  background-color: #f6fdfd; }
+
+tr:hover {
+  background-color: rgba(233, 235, 154, 0.76) !important; }
+
+.selectedTableRow {
+  background-color: rgba(141, 186, 238, 0.76) !important; }
+
+table {
+  border-spacing: 5px;
+  width: 100%; }

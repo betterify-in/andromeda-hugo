@@ -22,6 +22,13 @@ We will extensively cover the following four areas (FAIT):
 4. Taxation Management.
 * Income Tax, GST, etc.
 
+<u>**Personal Finance**</u> | <u>**Corporate Finance**</u> |  <u>**Public Finance**</u>
+--- | --- | ---
+*Tax Planning* | `Cash Flow` | **Public Expenditure**
+Cash Management | Capital Budgeting | Public Revenue
+Retirement Planning | WC Management | <mark>Public Debt</mark>
+Weight: 3 | Weight: 2 | Weight: 1
+
 [![drawing alt text](https://docs.google.com/drawings/d/1WsLeQRmArkTcCNei0bqYYzhkAnbIAI9kpl2z0w8XQ3Q/export/png)](https://docs.google.com/drawings/d/1WsLeQRmArkTcCNei0bqYYzhkAnbIAI9kpl2z0w8XQ3Q/edit "Click to view/edit Drawing")
 
 The above is a [Google Drawing](https://g.co/kgs/MmmryH) embeded in the [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).

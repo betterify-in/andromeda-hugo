@@ -79,4 +79,20 @@ body::selection {
 .card:hover {
   background-color: #ffeb3b;
 }
-  
+
+// Content Image
+.content img {
+margin-top: 30px !important;
+}
+
+// Content Table
+.tableRow {background-color:rgb(246, 253, 253);} 
+tr {background-color:rgb(246, 253, 253);} 
+tr:hover {background-color: rgba(233, 235, 154, 0.76) !important;}
+.selectedTableRow {background-color: rgba(141, 186, 238, 0.76) !important;}
+table {
+    //border-collapse: separate;
+    //text-indent: initial;
+    border-spacing: 5px;
+    width: 100%;
+}
