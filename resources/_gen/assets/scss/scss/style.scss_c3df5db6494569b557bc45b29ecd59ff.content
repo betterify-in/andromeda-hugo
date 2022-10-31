@@ -1383,7 +1383,16 @@ body::-webkit-scrollbar-thumb {
   background-color: #ffeb3b; }
 
 .content img {
-  margin-top: 30px !important; }
+  padding: 5px;
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+  overflow: hidden;
+  border: 0;
+  margin-top: 30px;
+  height: calc(100% - 30px); }
+
+.content img:hover {
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+  opacity: 0.85; }
 
 .tableRow {
   background-color: #f6fdfd; }

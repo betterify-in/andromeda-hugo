@@ -36,7 +36,7 @@ At the top you find the performance of the Index. You have the following perform
 
 So we can use any of the above parameters for our performance analysis. Now, since the data is live, realtime, and dynamic, we are using the following still image to illustrate the analysis: 
 
-[![drawing alt text](https://docs.google.com/drawings/d/171ycQBN-Ecw1rWJV3N2FI5k8Ud5LIs7jUe6dnxc0YYA/export/png)](https://docs.google.com/drawings/d/171ycQBN-Ecw1rWJV3N2FI5k8Ud5LIs7jUe6dnxc0YYA/edit "Click to view/edit Drawing")
+![drawing alt text](https://docs.google.com/drawings/d/171ycQBN-Ecw1rWJV3N2FI5k8Ud5LIs7jUe6dnxc0YYA/export/png)
 
 Let us see the above data in the still image.
 
