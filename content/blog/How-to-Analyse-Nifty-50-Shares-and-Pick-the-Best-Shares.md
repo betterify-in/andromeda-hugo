@@ -1,7 +1,7 @@
 ---
 date: "2022-10-31"
 title: "How to Analyse Nifty 50 Shares and Pick the Best Shares?"
-image: "images/blog/02.jpg"
+image: "images/blog/joshua-mayo-HASoyURgPMY-unsplash.jpg"
 author_info: 
   name: "Betterify"
   image: "images/author/betterify.png"
