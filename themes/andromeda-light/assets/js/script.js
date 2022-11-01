@@ -226,18 +226,3 @@ $(document).ready(function () {
 	})();
 
 });
-
-// Dropdown submenu does not expand
-$(document).ready(function(){
-
-	$('.dropdown-menu a').on("click", function(e){
-  
-	  $(this).next('ul').toggle();
-  
-	  e.stopPropagation();
-  
-	  e.preventDefault();
-  
-	});
-  
-  });
