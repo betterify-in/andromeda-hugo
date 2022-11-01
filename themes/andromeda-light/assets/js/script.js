@@ -230,7 +230,7 @@ $(document).ready(function () {
 // Dropdown submenu does not expand
 $(document).ready(function(){
 
-	$('.dropdown-submenu a').on("click", function(e){
+	$('.dropdown-menu a').on("click", function(e){
   
 	  $(this).next('ul').toggle();
   
