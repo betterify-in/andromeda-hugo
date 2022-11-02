@@ -156,3 +156,9 @@ table {
   //-webkit-box-decoration-break: clone;
   //box-decoration-break: clone;
 }
+
+header .dropdown-menu {
+  @include mobile {
+    transform: none;
+}
+}
