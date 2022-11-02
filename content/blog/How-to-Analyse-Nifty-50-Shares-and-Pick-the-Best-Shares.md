@@ -5,6 +5,10 @@ image: "images/blog/joshua-mayo-HASoyURgPMY-unsplash.jpg"
 author_info: 
   name: "Betterify"
   image: "images/author/betterify.png"
+type: featured
+tags: ["Hugo", "Alert", "Docs", "Button", "Card",]
+# meta description
+description: "This is meta description"
 draft: false
 ---
 
