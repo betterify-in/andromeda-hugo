@@ -12,7 +12,7 @@ description: "This is meta description"
 draft: false
 ---
 
-Have you ever thought of analysing the Nifty 50 shares to pick up the best ones out of them?
+Have you ever thought of analysing the Nifty 50 shares to pick the best ones out of them?
 
 Well, we will share with you some simple <mark>Tips</mark> to find out how?
 
@@ -24,9 +24,16 @@ First and foremost, please see the following data analysis:
 </div>
 {{< /rawhtml >}}
 
+{{< rawhtml >}}
+<a href="https://bit.ly/3gXL9al" target="_blank" class="btn btn-primary btn-lg mb-4">See in Browser <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" width="30px" height="30px" fill="currentColor">
+  <path fill-rule="evenodd" d="M10.293 15.707a1 1 0 010-1.414L14.586 10l-4.293-4.293a1 1 0 111.414-1.414l5 5a1 1 0 010 1.414l-5 5a1 1 0 01-1.414 0z" clip-rule="evenodd" />
+  <path fill-rule="evenodd" d="M4.293 15.707a1 1 0 010-1.414L8.586 10 4.293 5.707a1 1 0 011.414-1.414l5 5a1 1 0 010 1.414l-5 5a1 1 0 01-1.414 0z" clip-rule="evenodd" />
+</svg></a>
+{{< /rawhtml >}}
+
 In the above data analysis you have at the top the analysis of the Nifty 50 Index. And below that you have analysis of the 50 constituents of the Nifty 50 Index.
 
-At the top you find the performance of the Index. You have the following performance parameters:
+At the top you find the performance of the Index. And below that you find the performance of the 50 constituents of the index. You have the following performance parameters:
 
 {{< rawhtml >}}
 <!-- Beginning Bootstrap Callout-info: Terms in Analysis -->
@@ -44,13 +51,19 @@ So we can use any of the above parameters for our performance analysis. Now, sin
 
 Let us see the above data in the still image.
 
-You will see that the Index is grown by 1.60% in the FY 23, by 18.85% in the FY 22, and by 80.13% in the FY 21. And the Index is grown by 14.69 compounded average rate of growth (CAGR) in the last 5 years. This we can use as a standard for comparing the performance of the 50 index components or constituents.
+You will see that the Index is grown by 1.60% in the FY 23, by 18.85% in the FY 22, and by 80.13% in the FY 21. And the Index is grown by 14.69% compounded average rate of growth (CAGR) in the last 5 years. This we can use as a standard for comparing the performance of the 50 index components or constituents.
 
-Now let us look into the performance of the constituents. But how? You see, you can sort on any column just by clicking on any of the columns. So here I am sorting on the growth in the FY23. In the still image you will find 15 scrips from 62.08% at the heighest to 13.67% at the bottom. If you wish to choose the crietaria of growth in the current year (CY) then you can use this method. This is one way. But this is looking into performance of the scrips only during the current year.
+Now let us look into the performance of the constituents. But how? You see, you can sort on any column just by clicking on any of the columns. So here I am sorting on the growth in the FY23. In the still image you will find 15 scrips from 62.08% at the heighest to 13.67% at the bottom. If you wish to choose the crietarian of growth in the current year (CY) then you can use this method. This is one way. But this is looking into performance of the scrips only during the current year.
 
-The second crietaria is to look into the performance for a longer period. Let us look into the performance for at least 5 years. So we have chosen 5 year CAGR and sorted on the Alpha. Now what is Alpha? Alpha gives you the measure of success of your investment, and in this case it is the equity stocks. It calculates how much a stock has outperformed the general market rate. In our case the general market return is the return of the index. That is the 5 year CAGR of the index. Which is 14.69%. So, any stock that beats this rate of return has beaten the market. In our case around 20 stocks have beaten the above general rate of return. The 10 stocks listed above are one of the bests. They have given much more higher positive Alpha. So the best stock is with positive (+) Alpha. So the second crietarian is to follow this method.
+The second crietarian is to look into the performance for a longer period. Let us look into the performance for at least 5 years. So we have chosen 5 year CAGR and sorted on the Alpha. <p class="yellow">**Now what is Alpha? Alpha gives you the measure of success of your investment, and in this case it is the equity stocks. It calculates how much a stock has outperformed the general market rate of return.**</p> In our case the general market return is the return of the index. That is the 5 year CAGR of the index. Which is 14.69%. So, any stock that beats this rate of return has beaten the market. In our case around 20 stocks have beaten the above general rate of return. The 10 stocks listed above are one of the bests. They have given much more higher positive Alpha. So the best stock is with higher positive (+) Alpha. The more the Alpha the better is the stock. So the second crietarian is to follow this method.
 
-So, this is how we can analyse the Nifty 50 stocks to pick up the best ones for your investment.
+So, this is how we can analyse the Nifty 50 stocks to pick the best ones for your investment.
+
+You are FREE to embed the Web App in your websites and blogs. Find the code below:
+
+```javascript
+<iframe allowfullscreen="" height="400px" src="https://bit.ly/3gXL9al" style="border: 0px #ffffff none;" width="100%"></iframe>
+```
 
 {{< rawhtml >}}
 <div class="card bd-callout bd-callout-info shadow">
