@@ -182,6 +182,10 @@ header {
       width: 100%;
       text-align: center;
     }
+ 
+    .dropdown-menu.show {
+      display: block;
+    }
 
     .nav-item .nav-link {
       padding: 5px 20px !important;

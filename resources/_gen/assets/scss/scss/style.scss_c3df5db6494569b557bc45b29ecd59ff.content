@@ -1454,5 +1454,7 @@ table {
     padding: 1px 15px;
     width: 100%;
     text-align: center; }
+  header .dropdown-menu.show {
+    display: block; }
   header .nav-item .nav-link {
     padding: 5px 20px !important; } }
