@@ -1452,6 +1452,7 @@ table {
       margin-bottom: 15px; }
   header .dropdown-menu {
     padding: 1px 15px;
+    width: 100%;
     text-align: center; }
   header .nav-item .nav-link {
     padding: 5px 20px !important; } }
