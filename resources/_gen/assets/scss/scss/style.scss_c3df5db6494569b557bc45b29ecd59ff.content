@@ -1438,5 +1438,20 @@ table {
   background-image: linear-gradient(to right, rgba(0, 217, 255, 0.1), rgba(0, 217, 255, 0.7) 4%, rgba(0, 217, 255, 0.3)); }
 
 @media (max-width: 575px) {
+  header .navbar-nav {
+    max-width: 300px;
+    max-height: 400px;
+    overflow-y: auto;
+    text-align: center;
+    padding-top: 30px; }
+  header .navbar-right {
+    text-align: center;
+    margin-top: 5px;
+    padding-bottom: 10px; }
+    header .navbar-right select {
+      margin-bottom: 15px; }
   header .dropdown-menu {
-    transform: none; } }
+    padding: 1px 15px;
+    text-align: center; }
+  header .nav-item .nav-link {
+    padding: 5px 20px !important; } }

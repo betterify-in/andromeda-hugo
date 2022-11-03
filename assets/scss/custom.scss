@@ -157,8 +157,33 @@ table {
   //box-decoration-break: clone;
 }
 
-header .dropdown-menu {
+header {
   @include mobile {
-    transform: none;
-}
+    .navbar-nav {
+      max-width: 300px;
+      max-height: 400px;
+      overflow-y: auto;
+      text-align: center;
+      padding-top: 30px;
+    }
+
+    .navbar-right {
+      text-align: center;
+      margin-top: 5px;
+      padding-bottom: 10px;
+
+      select {
+        margin-bottom: 15px;
+      }
+    }
+
+    .dropdown-menu {
+      padding: 1px 15px;
+      text-align: center;
+    }
+
+    .nav-item .nav-link {
+      padding: 5px 20px !important;
+    }
+  }
 }
