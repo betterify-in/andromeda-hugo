@@ -1,6 +1,6 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://www.betterify.in/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Betterify - Better Financial Management'
 
 enableRobotsTXT = false
 
