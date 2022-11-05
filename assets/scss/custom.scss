@@ -157,38 +157,44 @@ table {
   //box-decoration-break: clone;
 }
 
-header {
-  @include mobile {
-    .navbar-nav {
-      max-width: 300px;
-      max-height: 400px;
-      overflow-y: auto;
-      text-align: center;
-      padding-top: 30px;
-    }
+// header {
+//   @include mobile {
+//     .navbar-nav {
+//       max-width: 300px;
+//       max-height: 400px;
+//       overflow-y: auto;
+//       text-align: center;
+//       padding-top: 30px;
+//     }
 
-    .navbar-right {
-      text-align: center;
-      margin-top: 5px;
-      padding-bottom: 10px;
+//     .navbar-right {
+//       text-align: center;
+//       margin-top: 5px;
+//       padding-bottom: 10px;
 
-      select {
-        margin-bottom: 15px;
-      }
-    }
+//       select {
+//         margin-bottom: 15px;
+//       }
+//     }
 
-    .dropdown-menu {
-      padding: 1px 15px;
-      width: 100%;
-      text-align: center;
-    }
+//     .dropdown-menu {
+//       padding: 1px 15px;
+//       width: 100%;
+//       text-align: center;
+//     }
  
-    .dropdown-menu.show {
-      display: block;
-    }
+//     .dropdown-menu.show {
+//       display: block;
+//     }
 
-    .nav-item .nav-link {
-      padding: 5px 20px !important;
-    }
+//     .nav-item .nav-link {
+//       padding: 5px 20px !important;
+//     }
+//   }
+// }
+
+header {
+  .dropdown-menu {
+    height: auto !important;
   }
 }
