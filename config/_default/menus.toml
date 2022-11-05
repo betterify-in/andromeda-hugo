@@ -27,8 +27,8 @@ hasChildren = true
 
   [[main]]
   parent = "Pages"
-  name = "Terms & Conditions"
-  url = "terms-and-conditions/"
+  name = "Privacy"
+  url = "privacy/"
   weight = 7
   
 [[main]]
@@ -54,6 +54,6 @@ url = "blog/post-1/"
 weight = 3
 
 [[footer]]
-name = "Terms & Conditions"
-url = "terms-and-conditions/"
+name = "Privacy"
+url = "privacy/"
 weight = 4

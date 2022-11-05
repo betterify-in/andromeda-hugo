@@ -1,7 +1,7 @@
 ---
-title: "Terms & Conditions"
+title: "Privacy"
 date: "2021-07-16"
-layout: "terms-and-conditions"
+layout: "privacy"
 draft: false
 
 description: "By Using The Service Or Clicking “I Agree”, The User Is Agreeing To Be Bound By This Agreement. If You Are Agreeing To This Agreement On Behalf Of Or For The Benefit Of A Company, Then The User Represents And Warrants That It Has The Necessary Authority To Agree To This Agreement On The Company’s"
