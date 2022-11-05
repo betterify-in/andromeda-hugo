@@ -22,7 +22,7 @@ hasChildren = true
   [[main]]
   parent = "Pages"
   name = "Blog Details"
-  url = "blog/post-1/"
+  url = "blog/hello-welcome-to-betterify/"
   weight = 1
 
   [[main]]
@@ -50,7 +50,7 @@ weight = 2
 
 [[footer]]
 name = "Blog Details"
-url = "blog/post-1/"
+url = "blog/hello-welcome-to-betterify/"
 weight = 3
 
 [[footer]]
