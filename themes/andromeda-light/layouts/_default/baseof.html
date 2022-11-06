@@ -19,6 +19,16 @@ AUTHOR WEBSITE: https://gethugothemes.com
 	{{ else }}
 	{{ partial "style.html" . }}
 	{{ end }}
+	<!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-3ZTYKP665K"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-3ZTYKP665K');
+    </script>
+    <!-- Google tag (gtag.js) -->
 	<!-- <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=635246e852dcef0012a83585&product=inline-share-buttons&source=platform" async="async"></script> -->
 	<!-- BEGIN SHAREAHOLIC CODE -->
     <link rel="preload" href="https://cdn.shareaholic.net/assets/pub/shareaholic.js" as="script" />
