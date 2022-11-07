@@ -6,7 +6,8 @@ author_info:
   name: "Betterify"
   image: "images/author/betterify.png"
 type: featured
-tags: ["Hugo", "Alert", "Docs", "Button", "Card",]
+tags: ["Nifty", "Nifty50", "Stocks", "Shares", "Index"]
+categories: ["Investing", "Money"]
 # meta description
 description: "This is meta description"
 draft: false
