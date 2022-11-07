@@ -1,7 +1,7 @@
 ---
 # banner
 banner:
-  title: "We help in Better Management of Finances, Accounts, Investments, and Taxes (FAIT). Let’s Betterify!!"
+  title: "We help in <mark>Better Management</mark> of Finances, Accounts, Investments, and Taxes (FAIT). Let’s Betterify!!"
   button: "Betterify TV"
   button_link: "https://www.youtube.com/channel/UCiyLlAY3_T1XiADSThStYGA"
   image: "images/banner-app.png"
@@ -34,32 +34,32 @@ brands_carousel:
 features:
   enable: true
   subtitle: "Financial Wellness"
-  title: "Better Financial and Wealth Management"
-  description: "Financial Wellness gives us economic freedom. It helps us to manage our economic life. <br>It helps us in planning and managing our current and future financial needs and obligations."
+  title: "Better Financial and <mark>Wealth Management</mark>"
+  description: "<mark>Financial Wellness</mark> gives us economic freedom. It helps us to manage our economic life. <br>It helps us in planning and managing our current and future financial needs and obligations."
   features_blocks:
   - icon: "las la-user"
     title: "Wealth Management"
-    content: "As wealth management experts or **wealth** management advisors we provide services to a wide array of clients ranging from affluent to high-net-worth and ultra-high-net-worth individuals and families."
+    content: "As wealth management experts or <mark>Wealth Management</mark> advisors we provide services to a wide array of clients ranging from affluent to high-net-worth and ultra-high-net-worth individuals and families."
   - icon: "las la-user-circle"
     title: "Financial Management"
-    content: "As **Financial** Managers we are skilled in the field of risk management, budget planning, strategic planning and financial data analysis."
+    content: "As <mark>Financial Managers</mark> we are skilled in the field of risk management, budget planning, strategic planning and financial data analysis."
   - icon: "las la-user-friends"
     title: "Accounting Management"
-    content: "We’re here to offer the best support, to help you troubleshoot any of you business, **accounting** and taxation issues. You can trust us to solve your Accounting Problems into Opportunities."
+    content: "We’re here to offer the best support, to help you troubleshoot any of you Business, <mark>Accounting</mark> and Taxation issues. You can trust us to solve your Accounting Problems into Opportunities."
   - icon: "las la-user-plus"
     title: "Investment Management"
-    content: "As investment management experts or **investment** management advisors we provide services to a wide array of clients ranging from affluent to high-net-worth and ultra-high-net-worth individuals and families."
+    content: "As investment management experts or <mark>Investment Management</mark> advisors we provide services to a wide array of clients ranging from affluent to high-net-worth and ultra-high-net-worth individuals and families."
   - icon: "las la-users"
     title: "Taxation Management"
-    content: "We’re here to offer the best support, to help you troubleshoot any of you business, accounting and **taxation** issues. You can trust us to solve your Accounting Problems into Opportunities."
+    content: "We’re here to offer the best support, to help you troubleshoot any of you Business, Accounting and <mark>Taxation</mark> issues. You can trust us to solve your Accounting Problems into Opportunities."
 
 
 # intro_video
 intro_video:   
   enable: true
   subtitle: "Short Intro Video"
-  title: "Watch Betterify TV"
-  description: "We bring you news on Finance, Money, and Markets. <br> We share ideas and tips on Better Financial Management and Better Wealth Management."
+  title: "Watch <mark>Betterify TV</mark>"
+  description: "We bring you news on Finance, Money, and Markets. <br> We share ideas and tips on Better <mark>Financial Management</mark> and Better Wealth Management."
   video_url: "https://www.youtube.com/embed/EQOhA_l2bRo" #https://www.youtube.com/embed/dyZcRRWiuuw
   video_thumbnail: "images/video-popup.jpg"
 
@@ -69,12 +69,12 @@ how_it_works:
   enable: true
   block:
   - subtitle: "Primary Speciality"
-    title: "You will not miss anything on Business News"
+    title: "You will not miss anything on <mark>Business News</mark>"
     description: "Our primary speciality is to share business news and economic news. All that is related to SMBs and startups."
     image: "images/features-01.png"
 
   - subtitle: "Secondary Speciality"
-    title: "How to make money in the Stock Markets?"
+    title: "How to make money in the <mark>Stock Markets</mark>?"
     description: "Our secondary speciality is to share share market news. What are the best stocks and companies to invest in?"
     image: "images/features-02.png"
 
@@ -83,8 +83,8 @@ how_it_works:
 testimonials:   
   enable: true
   subtitle: "Inspiration!!"
-  title: "Quotes inspire us to achieve more"
-  description: "Following quotes of great achievers inspire us and help us to achieve <br>more in the areas of Financial Management and Wealth Management."
+  title: "Quotes inspire us to <mark>achieve more</mark>"
+  description: "Following quotes of great achievers inspire us and help us to achieve <br>more in the areas of <mark>Financial Management</mark> and Wealth Management."
   image_left: "images/testimonials-01.png"
   image_right: "images/testimonials-02.png"
   

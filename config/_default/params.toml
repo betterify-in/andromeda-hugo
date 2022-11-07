@@ -59,8 +59,8 @@ button = "I Accept"
 # call-to-action
 [cta]
 enable = true
-title = "We bring you Video Stories"
-content = "We also share with you video series on topics of better financial management <br>and better wealth management. Subscribe to Betterify TV for latest videos."
+title = "We bring you <mark>Video Stories</mark>"
+content = "We also share with you video series on topics of <mark>Better Financial Management</mark> <br>and better wealth management. Subscribe to Betterify TV for latest videos."
 button = "Betterify TV"
 button_link = "https://www.youtube.com/channel/UCiyLlAY3_T1XiADSThStYGA"
 
