@@ -5,10 +5,14 @@ image: "images/blog/01.jpg"
 author_info: 
   name: "Betterify"
   image: "images/author/betterify.png"
+tags: ["Google", "Docs", "Drawing", "Apps Script"]
+categories: ["Investing", "Personal Finance"]
+# meta description
+description: "This is meta description"
 draft: false
 ---
 
-Hello, this is Betterify. And you are all welcome!!
+Hello, this is <mark>Betterify</mark>. And you are all welcome!!
 
 <p class="yellow">We have started this website to help all those who wish to have good content in the field of Finance, Personal Finance, Stocks and Shares, Wealth Mangement, Financial Planning, Business News, etc.</p>
 
