@@ -1429,3 +1429,12 @@ table {
 
 header .dropdown-menu {
   height: auto !important; }
+
+.nav-item.active {
+  text-decoration: underline;
+  text-decoration-thickness: 3px;
+  text-decoration-color: #FE6019;
+  text-underline-offset: 5px; }
+
+.nav-item:hover {
+  background: #F6FF33; }

@@ -162,3 +162,15 @@ header {
     height: auto !important;
   }
 }
+
+// Nav items hover
+.nav-item.active {   
+   text-decoration: underline;
+   text-decoration-thickness: 3px;
+   text-decoration-color: $primary-color;
+   text-underline-offset: 5px;
+}
+
+.nav-item:hover {   
+   background: #F6FF33;   
+}
