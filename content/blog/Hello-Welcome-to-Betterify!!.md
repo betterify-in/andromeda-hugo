@@ -46,6 +46,6 @@ Please subscribe to our YouTube Channel:
 </svg></a>
 {{< /rawhtml >}}
 
->An investment in knowledge pays the best interest.
+>An investment in <mark>knowledge</mark> pays the best interest.
 >
 > <cite>Benjamin Franklin, Founding Father of the United States</cite>

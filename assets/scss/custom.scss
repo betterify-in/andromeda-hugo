@@ -172,14 +172,15 @@ header {
 }
 
 .nav-item:hover {   
-   background: #F6FF33;   
+   background: #F6FF33;
+   border-radius: 15px 5px;   
 }
 
 // Mark highlight color
 mark { 
    background-color: #F6FF33;
    color: black;
-   border-radius: 15px;
+   border-radius: 15px 5px;
  }
 
 // Markdown color text

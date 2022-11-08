@@ -44,7 +44,7 @@ You are <mark>FREE</mark> to embed the Web App in your websites and blogs. Find 
 
 {{< rawhtml >}}
 <blockquote class="blockquote mb-0">
-  <p>Learning to code is useful no matter what your career ambitions are.</p>
+  <p>Learning to <mark>code</mark> is useful no matter what your career ambitions are.</p>
   <footer class="blockquote-footer">Arianna Huffington <cite title="Source Title">Founder, The Huffington Post</cite></footer>
 </blockquote>  
 {{< /rawhtml >}}

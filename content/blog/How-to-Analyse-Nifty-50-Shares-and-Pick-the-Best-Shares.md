@@ -76,7 +76,7 @@ You are FREE to embed the Web App in your websites and blogs. Find the code belo
 
 {{< rawhtml >}}
 <blockquote class="blockquote mb-0">
-  <p>The stock market is filled with individuals who know the price of everything, but the value of nothing.</p>
+  <p>The <mark>stock market</mark> is filled with individuals who know the price of everything, but the value of nothing.</p>
   <footer class="blockquote-footer">Phillip Fisher <cite title="Source Title">American Stock Investor</cite></footer>
 </blockquote>  
 {{< /rawhtml >}}

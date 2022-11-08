@@ -1437,12 +1437,13 @@ header .dropdown-menu {
   text-underline-offset: 5px; }
 
 .nav-item:hover {
-  background: #F6FF33; }
+  background: #F6FF33;
+  border-radius: 15px 5px; }
 
 mark {
   background-color: #F6FF33;
   color: black;
-  border-radius: 15px; }
+  border-radius: 15px 5px; }
 
 typewritten-text {
   font-weight: bold;
