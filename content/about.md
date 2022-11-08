@@ -45,7 +45,7 @@ about_video:
   subtitle: "A Short Video"
   title: "We follow <mark>processes</mark> and the rest is taken care of by itself."
   description: "Our whole approach is process driven and process dependant, and not person dependant. Once you follow the <mark>processes</mark> meticulously the rest is taken care of. We strongly believe in the 6 Sigma Philosophy."
-  video_url: "https://www.youtube.com/embed/EQOhA_l2bRo" #https://www.youtube.com/embed/dyZcRRWiuuw
+  video_url: "https://www.youtube.com/embed/bYFN_Vdg3rw" #https://www.youtube.com/embed/dyZcRRWiuuw
   video_thumbnail: "images/about/video-popup-2.jpg"
 
 
