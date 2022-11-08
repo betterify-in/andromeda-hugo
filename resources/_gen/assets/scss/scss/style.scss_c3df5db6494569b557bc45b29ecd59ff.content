@@ -1438,3 +1438,12 @@ header .dropdown-menu {
 
 .nav-item:hover {
   background: #F6FF33; }
+
+mark {
+  background-color: #F6FF33;
+  color: black; }
+
+typewritten-text {
+  font-weight: bold;
+  color: #fe6019;
+  background-color: #FAFAFA; }

@@ -7,8 +7,8 @@ draft: false
 who_we_are:
   enable: true
   subtitle: "Who We Are"
-  title: "Hello, We help in Better Financial Management"
-  description: "We all at **Betterify** very strongly believe that all business productivity and performance is the result of a strong motivated team of professionals with hands on industry expertise and experience. We are a team of professionals with huge industry experience and expertise. The key to every business success is a mutual trust."
+  title: "Hello, We help in <mark>Better</mark> Financial Management"
+  description: "We all at <mark>Betterify</mark> very strongly believe that all business productivity and performance is the result of a strong motivated team of professionals with hands on industry expertise and experience. We are a team of professionals with huge industry experience and expertise. The key to every business success is a mutual trust."
 
   image: "images/about/01.jpg"
 
@@ -16,26 +16,26 @@ who_we_are:
 what_we_do:
   enable: true
   subtitle: "Our Speciality"
-  title: "What We Do. We Betterify -"
+  title: "What We Do. We <mark>Betterify</mark> -"
   block:
   - title: "Financial Management"
-    content: "As **Financial** Managers we are skilled in the field of risk management, budget planning, strategic planning and financial data analysis"
+    content: "As <mark>Financial</mark> Managers we are skilled in the field of risk management, budget planning, strategic planning and financial data analysis"
 
   - title: "Accounting Management"
-    content: "We’re here to offer the best support, to help you troubleshoot any of you business, **accounting** and taxation issues. You can trust us to solve your Accounting Problems into Opportunities."
+    content: "We’re here to offer the best support, to help you troubleshoot any of you business, <mark>accounting</mark> and taxation issues. You can trust us to solve your Accounting Problems into Opportunities."
     
   - title: "Investment Management"
-    content: "As investment management experts or **investment** management advisors we provide services to a wide array of clients ranging from affluent to high-net-worth and ultra-high-net-worth individuals and families."
+    content: "As investment management experts or <mark>investment</mark> management advisors we provide services to a wide array of clients ranging from affluent to high-net-worth and ultra-high-net-worth individuals and families."
     
   - title: "Taxation Management"
-    content: "We’re here to offer the best support, to help you troubleshoot any of you business, accounting and **taxation** issues. You can trust us to solve your Accounting Problems into Opportunities."
+    content: "We’re here to offer the best support, to help you troubleshoot any of you business, accounting and <mark>taxation</mark> issues. You can trust us to solve your Accounting Problems into Opportunities."
 
 # our_mission
 our_mission:
   enable: true
   subtitle: "OUR MISSION"
-  title: "Main Vision And Mission Of Our Company"
-  description: "We are passionate about Better Management and Better Leadership. Our passion is filled with compassion for the following Mission, Vision, and Values: Our mission is **Better Execution**, Our vision is **Better Management**, and We value **Better Leadership!!**"
+  title: "Main <mark>Vision</mark> And Mission Of Our Company"
+  description: "We are passionate about Better Management and Better Leadership. Our passion is filled with compassion for the following Mission, Vision, and Values: Our mission is <mark>Better Execution</mark>, Our vision is <mark>Better Management</mark>, and We value <mark>Better Leadership!!</mark>"
 
   image: "images/about/02.jpg"
 
@@ -43,8 +43,8 @@ our_mission:
 about_video:
   enable: true
   subtitle: "A Short Video"
-  title: "We follow processes and the rest is taken care of by itself."
-  description: "Our whole approach is process driven and process dependant, and not person dependant. Once you follow the processes meticulously the rest is taken care of. We strongly believe in the 6 Sigma Philosophy."
+  title: "We follow <mark>processes</mark> and the rest is taken care of by itself."
+  description: "Our whole approach is process driven and process dependant, and not person dependant. Once you follow the <mark>processes</mark> meticulously the rest is taken care of. We strongly believe in the 6 Sigma Philosophy."
   video_url: "https://www.youtube.com/embed/EQOhA_l2bRo" #https://www.youtube.com/embed/dyZcRRWiuuw
   video_thumbnail: "images/about/video-popup-2.jpg"
 
@@ -53,7 +53,7 @@ about_video:
 brands_carousel:
   enable: true
   subtitle: "Social Media"
-  title: "We take advantage of the whole Social Media space"
+  title: "We take advantage of the whole <mark>Social Media</mark> space"
   section: "/" # brand images comming form _index.md
 
 

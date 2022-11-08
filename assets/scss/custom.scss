@@ -174,3 +174,16 @@ header {
 .nav-item:hover {   
    background: #F6FF33;   
 }
+
+// Mark highlight color
+mark { 
+   background-color: #F6FF33;
+   color: black;
+ }
+
+// Markdown color text
+typewritten-text {
+  font-weight: bold;
+  color: #fe6019;  
+  background-color: $light;
+ }
