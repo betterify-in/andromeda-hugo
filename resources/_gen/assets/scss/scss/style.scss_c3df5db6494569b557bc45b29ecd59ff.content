@@ -1441,7 +1441,8 @@ header .dropdown-menu {
 
 mark {
   background-color: #F6FF33;
-  color: black; }
+  color: black;
+  border-radius: 15px; }
 
 typewritten-text {
   font-weight: bold;

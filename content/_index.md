@@ -70,7 +70,7 @@ how_it_works:
   block:
   - subtitle: "Primary Speciality"
     title: "You will not miss anything on <mark>Business News</mark>"
-    description: "Our primary speciality is to share business news and economic news. All that is related to SMBs and startups."
+    description: "Our primary speciality is to share business news and economic news. All that is related to <mark>SMBs and startups</mark>."
     image: "images/features-01.png"
 
   - subtitle: "Secondary Speciality"
