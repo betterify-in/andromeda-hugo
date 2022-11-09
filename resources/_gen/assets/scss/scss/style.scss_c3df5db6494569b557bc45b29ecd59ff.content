@@ -1375,6 +1375,7 @@ body::-webkit-scrollbar-thumb {
   width: 100%;
   padding: 5px;
   box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+  border-radius: 6px;
   overflow: hidden;
   border: 0;
   margin-top: 30px;

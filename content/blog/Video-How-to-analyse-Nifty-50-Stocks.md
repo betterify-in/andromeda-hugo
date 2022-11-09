@@ -5,7 +5,7 @@ image: "images/blog/austin-distel-jpHw8ndwJ_Q-unsplash.jpg"
 author_info: 
   name: "Betterify"
   image: "images/author/betterify.png"
-type: featured
+type: regular
 tags: ["NSE", "Nifty", "Nifty50", "Shares", "Stocks", "Index", "Video" ]
 categories: ["Investing", "Money", "YouTube"]
 # meta description
