@@ -48,7 +48,9 @@ body::-webkit-scrollbar-thumb {
 
 // Features Card Hover
 .features-card:hover {
-   background-color: #F6FF33;
+   //background-color: #F6FF33;
+   background-color: $primary-color;
+   color: #ffff;
 }
 
 // Markdown Button
