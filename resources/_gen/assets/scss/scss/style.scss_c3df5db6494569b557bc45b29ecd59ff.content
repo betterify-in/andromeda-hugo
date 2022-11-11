@@ -1363,7 +1363,7 @@ body::-webkit-scrollbar-thumb {
 
 .features-card:hover {
   background-color: #FE6019;
-  color: #ffff; }
+  color: #000000; }
 
 .btn.btn-primary {
   color: #ffff;
