@@ -5,10 +5,11 @@ image: "images/blog/01.jpg"
 author_info: 
   name: "Betterify"
   image: "images/author/betterify.png"
+type: regular
 tags: ["Google", "Docs", "Drawing", "Apps Script"]
-categories: ["Investing", "Personal Finance"]
+categories: ["Investing", "Personal Finance", "How To"]
 # meta description
-description: "This is meta description"
+description: "At Betterify we help small companies and startups in Better Financial and Wealth Management. Want to know how to? Welcome to Betterify!!"
 draft: false
 ---
 

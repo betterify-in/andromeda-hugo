@@ -5,11 +5,11 @@ image: "images/blog/joshua-mayo-HASoyURgPMY-unsplash.jpg"
 author_info: 
   name: "Betterify"
   image: "images/author/betterify.png"
-type: featured
+type: regular
 tags: ["Nifty", "Nifty50", "Stocks", "Shares", "Index"]
-categories: ["Investing", "Money"]
+categories: ["Investing", "Money", "How To"]
 # meta description
-description: "This is meta description"
+description: "This post talks about the analysis of Nifty 50 Shares. Want to know how to Analyse Nifty 50 Shares and Pick the Best Shares?"
 draft: false
 ---
 

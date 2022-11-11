@@ -7,9 +7,9 @@ author_info:
   image: "images/author/betterify.png"
 type: regular
 tags: ["NSE", "Nifty", "Nifty50", "Shares", "Stocks", "Index", "Video" ]
-categories: ["Investing", "Money", "YouTube"]
+categories: ["Investing", "Money", "YouTube", "How To"]
 # meta description
-description: "This is meta description"
+description: "This video helps in analyzing all Nifty 50 Shares. Want to know how to Analyse Nifty 50 Shares?"
 draft: false
 ---
 

@@ -5,11 +5,11 @@ image: "images/blog/firmbee-com-dAmHWsRYP9c-unsplash.jpg"
 author_info: 
   name: "Betterify"
   image: "images/author/betterify.png"
-type: featured
+type: regular
 tags: ["BSE", "BSEIndia", "BSEAllCap", "Shares", "Stocks", "Index", "Video" ]
-categories: ["Investing", "Money", "YouTube"]
+categories: ["Investing", "Money", "YouTube", "How To"]
 # meta description
-description: "This is meta description"
+description: "This video helps in analyzing all BSE All Cap Shares. Want to know how to Analyse BSE All Cap Shares?"
 draft: false
 ---
 
