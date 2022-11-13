@@ -1,16 +1,16 @@
 ---
-title: "apps"
-layout: "apps"
+title: "BSE AllCap"
+layout: "bse-allcap"
 draft: false
 
 contact_image: "images/vectors/contact.png"
 ---
 
-We all at <mark>Betterify</mark> very strongly believe in the Financial Freedom of all individuals. In that spirit we are trying to make Financial Education and <typewritten-text repeat><b>Financial Management Education as simple as possible.</b></typewritten-text>
+We all at <mark>Betterify</mark> very strongly believe in the Financial Freedom of all individuals. In that spirit we are trying to make Financial Education and <mark>Financial Management Education as simple as possible.</mark>
 
 <span class="blue">The following Web App caters to the needs of investment in stock market and stock analysis of the Indian Stock Market. This Web App is free to use and we are trying hard to keep it FREE FOREVER.<span>
 
-<!-- ![Apps](/images/apps.svg) -->
+![BSE All Cap Drawing](https://docs.google.com/drawings/d/1hOAeX36wib0iSK6OmOyxfnMibK8HNosJBVfP-L6vSD0/export/png)
 
 BSE AllCap Shares Analysis is a <mark>Web App</mark> that covers all the scrips in the BSE AllCap Index (more than 900 scrips). Please see the App in action below: 
 
@@ -36,7 +36,7 @@ You may also like to see the App in action in the browser. It is device responsi
 </svg></a>
 {{< /rawhtml >}}
 
-You are <mark>FREE</mark> to embed the Web App in your websites and blogs. Find the code below:
+You are <mark>FREE</mark> to embed the Web App in your websites and blogs without modifying the <mark>Copyrights</mark>. Find the embed code below:
 
 ```javascript
 <iframe allowfullscreen="" height="400px" src="https://script.google.com/macros/s/AKfycbwiVPTW7ny7wYbeXNK09IFl4dks3LYiTE-zlv71C756rBdMN5YV1Efe8sJX9JLMq9MC/exec" style="border: 0px #ffffff none;" width="100%"></iframe>
