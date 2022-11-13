@@ -6,7 +6,7 @@ draft: false
 contact_image: "images/vectors/contact.png"
 ---
 
-We all at <mark>Betterify</mark> very strongly believe in the Financial Freedom of all individuals. In that spirit we are trying to make Financial Education and <mark>Financial Management Education as simple as possible.</mark>
+We all at <mark>Betterify</mark> very strongly believe in the Financial Freedom of all individuals. In that spirit we are trying to make <mark>Financial Education</mark> and Financial Management Education as simple as possible.
 
 <span class="blue">The following Web App caters to the needs of investment in stock market and stock analysis of the Indian Stock Market. This Web App is free to use and we are trying hard to keep it FREE FOREVER.<span>
 
