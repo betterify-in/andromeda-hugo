@@ -111,6 +111,7 @@ table {
    //text-indent: initial;
    border-spacing: 5px;
    width: 100%;
+   margin-bottom: 1.25rem;
 }
 
 // Markdown Callout Card
@@ -194,3 +195,8 @@ typewritten-text {
   color: #fe6019;  
   background-color: $light;
  }
+
+// .toc {
+//  list-style: none !important;
+//  list-style-type: none !important;
+//  }

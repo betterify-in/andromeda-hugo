@@ -12,11 +12,13 @@ categories: ["Investing", "Personal Finance", "How To"]
 description: "At Betterify we help small companies and startups in Better Financial and Wealth Management. Want to know how to? Welcome to Betterify!!"
 draft: false
 ---
-
+{{< toc >}}
+# Welcome!!
 Hello, this is <mark>Betterify</mark>. And you are all welcome!!
 
 <p class="yellow">We have started this website to help all those who wish to have good content in the field of Finance, Personal Finance, Stocks and Shares, Wealth Mangement, Financial Planning, Business News, etc.</p>
 
+# Specialization
 We will extensively cover the following four areas (FAIT):
 1. Financial Managemet
 * Money, Cash Flow, etc.
@@ -34,10 +36,12 @@ Cash Management | Capital Budgeting | Public Revenue
 Retirement Planning | WC Management | <mark>Public Debt</mark>
 Weight: 3 | Weight: 2 | Weight: 1
 
-[![drawing alt text](https://docs.google.com/drawings/d/1WsLeQRmArkTcCNei0bqYYzhkAnbIAI9kpl2z0w8XQ3Q/export/png)](https://docs.google.com/drawings/d/1WsLeQRmArkTcCNei0bqYYzhkAnbIAI9kpl2z0w8XQ3Q/edit "Click to view/edit Drawing")
+### Google Drawing
+[![Google Drawing](https://docs.google.com/drawings/d/1WsLeQRmArkTcCNei0bqYYzhkAnbIAI9kpl2z0w8XQ3Q/export/png)](https://docs.google.com/drawings/d/1WsLeQRmArkTcCNei0bqYYzhkAnbIAI9kpl2z0w8XQ3Q/edit "Click to view/edit Drawing")
 
 The above is a [Google Drawing](https://g.co/kgs/MmmryH) embeded in the [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
+### YouTube Channel
 Please subscribe to our YouTube Channel:
 
 {{< rawhtml >}}
@@ -47,6 +51,7 @@ Please subscribe to our YouTube Channel:
 </svg></a>
 {{< /rawhtml >}}
 
+### Quotes inspire Us
 >An investment in <mark>knowledge</mark> pays the best interest.
 >
 > <cite>Benjamin Franklin, Founding Father of the United States</cite>
