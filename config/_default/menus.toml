@@ -9,17 +9,23 @@ name = "Apps"
 weight = 4
 hasChildren = true
 
- [[main]]
+  [[main]]
   parent = "Apps"
   name = "BSE AllCap"
   url = "bse-allcap/"
-  weight = 1
+  weight = 2
 
   [[main]]
   parent = "Apps"
   name = "Nifty"
   url = "nifty/"
   weight = 1
+
+  [[main]]
+  parent = "Apps"
+  name = "Targets"
+  url = "bse-nse-stock-targets/"
+  weight = 3
 
 [[main]]
 name = "Blog"
