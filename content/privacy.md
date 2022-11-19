@@ -125,3 +125,7 @@ We do not ensure that the information on this website is correct, we do not warr
   We last updated the <mark>Privacy Policy</mark> on 9th November 2022.
 </div>
 {{< /rawhtml >}}
+
+{{< rawhtml >}}
+<rssapp-carousel id="tliKCJoKTZst9GBo"></rssapp-carousel><script src="https://widget.rss.app/v1/carousel.js" type="text/javascript" async></script>
+{{< /rawhtml >}}

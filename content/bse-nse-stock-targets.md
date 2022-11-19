@@ -48,3 +48,7 @@ You are <mark>FREE</mark> to embed the Web App in your websites and blogs withou
   <footer class="blockquote-footer">Arianna Huffington <cite title="Source Title">Founder, The Huffington Post</cite></footer>
 </blockquote>  
 {{< /rawhtml >}}
+
+{{< rawhtml >}}
+<rssapp-carousel id="tliKCJoKTZst9GBo"></rssapp-carousel><script src="https://widget.rss.app/v1/carousel.js" type="text/javascript" async></script>
+{{< /rawhtml >}}
