@@ -50,5 +50,13 @@ You are <mark>FREE</mark> to embed the Web App in your websites and blogs withou
 {{< /rawhtml >}}
 
 {{< rawhtml >}}
-<rssapp-carousel id="tliKCJoKTZst9GBo"></rssapp-carousel><script src="https://widget.rss.app/v1/carousel.js" type="text/javascript" async></script>
+<rssapp-imageboard id="0q8J8T8tNdSxaZOH"></rssapp-imageboard><script src="https://widget.rss.app/v1/imageboard.js" type="text/javascript" async></script>
+{{< /rawhtml >}}
+
+{{< rawhtml >}}
+<rssapp-wall id="zlrZcSlbaT28in6A"></rssapp-wall><script src="https://widget.rss.app/v1/wall.js" type="text/javascript" async></script>
+{{< /rawhtml >}}
+
+{{< rawhtml >}}
+<rssapp-ticker id="0q8J8T8tNdSxaZOH"></rssapp-ticker><script src="https://widget.rss.app/v1/ticker.js" type="text/javascript" async></script>
 {{< /rawhtml >}}

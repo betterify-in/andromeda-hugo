@@ -1,4 +1,48 @@
-<div class="toc card bd-callout bd-callout-info shadow">
+<!-- Table of Contents TOC Shortcode By Betterify -->
+{{/*  <div class="toc card bd-callout bd-callout-info shadow">
     <h2>Table Of Contents</h2>
     {{ .Page.TableOfContents }}
-</div>
+</div>  */}}
+
+{{/*  <div class="accordion" id="accordionExample">
+    <div class="card">
+      <div class="card-header" id="headingOne">
+        <h2 class="mb-0">
+          <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+            Table of Contents #
+            {{ .Page.TableOfContents }}
+          </button>
+        </h2>
+      </div>
+    </div>
+</div>  */}}
+
+<div id="accordion">
+    <div class="card">
+      <div class="card-header" id="headingOne">
+        <h5 class="mb-0">
+          <button
+            type="button"
+            class="btn btn-link btn-block text-left"
+            id="firstname"
+            data-toggle="collapse"
+            data-target="#collapseOne"
+            aria-expanded="true"
+            aria-controls="collapseOne"
+          >
+            <h3 class="mb-0">Table of Contents:</h3>
+          </button>
+        </h5>
+      </div>
+
+      <div
+        id="collapseOne"
+        class="collapse show"
+        aria-labelledby="headingOne"
+        data-parent="#accordion"
+      >
+        <div class="card-body">{{ .Page.TableOfContents }}</div>
+      </div>
+    </div>
+  </div> 
+    

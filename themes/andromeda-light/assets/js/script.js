@@ -223,6 +223,9 @@ $(document).ready(function () {
 				}, false);
 			});
 		}, false);
-	})();
+	})();   
+    
+	// Accordion Auto Collapse for TOC By Betterify
+    $('#collapseOne').collapse();
 
 });

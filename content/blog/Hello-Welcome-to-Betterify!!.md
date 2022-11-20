@@ -57,5 +57,13 @@ Please subscribe to our YouTube Channel:
 > <cite>Benjamin Franklin, Founding Father of the United States</cite>
 
 {{< rawhtml >}}
-<rssapp-carousel id="tliKCJoKTZst9GBo"></rssapp-carousel><script src="https://widget.rss.app/v1/carousel.js" type="text/javascript" async></script>
+<rssapp-imageboard id="0q8J8T8tNdSxaZOH"></rssapp-imageboard><script src="https://widget.rss.app/v1/imageboard.js" type="text/javascript" async></script>
+{{< /rawhtml >}}
+
+{{< rawhtml >}}
+<rssapp-wall id="zlrZcSlbaT28in6A"></rssapp-wall><script src="https://widget.rss.app/v1/wall.js" type="text/javascript" async></script>
+{{< /rawhtml >}}
+
+{{< rawhtml >}}
+<rssapp-ticker id="0q8J8T8tNdSxaZOH"></rssapp-ticker><script src="https://widget.rss.app/v1/ticker.js" type="text/javascript" async></script>
 {{< /rawhtml >}}
