@@ -67,3 +67,5 @@ Please subscribe to our YouTube Channel:
 {{< rawhtml >}}
 <rssapp-ticker id="0q8J8T8tNdSxaZOH"></rssapp-ticker><script src="https://widget.rss.app/v1/ticker.js" type="text/javascript" async></script>
 {{< /rawhtml >}}
+
+{{< gslides src="https://docs.google.com/presentation/d/e/2PACX-1vSEQs0OYJZcQfiAzRnCg5HhcFRUA-_-s-UnviE722TWv4ygn10LGaarOKF-EStbzw8r83RGfzdaUKHl/embed?start=false&loop=false&delayms=3000" >}}

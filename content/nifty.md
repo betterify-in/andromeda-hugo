@@ -60,3 +60,52 @@ You are <mark>FREE</mark> to embed the Web App in your websites and blogs withou
 {{< rawhtml >}}
 <rssapp-ticker id="0q8J8T8tNdSxaZOH"></rssapp-ticker><script src="https://widget.rss.app/v1/ticker.js" type="text/javascript" async></script>
 {{< /rawhtml >}}
+
+{{< rawhtml >}}
+<!-- New Slider -->
+<div id="carouselExampleControls" class="carousel slide card shadow mt-4" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img class="d-block w-100" src="https://docs.google.com/drawings/d/e/2PACX-1vRS5cx09hhhWYSsFsHNfhNKdcreQsdRY9dLNdm0xNpMj4h0cZOqyzEQO4kADLVi69e3RmV66gApSQSm/pub?w=960&amp;h=600" alt="Financial Management">
+      <div class="carousel-caption">
+        <!-- <h3>New York</h3>
+        <p>We love the Big Apple!</p> -->
+        <p><a class="btn btn-lg btn-primary" href="#">Sign Up Today</a></p>
+      </div>
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="https://docs.google.com/drawings/d/e/2PACX-1vSPWPQ5wj_R0_uK_INLJmpiS-xM84j8g1UJcZFAf2ffQvqz6M6kmubLx4tQnrMJeYW_dkc4P7slyzbK/pub?w=960&amp;h=600" alt="Accounting Management">
+      <div class="carousel-caption">
+        <!-- <h3>New York</h3>
+        <p>We love the Big Apple!</p> -->
+        <p><a class="btn btn-lg btn-primary" href="#">Sign Up Today</a></p>
+      </div>
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="https://docs.google.com/drawings/d/e/2PACX-1vTQMEnlPKfcG27XNs6gvLRHTVHhBrNIcLgu1bYYO_8OWHlzxA1upjS8rArf8sUPIQF85R-uJI-s9Nbm/pub?w=960&amp;h=600" alt="Taxation Management">
+      <div class="carousel-caption">
+        <!-- <h3>New York</h3>
+        <p>We love the Big Apple!</p> -->
+        <p><a class="btn btn-lg btn-primary" href="#">Sign Up Today</a></p>
+      </div>
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+<style>
+.carousel-item {
+  margin-top: -30px;
+  margin-bottom: -35px;
+}
+.btn-lg:hover {
+  text-decoration: none !important;
+}
+</style>
+{{< /rawhtml >}}
