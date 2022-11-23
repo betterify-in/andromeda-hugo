@@ -12,6 +12,7 @@ categories: ["Investing", "Money", "Results Analysis"]
 description: "Mahindra and Mahindra (M&M) Q2FY23 results are announced on 11/11/22. This post and video tries to share the analysis of the results"
 draft: false
 ---
+{{< json-remote >}}
 
 Mahindra and Mahindra (M&M) Q2FY23 results are announced today. The results are submitted to the exchanges today, 11th November 2022.
 

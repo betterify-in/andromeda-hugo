@@ -51,7 +51,7 @@ Please subscribe to our YouTube Channel:
 </svg></a>
 {{< /rawhtml >}}
 
-### Quotes inspire Us
+## Quotes inspire Us
 >An investment in <mark>knowledge</mark> pays the best interest.
 >
 > <cite>Benjamin Franklin, Founding Father of the United States</cite>
