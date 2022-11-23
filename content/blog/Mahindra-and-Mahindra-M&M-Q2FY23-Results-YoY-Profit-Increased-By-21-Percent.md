@@ -14,6 +14,7 @@ draft: false
 ---
 {{< json-remote >}}
 
+
 Mahindra and Mahindra (M&M) Q2FY23 results are announced today. The results are submitted to the exchanges today, 11th November 2022.
 
 The following is the Summary on YoY basis:
