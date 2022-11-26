@@ -7,7 +7,7 @@
     function google_search() {
         var query = document.getElementById('google-search').value;
         window.open(
-        'https://www.google.com/search?q=' + query + '+site:' + '{{ .Site.BaseURL | relLangURL }}'
+        'https://www.google.com/search?q=' + query + '+site:' + '{{ .Site.BaseURL | absLangURL }}'
         );
     }
     </script>
@@ -21,7 +21,7 @@
             type="text"
             class="form-control"
             id="google-search"
-            placeholder="Enter search term and hit enter"
+            placeholder="Google Search Betterify!!"
         />
     </div>
 </form>
