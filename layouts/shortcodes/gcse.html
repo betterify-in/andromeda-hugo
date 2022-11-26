@@ -10,7 +10,8 @@
 {{define "main" }}
 {{ end }}
 
-<form id="search" onsubmit="google_search(); return false;">
+
+{{/*  <form id="search" onsubmit="google_search(); return false;">
     <div class="form-group form-group-lg">
         <input
             type="text"
@@ -18,6 +19,21 @@
             id="google-search"
             placeholder="Google Search Betterify!!"
         />
+    </div>    
+    <button type="submit" class="btn btn-primary">Search</button>    
+</form>
+<br>  */}}
+
+<form id="search" onsubmit="google_search(); return false;">
+<div class="input-group mb-3">
+    <input 
+        type="text" 
+        class="form-control" 
+        id="google-search"
+        placeholder="Google Search Betterify!!"         
+        />
+    <div class="input-group-append">
+      <button type="submit" class="btn btn-primary" id="button-addon2">Search</button>
     </div>
-    <button type="submit" class="btn btn-primary">Search</button>
+  </div>
 </form>
