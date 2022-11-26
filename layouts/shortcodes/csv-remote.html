@@ -1,0 +1,50 @@
+{{/*  {{ range getCSV "," "https://docs.google.com/spreadsheets/d/e/2PACX-1vQDFcsd5ZXy3mRi0XAT0oX79jhG-lqXUruQCz4-Xf-hn6MlD7LJlcrBd5bOb7mhqBsNf2g6Xr8lUZ0i/pub?output=csv" }}  */}}
+
+
+    {{/*  {{ $Quote := getCSV "," "https://docs.google.com/spreadsheets/d/e/2PACX-1vQDFcsd5ZXy3mRi0XAT0oX79jhG-lqXUruQCz4-Xf-hn6MlD7LJlcrBd5bOb7mhqBsNf2g6Xr8lUZ0i/pub?output=csv" }}
+    <table class="table table-hover">
+        {{ range $Quote }}
+    <thead>
+      <tr>
+        <th scope="col">Company</th>
+        <th scope="col">Price</th>
+        <th scope="col">Change</th>
+        <th scope="col">Change (%)</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>{{ .Company }}</td>
+        <td>{{ .Price }}</td>
+        <td>{{ .Change }}</td>
+        <td>{{ .Changepct }}</td>
+      </tr>   
+         
+    </tbody>
+    {{ end }}
+  </table>     */}}
+  
+
+{{/*  {{ $apples := getCSV "," "https://docs.google.com/spreadsheets/d/e/2PACX-1vRvHH3C21_53AEiR9MYxdG91a78L6a5pZWhj1kuqWM9ynYtBMQVGGBSmydyCpichyE9ewmhasFEnT73/pub?output=csv" }}  */}}
+{{ $oranges := getCSV "," "https://docs.google.com/spreadsheets/d/e/2PACX-1vSZcL3NsdvLBBYjdAtW3DtEXp60AyAL16hFJCiUG0ryw_61PnXWq8k25ALuRefjXZN3DjkkXYPHVn1i/pub?output=csv" }}
+<ul class="apples">
+{{ range after 1 $oranges }}
+  <li style="color: {{ index . 2 }}">{{ index . 0 }} - {{ index . 1 }}</li>
+{{ end }}
+</ul>
+
+{{/*  <table class="table table-hover">
+    {{ range $oranges }}
+<thead>
+  <tr>
+    <th scope="col">Type</th>
+    <th scope="col">Price</th>    
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>{{ .type }}</td>
+    <td>{{ .price }}</td>    
+  </tr>   
+  {{ end }}     
+</tbody>  */}}

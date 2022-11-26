@@ -1453,3 +1453,13 @@ typewritten-text {
   font-weight: bold;
   color: #fe6019;
   background-color: #FAFAFA; }
+
+.gsc-input-box {
+  border-color: none; }
+
+.gsc-input-box {
+  border: none;
+  background: none; }
+
+input.gsc-input {
+  margin-top: 10px; }

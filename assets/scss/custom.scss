@@ -225,3 +225,41 @@ typewritten-text {
 // .toc content h3 {
 //    margin-bottom: 0;
 // }
+// .gsc-input {
+//   width: 12vw;
+//   height: 12vw;
+//   padding-top: 10vh;
+//   display: inline-block;
+// }
+// .gsc-input-box {
+//    height: 0px;
+//    margin-top: 53px;
+//    border: 0px 0x solid #ffffff;
+//    padding-top: 0px;
+//    padding-bottom: -60px;
+//    border-top-left-radius: 0px;
+//    border-bottom-left-radius: 0px;
+//    border-color: #ffffff;
+//    background: #ffffff;
+//    display: inline-block;
+// }
+// .gsib_a {
+//    margin-top: -53px;
+// }
+// .input.gsc-input {
+//    margin-top: -200px;
+//    display: inline-block;
+// }
+
+.gsc-input-box {
+   border-color: none;
+}
+
+.gsc-input-box {
+   border: none;
+   background: none;
+}
+
+input.gsc-input {
+   margin-top: 10px;
+}
