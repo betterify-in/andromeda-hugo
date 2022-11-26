@@ -1,7 +1,5 @@
-{{/*  <script async src="https://cse.google.com/cse.js?cx=f147daef25faa4320">
-</script>
-<div class="gcse-searchbox"></div>
-<div class="gcse-searchresults"></div>  */}}
+{{define "main" }}
+{{ end }}
 
 <script language="Javascript" type="text/javascript">
     function google_search() {
@@ -10,10 +8,8 @@
         'https://www.google.com/search?q=' + query + '+site:' + '{{ .Site.BaseURL | absLangURL }}'
         );
     }
-    </script>
-    
-{{define "main" }}
-{{ end }}
+    </script>  
+
 
 <form id="search" onsubmit="google_search(); return false;">
     <div class="form-group form-group-lg">
