@@ -48,6 +48,12 @@ hasChildren = true
   name = "Privacy"
   url = "privacy/"
   weight = 7
+
+  [[main]]
+  parent = "Pages"
+  name = "RSS Feed"
+  url = "rss-feed/"
+  weight = 8
   
 [[main]]
 name = "Contact"

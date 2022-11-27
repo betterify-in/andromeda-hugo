@@ -1453,3 +1453,6 @@ typewritten-text {
   font-weight: bold;
   color: #fe6019;
   background-color: #FAFAFA; }
+
+.badge {
+  top: -10px; }
