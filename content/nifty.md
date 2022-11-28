@@ -1,8 +1,10 @@
 ---
 title: "Nifty 50"
+date: "2022-10-25"
 layout: "nifty"
 draft: false
-
+# Meta Description
+description: "Nifty 50 Shares Analysis is a Web App that covers all the scrips in the Nifty 50 Index (50 scrips). This Web App caters to the needs of investment in stock market and stock analysis of the Indian Stock Market. This Web App is free to use and we are trying hard to keep it FREE FOREVER."
 contact_image: "images/vectors/contact.png"
 ---
 
@@ -10,7 +12,7 @@ We all at <mark>Betterify</mark> very strongly believe in the Financial Freedom 
 
 <span class="blue">The following Web App caters to the needs of investment in stock market and stock analysis of the Indian Stock Market. This Web App is free to use and we are trying hard to keep it FREE FOREVER.<span>
 
-![Nifty 50 Drawing](https://docs.google.com/drawings/d/1M8VQsH_cnqZ4aOPL8OX_aj0Fa6S9m9w9PSPgV79j3wg/export/png)
+<!-- ![Nifty 50 Drawing](https://docs.google.com/drawings/d/1M8VQsH_cnqZ4aOPL8OX_aj0Fa6S9m9w9PSPgV79j3wg/export/png) -->
 
 Nifty 50 Shares Analysis is a <mark>Web App</mark> that covers all the scrips in the Nifty 50 Index (50 scrips). Please see the App in action below: 
 
@@ -43,27 +45,15 @@ You are <mark>FREE</mark> to embed the Web App in your websites and blogs withou
 ```
 
 {{< rawhtml >}}
-<blockquote class="blockquote mb-0">
+<blockquote class="blockquote mb-4">
   <p>Learning to <mark>code</mark> is useful no matter what your career ambitions are.</p>
   <footer class="blockquote-footer">Arianna Huffington <cite title="Source Title">Founder, The Huffington Post</cite></footer>
 </blockquote>  
 {{< /rawhtml >}}
 
 {{< rawhtml >}}
-<rssapp-imageboard id="0q8J8T8tNdSxaZOH"></rssapp-imageboard><script src="https://widget.rss.app/v1/imageboard.js" type="text/javascript" async></script>
-{{< /rawhtml >}}
-
-{{< rawhtml >}}
-<rssapp-wall id="zlrZcSlbaT28in6A"></rssapp-wall><script src="https://widget.rss.app/v1/wall.js" type="text/javascript" async></script>
-{{< /rawhtml >}}
-
-{{< rawhtml >}}
-<rssapp-ticker id="0q8J8T8tNdSxaZOH"></rssapp-ticker><script src="https://widget.rss.app/v1/ticker.js" type="text/javascript" async></script>
-{{< /rawhtml >}}
-
-{{< rawhtml >}}
 <!-- New Slider -->
-<div id="carouselExampleControls" class="carousel slide card shadow mt-4" data-ride="carousel">
+<div id="carouselExampleControls" class="carousel slide card shadow mb-4" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
       <img class="d-block w-100" src="https://docs.google.com/drawings/d/e/2PACX-1vRS5cx09hhhWYSsFsHNfhNKdcreQsdRY9dLNdm0xNpMj4h0cZOqyzEQO4kADLVi69e3RmV66gApSQSm/pub?w=960&amp;h=600" alt="Financial Management">
@@ -109,3 +99,5 @@ You are <mark>FREE</mark> to embed the Web App in your websites and blogs withou
 }
 </style>
 {{< /rawhtml >}}
+
+{{< ticker >}}

@@ -1,8 +1,10 @@
 ---
 title: "BSE AllCap"
+date: "2022-10-25"
 layout: "bse-allcap"
 draft: false
-
+# Meta Description
+description: "The BSE All Cap Web App caters to the needs of investment in stock market and stock analysis of the Indian Stock Market. This Web App is free to use and we are trying hard to keep it FREE FOREVER."
 contact_image: "images/vectors/contact.png"
 ---
 
@@ -10,7 +12,7 @@ We all at <mark>Betterify</mark> very strongly believe in the Financial Freedom 
 
 <span class="blue">The following Web App caters to the needs of investment in stock market and stock analysis of the Indian Stock Market. This Web App is free to use and we are trying hard to keep it FREE FOREVER.<span>
 
-![BSE All Cap Drawing](https://docs.google.com/drawings/d/1hOAeX36wib0iSK6OmOyxfnMibK8HNosJBVfP-L6vSD0/export/png)
+<!-- ![BSE All Cap Drawing](https://docs.google.com/drawings/d/1hOAeX36wib0iSK6OmOyxfnMibK8HNosJBVfP-L6vSD0/export/png) -->
 
 BSE AllCap Shares Analysis is a <mark>Web App</mark> that covers all the scrips in the BSE AllCap Index (more than 900 scrips). Please see the App in action below: 
 
@@ -43,20 +45,59 @@ You are <mark>FREE</mark> to embed the Web App in your websites and blogs withou
 ```
 
 {{< rawhtml >}}
-<blockquote class="blockquote mb-0">
+<blockquote class="blockquote mb-4">
   <p>Learning to <mark>code</mark> is useful no matter what your career ambitions are.</p>
   <footer class="blockquote-footer">Arianna Huffington <cite title="Source Title">Founder, The Huffington Post</cite></footer>
 </blockquote>  
 {{< /rawhtml >}}
 
 {{< rawhtml >}}
-<rssapp-imageboard id="0q8J8T8tNdSxaZOH"></rssapp-imageboard><script src="https://widget.rss.app/v1/imageboard.js" type="text/javascript" async></script>
+<!-- New Slider -->
+<div id="carouselExampleControls" class="carousel slide card shadow mb-4" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img class="d-block w-100" src="https://docs.google.com/drawings/d/e/2PACX-1vRS5cx09hhhWYSsFsHNfhNKdcreQsdRY9dLNdm0xNpMj4h0cZOqyzEQO4kADLVi69e3RmV66gApSQSm/pub?w=960&amp;h=600" alt="Financial Management">
+      <div class="carousel-caption">
+        <!-- <h3>New York</h3>
+        <p>We love the Big Apple!</p> -->
+        <p><a class="btn btn-lg btn-primary" href="#">Sign Up Today</a></p>
+      </div>
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="https://docs.google.com/drawings/d/e/2PACX-1vSPWPQ5wj_R0_uK_INLJmpiS-xM84j8g1UJcZFAf2ffQvqz6M6kmubLx4tQnrMJeYW_dkc4P7slyzbK/pub?w=960&amp;h=600" alt="Accounting Management">
+      <div class="carousel-caption">
+        <!-- <h3>New York</h3>
+        <p>We love the Big Apple!</p> -->
+        <p><a class="btn btn-lg btn-primary" href="#">Sign Up Today</a></p>
+      </div>
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="https://docs.google.com/drawings/d/e/2PACX-1vTQMEnlPKfcG27XNs6gvLRHTVHhBrNIcLgu1bYYO_8OWHlzxA1upjS8rArf8sUPIQF85R-uJI-s9Nbm/pub?w=960&amp;h=600" alt="Taxation Management">
+      <div class="carousel-caption">
+        <!-- <h3>New York</h3>
+        <p>We love the Big Apple!</p> -->
+        <p><a class="btn btn-lg btn-primary" href="#">Sign Up Today</a></p>
+      </div>
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+<style>
+.carousel-item {
+  margin-top: -30px;
+  margin-bottom: -35px;
+}
+.btn-lg:hover {
+  text-decoration: none !important;
+}
+</style>
 {{< /rawhtml >}}
 
-{{< rawhtml >}}
-<rssapp-wall id="zlrZcSlbaT28in6A"></rssapp-wall><script src="https://widget.rss.app/v1/wall.js" type="text/javascript" async></script>
-{{< /rawhtml >}}
-
-{{< rawhtml >}}
-<rssapp-ticker id="0q8J8T8tNdSxaZOH"></rssapp-ticker><script src="https://widget.rss.app/v1/ticker.js" type="text/javascript" async></script>
-{{< /rawhtml >}}
+{{< ticker >}}

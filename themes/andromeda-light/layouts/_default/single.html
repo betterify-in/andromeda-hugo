@@ -44,11 +44,17 @@
         <div class="mb-4 shareaholic-canvas" data-app="share_buttons" data-app-id="33069982"></div>
         <div class="content">
           {{.Content}}
-        </div>
-
+        </div>   
+        <!-- Tags By Betterify -->
+        {{- $tags := .Language.Params.Taxonomies.tag | default "tags" }}
+        <ul class="post-tags">
+        {{- range ($.GetTerms $tags) }}
+        <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+        {{- end }}
+        </ul>
+        <!-- Tags By Betterify -->         
       </div>
-
-
+      
       {{ if .Site.DisqusShortname }}
       <div class="col-lg-8" data-aos="fade-in">
         <!-- comments -->
@@ -58,7 +64,7 @@
       </div>
       {{ end }}
     </div>
-  </div>
+  </div>  
 </section>
 <!-- end of blog-details -->
 
@@ -79,7 +85,7 @@
       </div>
       {{ end }}
     </div>
-  </div>
+  </div>  
 </section>
 <!-- end of blog-section -->
 

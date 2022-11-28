@@ -3,8 +3,8 @@ title: "RSS Feed"
 date: "2022-11-27"
 layout: "rss feed"
 draft: false
-
-description: "By Using The Service Or Clicking “I Agree”, The User Is Agreeing To Be Bound By This Agreement. If You Are Agreeing To This Agreement On Behalf Of Or For The Benefit Of A Company, Then The User Represents And Warrants That It Has The Necessary Authority To Agree To This Agreement On The Company’s"
+# Meta Description
+description: "We are providing RSS Feed of all our content and Blog Posts. RSS is a web feed that allows users and applications to access updates to websites in a standardized, computer-readable format."
 ---
 
 {{< rawhtml >}}

@@ -54,6 +54,12 @@ hasChildren = true
   name = "RSS Feed"
   url = "rss-feed/"
   weight = 8
+
+  [[main]]
+  parent = "Pages"
+  name = "Tags"
+  url = "tags/"
+  weight = 9
   
 [[main]]
 name = "Contact"

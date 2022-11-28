@@ -3,8 +3,8 @@ title: "About"
 date: "2022-10-25"
 layout: "about"
 draft: false
-
-description: "By Using The Service Or Clicking “I Agree”, The User Is Agreeing To Be Bound By This Agreement. If You Are Agreeing To This Agreement On Behalf Of Or For The Benefit Of A Company, Then The User Represents And Warrants That It Has The Necessary Authority To Agree To This Agreement On The Company’s"
+# Meta Description
+description: "We help Small Businesses, SMBs, Startups, Professionals, and Individuals in Better Management of Finances, Accounts, Investments, and Taxes (FAIT). Let’s Betterify!!"
 
 # who_we_are
 who_we_are:
