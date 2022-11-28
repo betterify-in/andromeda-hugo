@@ -60,6 +60,12 @@ hasChildren = true
   name = "Tags"
   url = "tags/"
   weight = 9
+
+  [[main]]
+  parent = "Pages"
+  name = "Categories"
+  url = "categories/"
+  weight = 10
   
 [[main]]
 name = "Contact"
