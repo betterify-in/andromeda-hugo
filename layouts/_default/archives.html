@@ -1,0 +1,133 @@
+{{/*  {{- define "main" }}
+{{ partial "page-header.html" . }}
+
+
+
+<h1>Archives</h1>
+{{ .Content }}
+
+
+<!-- Beginning of Archives by Date -->
+<h2>By Date</h2>
+<ul class="archives-list">
+	{{ range $name, $taxonomy := .Site.Taxonomies.year }} {{- $cnt := .Count -}}
+	  {{- with $.Site.GetPage (printf "%s" $name) -}}
+          <li><a href="{{ .RelPermalink }}" title="All posts from {{ .Title }}">{{ .Title }}</a> ({{$cnt}})</li>
+	  {{ end }}
+	{{- end -}}
+</ul>
+<!-- End of Archives by Date -->
+
+
+<!-- Beginning of Archives by Date -->
+<section class="section is-fullheight">
+  {{ $type := .Type }}
+  {{ $.Scratch.Set "count" 1 }}
+  
+    {{ range (.Site.RegularPages.GroupByDate "2006" "section" "blog") }}
+      {{ if and (gt .Key 1) (gt (where .Pages "Type" $type) 0) }}
+
+        {{ range (where .Pages "Type" $type) }}
+          {{ if (eq ($.Scratch.Get "count") 1) }}
+            {{ $.Scratch.Set "count" 0 }}
+            <h1 class="title is-4 has-text-weight-normal">{{ .Date.Format "2006" }}</h1>
+          {{ end }}
+        {{ end }}
+
+        {{ $.Scratch.Set "count" 1 }}
+
+          <ul class="article__list">
+          {{ range (where .Pages "Type" $type) }}
+            {{ if (ne .Params.hidden true) }}
+              <li>
+                <a class="is-block" href="{{ .RelPermalink }}">
+                  <span class="has-text-grey-dark">{{ .Date.Format "02 Jan" }}</span> — {{ .Title }}
+                </a>
+              </li>
+            {{ end }}
+          {{ end }}
+          </ul>
+
+    {{ end }}
+  {{ end }}
+</section>
+<!-- End of Archives by Date -->
+
+<!-- Beginning of Archives by Category -->
+<h2>By Category</h2>
+<ul class="archives-list">
+	{{ range $name, $taxonomy := .Site.Taxonomies.categories }} {{- $cnt := .Count -}}
+	  {{- with $.Site.GetPage (printf "/categories/%s" $name) -}}
+          <li><a href="{{ .RelPermalink }}" title="All posts in category &lsquo;{{ .Title }}&rsquo;">{{ .Title }}</a> ({{$cnt}})</li>
+	  {{ end }}
+	{{- end -}}
+</ul>
+<!-- End of Archives by Category -->
+
+<!-- Beginning of Archives by Tags -->
+<h2>By Tag</h2>
+<ul class="archives-list">
+	{{ range $name, $taxonomy := .Site.Taxonomies.tags }} {{- $cnt := .Count -}}
+	  {{- with $.Site.GetPage (printf "/tags/%s" $name) -}}
+          <li><a href="{{ .RelPermalink }}" title="All posts with tag &lsquo;{{ .Title }}&rsquo;">{{ .Title }}</a> ({{$cnt}})</li>
+	  {{ end }}
+	{{- end -}}
+</ul>
+<!-- End of Archives by Tags -->
+
+
+<!-- Beginning of Archives by Date -->
+{{ with .Site.GetPage "section" "post" }}
+{{ range .Data.Pages.GroupByDate "2006-01" }}
+Archives Title and {{ .Key }} markup here
+{{ range .Pages }}
+The rest of your markup goes here
+<section class="archive">
+  <h2>{{ .Key }}</h2>
+  
+  <ul>
+      {{ range .Pages }}
+    <li><time>{{ .Date.Format "Jan 2" }}</time>
+      
+      <br><a href="{{ .Permalink }}" class="permalink">{{ .Title }}</a>
+      
+      {{ if isset .Params "categories" }}
+      <br><span class="post-tags">
+        <span class="prefix">categories:</span> {{ range .Params.categories }}
+          <a href="/categories/{{ . | urlize }}">{{ . }}</a> ·
+        {{ end }}
+      </span>
+      {{ end }}
+      {{ if isset .Params "tags" }}
+      <br><span class="post-tags">
+        <span class="prefix">tags:</span> {{ range .Params.tags }}
+          <a href="/tags/{{ . | urlize }}">{{ . }}</a> ·
+        {{ end }}
+        </span>
+      {{ end }}
+    </li>
+      {{ end }}
+  </ul>
+</section>
+{{ end }}
+{{ end }}
+{{ end }}
+<!-- End of Archives by Date -->
+
+
+<!-- Beginning of Archives by Date -->
+{{ range where .Site.Pages "Section" "post" }}
+  {{ range (.Pages.GroupByDate "2006") }}
+    -year key
+    {{ range (.Pages.GroupByDate "1") }}
+      - month key
+      {{ range .Pages}}
+        {{ .Render "summary" }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+<!-- End of Archives by Date -->
+
+{{ end }}
+  */}}

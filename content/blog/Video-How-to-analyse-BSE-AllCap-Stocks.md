@@ -6,8 +6,8 @@ author_info:
   name: "Betterify"
   image: "images/author/betterify.png"
 type: regular
-tags: ["BSE", "BSEIndia", "BSEAllCap", "Shares", "Stocks", "Index", "Video" ]
-categories: ["Investing", "Money", "YouTube", "How To"]
+tags: ["BSE", "BSE India", "BSE All Cap", "Shares", "Stocks", "Video", "YouTube" ]
+categories: ["Investing", "Money", "Videos", "How To"]
 # meta description
 description: "This video helps in analyzing all BSE All Cap Shares. Want to know how to Analyse BSE All Cap Shares?"
 draft: false

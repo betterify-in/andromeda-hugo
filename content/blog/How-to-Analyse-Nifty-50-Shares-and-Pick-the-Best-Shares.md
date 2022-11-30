@@ -6,7 +6,7 @@ author_info:
   name: "Betterify"
   image: "images/author/betterify.png"
 type: regular
-tags: ["Nifty", "Nifty50", "Stocks", "Shares", "Index"]
+tags: ["Nifty", "Nifty50", "Stocks", "Shares", "NSE"]
 categories: ["Investing", "Money", "How To"]
 # meta description
 description: "This post talks about the analysis of Nifty 50 Shares. Want to know how to Analyse Nifty 50 Shares and Pick the Best Shares?"

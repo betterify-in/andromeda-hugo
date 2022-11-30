@@ -54,3 +54,20 @@ rel = "manifest"
     startLevel = 1
     endLevel = 5
     ordered = false
+
+# [taxonomies]
+# 	tag = "tags"
+# 	category = "categories"
+# 	year = "year"
+# 	month = "month"
+
+# [permalinks]
+#     post = "/post/:year/:month/:slug/"
+#     year = "/post/:slug/"
+#     month = "/post/:slug/"
+
+# [permalinks]
+#     post = "/:year/:month/:slug/"
+#     year = "/:slug/"
+#     month = "/:slug/"
+	

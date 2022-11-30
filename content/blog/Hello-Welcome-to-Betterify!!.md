@@ -6,10 +6,10 @@ author_info:
   name: "Betterify"
   image: "images/author/betterify.png"
 type: regular
-tags: ["Google", "Docs", "Drawing", "Apps Script"]
-categories: ["Investing", "Personal Finance", "How To"]
+tags: ["Google", "Google Docs", "Google Drawing"]
+categories: ["Investing", "Personal Finance", "How To", "Google"]
 # meta description
-description: "At Betterify we help small companies and startups in Better Financial and Wealth Management. Want to know how to? Welcome to Betterify!!"
+description: "At Betterify we help small companies and startups in Better Financial and Wealth Management. Want to know how we help? Welcome to Betterify!!"
 draft: false
 ---
 {{< toc >}}
@@ -55,5 +55,3 @@ Please subscribe to our YouTube Channel:
 >An investment in <mark>knowledge</mark> pays the best interest.
 >
 > <cite>Benjamin Franklin, Founding Father of the United States</cite>
-
-{{< gslides src="https://docs.google.com/presentation/d/e/2PACX-1vSEQs0OYJZcQfiAzRnCg5HhcFRUA-_-s-UnviE722TWv4ygn10LGaarOKF-EStbzw8r83RGfzdaUKHl/embed?start=false&loop=false&delayms=3000" >}}
