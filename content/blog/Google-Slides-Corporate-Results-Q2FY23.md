@@ -18,7 +18,12 @@ We present the <mark>Financial Results</mark> through the following [Google Slid
 {{< gslides src="https://docs.google.com/presentation/d/e/2PACX-1vSEQs0OYJZcQfiAzRnCg5HhcFRUA-_-s-UnviE722TWv4ygn10LGaarOKF-EStbzw8r83RGfzdaUKHl/embed?start=false&loop=false&delayms=3000" >}}
 
 ## Google Workspace
-Want to learn how teams of all sizes connect, create, and collaborate with the help of [Google Workspace](https://workspace.google.com/intl/en_in/)?
+{{< alert class="info" >}}
+<h4 class="alert-heading">Google Workspace</h4>
+  <p>Want to learn how teams of all sizes connect, create, and collaborate with the help of <a href="https://workspace.google.com/intl/en_in/" target="_blank" class="alert-link">Google Workspace</a>?</p>
+  <hr>
+  <p class="mb-0">Google Workspace is a collection of cloud computing, productivity and collaboration tools, software and products developed and marketed by <a href="https://www.google.com/" target="_blank" class="alert-link">Google</a>.</p>
+{{</ alert >}}
 
 ## Quotes inspire Us
 >An investment in <mark>knowledge</mark> pays the best interest.
