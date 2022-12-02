@@ -63,6 +63,13 @@ You warrant and represent that:
 
 You hereby grant Betterify a non-exclusive license to use, reproduce, edit and authorize others to use, reproduce and edit any of your Comments in any and all forms, formats or media.
 
+{{< alert class="info" >}}
+<h4 class="alert-heading">Content and Code License:</h4>
+  <p>This is a <a href="https://gohugo.io/" target="_blank" class="alert-link">Hugo</a> Website. Hugo is the worl’d fastest framework for building websites. The basic theme of this website is designed by <a href="https://themefisher.com/" target="_blank" class="alert-link">Themefisher</a> and Developed by <a href="https://gethugothemes.com/" target="_blank" class="alert-link">Gethugothemes</a> under MIT license. You are free to copy, download, or fork this Website under the same License. THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</p>
+  <hr>
+  <p class="mb-0">Our vision is to make <mark>financial literacy</mark> FREE. All the content of this website is shared with that spirit. So you are free to use the information and content of this website under the MIT License by giving all rights and credit to <a href="https://github.com/betterify-in/andromeda-hugo" target="_blank" class="alert-link">Betterify</a>.</p>
+{{</ alert >}}
+
 #### Hyperlinking:
 The following organizations may link to our Website without prior written approval:
 
@@ -120,20 +127,6 @@ We do not ensure that the information on this website is correct, we do not warr
 </div>
 {{< /rawhtml >}}
 
-{{< rawhtml >}}
-<div class="alert alert-primary" role="alert">
-  We last updated the <mark>Privacy Policy</mark> on 9th November 2022.
-</div>
-{{< /rawhtml >}}
-
-{{< rawhtml >}}
-<rssapp-imageboard id="0q8J8T8tNdSxaZOH"></rssapp-imageboard><script src="https://widget.rss.app/v1/imageboard.js" type="text/javascript" async></script>
-{{< /rawhtml >}}
-
-{{< rawhtml >}}
-<rssapp-wall id="zlrZcSlbaT28in6A"></rssapp-wall><script src="https://widget.rss.app/v1/wall.js" type="text/javascript" async></script>
-{{< /rawhtml >}}
-
-{{< rawhtml >}}
-<rssapp-ticker id="0q8J8T8tNdSxaZOH"></rssapp-ticker><script src="https://widget.rss.app/v1/ticker.js" type="text/javascript" async></script>
-{{< /rawhtml >}}
+{{< alert class="alert alert-primary" role="alert" >}}
+We last updated the <mark>Privacy Policy</mark> on 2nd December 2022.
+{{</ alert >}}
