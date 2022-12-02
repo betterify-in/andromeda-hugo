@@ -7,7 +7,7 @@ draft: false
 description: "By Using The Service Or Clicking “I Agree”, The User Is Agreeing To Be Bound By This Agreement. If You Are Agreeing To This Agreement On Behalf Of Or For The Benefit Of A Company, Then The User Represents And Warrants That It Has The Necessary Authority To Agree To This Agreement On The Company’s"
 ---
 
-Welcome to <mark>Betterify!!</mark>
+Welcome to Betterify!! Please read and understand the the following <mark>Privacy Policy</mark>:
 ### 1. Privacy
 We do not identify users of this site. The site does use cookies, though.
 
@@ -67,7 +67,7 @@ You hereby grant Betterify a non-exclusive license to use, reproduce, edit and a
 <h4 class="alert-heading">Content and Code License:</h4>
   <p>This is a <a href="https://gohugo.io/" target="_blank" class="alert-link">Hugo</a> Website. Hugo is the worl’d fastest framework for building websites. The basic theme of this website is designed by <a href="https://themefisher.com/" target="_blank" class="alert-link">Themefisher</a> and Developed by <a href="https://gethugothemes.com/" target="_blank" class="alert-link">Gethugothemes</a> under MIT license. You are free to copy, download, or fork this Website under the same License. THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</p>
   <hr>
-  <p class="mb-0">Our vision is to make <mark>financial literacy</mark> FREE. All the content of this website is shared with that spirit. So you are free to use the information and content of this website under the MIT License by giving all rights and credit to <a href="https://github.com/betterify-in/andromeda-hugo" target="_blank" class="alert-link">Betterify</a>.</p>
+  <p class="mb-0">Our aim is to make <mark>financial literacy</mark> FREE. All the content of this website is shared with that spirit. So the content of this website is available under <a href="https://github.com/betterify-in/andromeda-hugo" target="_blank" class="alert-link">CC BY-NC-SA</a>. So you are free to use the information and content of this website under the above License by giving all rights and credit to <a href="https://github.com/betterify-in/andromeda-hugo" target="_blank" class="alert-link">Betterify</a>.</p>
 {{</ alert >}}
 
 #### Hyperlinking:
