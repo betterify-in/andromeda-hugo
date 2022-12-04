@@ -1504,3 +1504,7 @@ typewritten-text {
 .terms-tags a:hover,
 .paginav a:hover {
   background-color: #FE6019; }
+
+.content a {
+  text-decoration: none;
+  border-bottom: 1.5px solid #FE6019; }

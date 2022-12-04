@@ -265,3 +265,8 @@ typewritten-text {
    //background: var(--border);
    background-color: $primary-color;
 }
+
+.content a {
+   text-decoration: none;
+   border-bottom: 1.5px solid $primary-color;
+}

@@ -7,7 +7,7 @@ author_info:
   image: "images/author/betterify.png"
 type: featured
 tags: ["Results", "Q2FY23", "M&M", "Mahindra and Mahindra", "Nifty", "Nifty50", "Stocks", "Shares",]
-categories: ["Investing", "Money", "Results Analysis"]
+categories: ["Investing", "Money", "Results Analysis", "Companies"]
 # meta description
 description: "Mahindra and Mahindra (M&M) Q2FY23 results are announced on 11/11/22. This post and video tries to share the analysis of the results"
 draft: false
