@@ -30,6 +30,6 @@ We present the <mark>Financial Results</mark> through the following [Google Slid
 >
 > <cite>Benjamin Franklin, Founding Father of the United States</cite>
 
-{{< gallery dir="/images/portfolio/" auto-slide="2000" width="480px" height="300px" arrow-left="fa-angle-double-left" arrow-right="fa-angle-double-right" >}}
+<!-- {{< gallery dir="/images/portfolio/" auto-slide="2000" width="480px" height="300px" arrow-left="fa-angle-double-left" arrow-right="fa-angle-double-right" >}}
 
-{{< gist spf13 7896402 >}}
+{{< gist spf13 7896402 >}} -->
