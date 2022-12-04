@@ -51,7 +51,7 @@ features:
     content: "As investment management experts or <mark>Investment Management</mark> advisors we provide services to a wide array of clients ranging from affluent to high-net-worth and ultra-high-net-worth individuals and families."
   - icon: "las la-users"
     title: "Taxation Management"
-    content: "We’re here to offer the best support, to help you troubleshoot any of you Business, Accounting and <mark>Taxation</mark> issues. You can trust us to solve your Accounting Problems into Opportunities."
+    content: "We’re here to offer the best support, to help you troubleshoot any of you Business, Accounting and <mark>Taxation</mark> issues. You can trust us to solve your Accounting Problems into Opportunities."        
 
 
 # intro_video

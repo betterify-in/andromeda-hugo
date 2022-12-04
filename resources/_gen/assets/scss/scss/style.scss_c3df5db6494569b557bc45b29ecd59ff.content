@@ -1343,8 +1343,10 @@ footer.footer {
   text-decoration-color: #FE6019;
   text-underline-offset: 5px; }
 
-blockquote:hover {
-  background-color: #FE6019; }
+blockquote {
+  background-color: #ffe6db; }
+  blockquote:hover {
+    background-color: #FE6019; }
 
 body::selection {
   background-color: #e34701;

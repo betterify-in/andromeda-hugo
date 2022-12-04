@@ -19,6 +19,7 @@
 
 // Bockquote Hover Background
 blockquote {
+    background-color: lighten(saturate($primary-color, 0.87), 38.24);
    &:hover {
     background-color: $primary-color; // Added by Betterify
     //background-color: lighten(saturate($primary-color, 0.87), 38.24);
