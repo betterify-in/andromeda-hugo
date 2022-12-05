@@ -55,6 +55,9 @@ rel = "manifest"
     endLevel = 5
     ordered = false
 
+[taxonomies]
+  series = 'series' # Hugo’s Open Graph template requirement 
+
 # [taxonomies]
 # 	tag = "tags"
 # 	category = "categories"

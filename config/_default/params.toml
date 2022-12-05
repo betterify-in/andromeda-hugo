@@ -89,3 +89,7 @@ link = "https://www.youtube.com/channel/UCiyLlAY3_T1XiADSThStYGA"
 title = "GitHub"
 icon = "lab la-github-square" # https://icons8.com/line-awesome
 link = "https://github.com/betterify-in"
+
+[params]
+  description = 'We help in Better Management of Finances, Accounts, Investments, and Taxes (FAIT). Let’s Betterify!!'
+  images = ['images/logo.png']
