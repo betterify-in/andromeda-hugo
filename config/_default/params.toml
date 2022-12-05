@@ -92,7 +92,7 @@ link = "https://github.com/betterify-in"
 
 [params]
   description = 'We help in Better Management of Finances, Accounts, Investments, and Taxes (FAIT). Let’s Betterify!!'
-  images = ['images/logo.svg'] # Hugo’s Twitter Card template requirement
+  images = ['https://www.betterify.in/images/blog/joshua-mayo-HASoyURgPMY-unsplash_hu86a644c996b0d42fa45019c058914ec4_221995_8ea00231ccfdf34a8778089812d6d662.webp'] # Hugo’s Twitter Card template requirement
 
 [twitter]
   card = "summary"
