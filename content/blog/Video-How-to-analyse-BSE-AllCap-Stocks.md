@@ -2,6 +2,7 @@
 date: "2022-11-09"
 title: "Video: How to Analyse BSE All Cap Shares?"
 image: "images/blog/firmbee-com-dAmHWsRYP9c-unsplash.jpg"
+images: ["images/blog/firmbee-com-dAmHWsRYP9c-unsplash.jpg"]
 author_info: 
   name: "Betterify"
   image: "images/author/betterify.png"

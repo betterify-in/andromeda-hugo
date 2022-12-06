@@ -2,7 +2,7 @@
 date: "2022-11-11"
 title: "Mahindra and Mahindra (M&M) Q2FY23 Results: The YoY Profit Increased by 21%"
 image: "images/blog/joshua-mayo-HASoyURgPMY-unsplash.jpg"
-images: ["https://www.betterify.in/images/blog/joshua-mayo-HASoyURgPMY-unsplash_hu86a644c996b0d42fa45019c058914ec4_221995_8ea00231ccfdf34a8778089812d6d662.webp"]
+images: ["images/blog/joshua-mayo-HASoyURgPMY-unsplash.jpg"]
 author_info: 
   name: "Betterify"
   image: "images/author/betterify.png"

@@ -1,7 +1,8 @@
 ---
 date: "2022-10-29"
 title: "Hello, Welcome to Betterify!!"
-image: "`images/blog/01.jpg`"
+image: "images/blog/01.jpg"
+images: ["images/blog/austin-distel-rxpThOwuVgE-unsplash.jpg"]
 author_info: 
   name: "Betterify"
   image: "images/author/betterify.png"
