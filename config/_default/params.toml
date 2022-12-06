@@ -95,17 +95,17 @@ link = "https://github.com/betterify-in"
 #   twitter_cards = true 
 #   images = ['https://littlekendra.com/images/manuel-CANL3bzp6wU-unsplash.jpg'] # Hugo’s Twitter Card template requirement
 
-# [twitter]
-#   card = "summary"
-#   site = "@BetterifyIn"
-#   title = "We help you Betterify!!"
-#   description = "We help in Better Management of Finances, Accounts, Investments, and Taxes (FAIT). Let’s Betterify!!"
-#   images = ["https://littlekendra.com/images/manuel-CANL3bzp6wU-unsplash.jpg"]
+[twitter_summary]
+  card = "summary"
+  site = "@BetterifyIn"
+  title = "We help you Betterify!!"
+  description = "We help in Better Management of Finances, Accounts, Investments, and Taxes (FAIT). Let’s Betterify!!"
+  images = ["https://littlekendra.com/images/manuel-CANL3bzp6wU-unsplash.jpg"]
 
-# [twitter2]
-#   card = "summary_large_image"
-#   site = "@BetterifyIn"
-#   creator = "@BetterifyIn"
-#   title = "We help you Betterify!!"
-#   description = "We help in Better Management of Finances, Accounts, Investments, and Taxes (FAIT). Let’s Betterify!!"
-#   image = "https://littlekendra.com/images/manuel-CANL3bzp6wU-unsplash.jpg"
+[twitter_large]
+  card = "summary_large_image"
+  site = "@BetterifyIn"
+  creator = "@AvadhootMe"
+  title = "We help you Betterify!!"
+  description = "We help in Better Management of Finances, Accounts, Investments, and Taxes (FAIT). Let’s Betterify!!"
+  images = ["https://littlekendra.com/images/manuel-CANL3bzp6wU-unsplash.jpg"]

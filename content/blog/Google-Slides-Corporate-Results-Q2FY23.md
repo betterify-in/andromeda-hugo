@@ -2,6 +2,7 @@
 date: "2022-11-30"
 title: "Google Slides: Corporate Results Q2FY23"
 image: "images/blog/austin-distel-rxpThOwuVgE-unsplash.jpg"
+twImage: "https://vninja.net/img/DesigningRisk.jpeg"
 author_info: 
   name: "Betterify"
   image: "images/author/betterify.png"
