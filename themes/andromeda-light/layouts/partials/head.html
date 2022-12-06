@@ -37,7 +37,7 @@
 <meta name="msapplication-TileColor" content="{{site.Params.variables.primary_color | default `#da532c`}}">
 <meta name="theme-color" content="{{site.Params.variables.body_color | default `#FE6019` }}">
 
-<meta name="twitter:image" content="{{ .Params.twImage }}">
+
 {{ "<!-- Open Graph image and Twitter Card metadata -->" | safeHTML }}
 {{ $image_path := .Params.image | default site.Params.image -}}
 {{ $image_path_local :=  printf "static/%s" $image_path -}}
