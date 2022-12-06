@@ -7,7 +7,7 @@ paginate = "6"
 # post excerpt
 summaryLength = "10"
 # google analytics
-googleAnalytics = "341031213" # example: UA-123-45, for more info, read the article https://support.google.com/analytics/answer/1008080?hl=en
+googleAnalytics = "G-3ZTYKP665K" # example: UA-123-45, for more info, read the article https://support.google.com/analytics/answer/1008080?hl=en
 # disqus short name
 disqusShortname = "betterify" # get your shortname form here : https://disqus.com
 
