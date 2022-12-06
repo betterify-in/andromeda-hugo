@@ -56,16 +56,31 @@ rel = "manifest"
     ordered = false
 
 [social]
-  twitter = 'BetterifyIn'
+  twitter = "BetterifyIn"
 
 [params]
-  description = 'We help in Better Management of Finances, Accounts, Investments, and Taxes (FAIT). Let’s Betterify!!'
+  description = "We help in Better Management of Finances, Accounts, Investments, and Taxes (FAIT). Let’s Betterify!!"
   # twitter_cards = true 
-  images = ['https://littlekendra.com/images/manuel-CANL3bzp6wU-unsplash.jpg'] # Hugo’s Twitter Card template requirement
-  title = 'Betterify - Better Financial Management'
+  images = ["https://littlekendra.com/images/manuel-CANL3bzp6wU-unsplash.jpg"] # Hugo’s Twitter Card template requirement
+  title = "Betterify - Better Financial Management"
 
-# [taxonomies]
-#   series = 'series' # Hugo’s Open Graph template requirement 
+[taxonomies]
+  series = 'series' # Hugo’s Open Graph template requirement 
+
+# [twitter_summary]
+#   card = "summary"
+#   site = "@BetterifyIn"
+#   title = "We help you Betterify!!"
+#   description = "We help in Better Management of Finances, Accounts, Investments, and Taxes (FAIT). Let’s Betterify!!"
+#   images = ["https://littlekendra.com/images/manuel-CANL3bzp6wU-unsplash.jpg"]
+
+# [twitter_large]
+#   card = "summary_large_image"
+#   site = "@BetterifyIn"
+#   creator = "@AvadhootMe"
+#   title = "We help you Betterify!!"
+#   description = "We help in Better Management of Finances, Accounts, Investments, and Taxes (FAIT). Let’s Betterify!!"
+#   images = ["https://littlekendra.com/images/manuel-CANL3bzp6wU-unsplash.jpg"]
 
 # [taxonomies]
 # 	tag = "tags"

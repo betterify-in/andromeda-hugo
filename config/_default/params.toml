@@ -9,7 +9,7 @@ logo_width = "240x"
 logo_text = "Betterify"
 # OpenGraph / Twitter Card metadata
 description = "We help in Better Management of Finances, Accounts, Investments, and Taxes (FAIT). Let’s Betterify!!"
-author = "Themefisher"
+author = "Betterify"
 image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
 
 # footer information
@@ -89,18 +89,3 @@ link = "https://www.youtube.com/channel/UCiyLlAY3_T1XiADSThStYGA"
 title = "GitHub"
 icon = "lab la-github-square" # https://icons8.com/line-awesome
 link = "https://github.com/betterify-in"
-
-# [twitter_summary]
-#   card = "summary"
-#   site = "@BetterifyIn"
-#   title = "We help you Betterify!!"
-#   description = "We help in Better Management of Finances, Accounts, Investments, and Taxes (FAIT). Let’s Betterify!!"
-#   images = ["https://littlekendra.com/images/manuel-CANL3bzp6wU-unsplash.jpg"]
-
-# [twitter_large]
-#   card = "summary_large_image"
-#   site = "@BetterifyIn"
-#   creator = "@AvadhootMe"
-#   title = "We help you Betterify!!"
-#   description = "We help in Better Management of Finances, Accounts, Investments, and Taxes (FAIT). Let’s Betterify!!"
-#   images = ["https://littlekendra.com/images/manuel-CANL3bzp6wU-unsplash.jpg"]
