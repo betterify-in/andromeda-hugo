@@ -18,7 +18,7 @@ Nifty 50 Shares Analysis is a <mark>Web App</mark> that covers all the scrips in
 
 {{< rawhtml >}}
 <div class="card shadow mt-2 mb-4">
-<iframe allowfullscreen="" height="400px" src="https://bit.ly/3gXL9al" style="border: 0px #ffffff none;" width="100%"></iframe>
+<iframe allowfullscreen="" height="400px" src="https://script.google.com/macros/s/AKfycbwA4SZqQqR8EtDr17mXHOjagIfh9CdMFQV-8XidRhXzYSKr1UUmUgJrQGCYSvPh_CBXEQ/exec" style="border: 0px #ffffff none;" width="100%"></iframe>
 </div>
 {{< /rawhtml >}}
 
@@ -32,7 +32,7 @@ Nifty 50 Shares Analysis is a <mark>Web App</mark> that covers all the scrips in
 You may also like to see the App in action in the browser. It is device responsive and mobile friendly:
 
 {{< rawhtml >}}
-<a href="https://bit.ly/3gXL9al" target="_blank" class="btn btn-primary btn-lg mb-4">See in Browser <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" width="30px" height="30px" fill="currentColor">
+<a href="https://script.google.com/macros/s/AKfycbwA4SZqQqR8EtDr17mXHOjagIfh9CdMFQV-8XidRhXzYSKr1UUmUgJrQGCYSvPh_CBXEQ/exec" target="_blank" class="btn btn-primary btn-lg mb-4">See in Browser <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" width="30px" height="30px" fill="currentColor">
   <path fill-rule="evenodd" d="M10.293 15.707a1 1 0 010-1.414L14.586 10l-4.293-4.293a1 1 0 111.414-1.414l5 5a1 1 0 010 1.414l-5 5a1 1 0 01-1.414 0z" clip-rule="evenodd" />
   <path fill-rule="evenodd" d="M4.293 15.707a1 1 0 010-1.414L8.586 10 4.293 5.707a1 1 0 011.414-1.414l5 5a1 1 0 010 1.414l-5 5a1 1 0 01-1.414 0z" clip-rule="evenodd" />
 </svg></a>
@@ -41,7 +41,7 @@ You may also like to see the App in action in the browser. It is device responsi
 You are <mark>FREE</mark> to embed the Web App in your websites and blogs without modifying the <mark>Copyrights</mark>. Find the embed code below:
 
 ```javascript
-<iframe allowfullscreen="" height="400px" src="https://bit.ly/3gXL9al" style="border: 0px #ffffff none;" width="100%"></iframe>
+<iframe allowfullscreen="" height="400px" src="https://script.google.com/macros/s/AKfycbwA4SZqQqR8EtDr17mXHOjagIfh9CdMFQV-8XidRhXzYSKr1UUmUgJrQGCYSvPh_CBXEQ/exec" style="border: 0px #ffffff none;" width="100%"></iframe>
 ```
 
 {{< rawhtml >}}
