@@ -2,6 +2,6 @@ baseURL = 'https://www.betterify.in/'
 languageCode = 'en-us'
 title = 'Betterify - Better Financial Management'
 
-enableRobotsTXT = false
+enableRobotsTXT = true
 
 buildDraft = false

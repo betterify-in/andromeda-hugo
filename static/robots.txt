@@ -1,5 +1,4 @@
 User-agent: *
-Disallow: /tags/
-Disallow: /categories/
+
 
 Sitemap: https://www.betterify.in/sitemap.xml

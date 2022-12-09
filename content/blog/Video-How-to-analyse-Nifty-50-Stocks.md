@@ -2,7 +2,7 @@
 date: "2022-11-09"
 title: "Video: How to Analyse Nifty 50 Shares?"
 image: "images/blog/austin-distel-jpHw8ndwJ_Q-unsplash.jpg"
-images: ["images/blog/austin-distel-jpHw8ndwJ_Q-unsplash.jpg"]
+images: ["https://source.unsplash.com/4siwRamtFAk.jpg"]
 author_info: 
   name: "Betterify"
   image: "images/author/betterify.png"
