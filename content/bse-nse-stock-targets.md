@@ -18,7 +18,7 @@ BSE NSE Stock Targets is a <mark>Web App</mark> that gives the Targets of the st
 
 {{< rawhtml >}}
 <div class="card shadow mt-2 mb-4">
-<iframe allowfullscreen="" height="400px" src="https://script.google.com/macros/s/AKfycbxb08BVM5Wpd6pGxmLL_5Z2LrnMm2Mp_AwTjTwhI87L7rCefXsKnKlzzbm0dn91vAUTzw/exec" style="border: 0px #ffffff none;" width="100%"></iframe>
+<iframe allowfullscreen="" height="400px" src="https://script.google.com/macros/s/AKfycbyYjqt1cm-cNUg-PHbhYH5I8s_VXc3K5DeluKUo_RA21UqMu9ElPOMSZcG4epSXnWWYAQ/exec" style="border: 0px #ffffff none;" width="100%"></iframe>
 </div>
 {{< /rawhtml >}}
 

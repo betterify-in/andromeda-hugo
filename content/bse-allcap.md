@@ -18,7 +18,7 @@ BSE AllCap Shares Analysis is a <mark>Web App</mark> that covers all the scrips 
 
 {{< rawhtml >}}
 <div class="card shadow mt-2 mb-4">
-<iframe allowfullscreen="" height="400px" src="https://script.google.com/macros/s/AKfycbwiVPTW7ny7wYbeXNK09IFl4dks3LYiTE-zlv71C756rBdMN5YV1Efe8sJX9JLMq9MC/exec" style="border: 0px #ffffff none;" width="100%"></iframe>
+<iframe allowfullscreen="" height="400px" src="https://script.google.com/macros/s/AKfycbynt_6E2R9hqNPssmRKFBqlLrpy4d1ox1o7xuE1fmB0cAjS6nmoN0vsPdqGKKcJWFAZ7Q/exec" style="border: 0px #ffffff none;" width="100%"></iframe>
 </div>
 {{< /rawhtml >}}
 

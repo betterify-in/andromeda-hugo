@@ -18,7 +18,7 @@ Nifty 50 Shares Analysis is a <mark>Web App</mark> that covers all the scrips in
 
 {{< rawhtml >}}
 <div class="card shadow mt-2 mb-4">
-<iframe allowfullscreen="" height="400px" src="https://script.google.com/macros/s/AKfycbwA4SZqQqR8EtDr17mXHOjagIfh9CdMFQV-8XidRhXzYSKr1UUmUgJrQGCYSvPh_CBXEQ/exec" style="border: 0px #ffffff none;" width="100%"></iframe>
+<iframe allowfullscreen="" height="400px" src="https://script.google.com/macros/s/AKfycbxFLGgfqNBEVN0QOhBEO_kH4axhBGgaLWToBT13Nl8GyW1UTXUc6tRK5wgHez9rcFM_0w/exec" style="border: 0px #ffffff none;" width="100%"></iframe>
 </div>
 {{< /rawhtml >}}
 
