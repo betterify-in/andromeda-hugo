@@ -69,6 +69,10 @@ rel = "manifest"
 [taxonomies]
   series = 'series' # Hugo’s Open Graph template requirement 
   tag = "tags" # Tags and categories don’t work if not added
+  # category = "categories"
+  # year = "year"
+	# month = "month"
+  # mainSections= "blog"
 
 # [twitter_summary]
 #   card = "summary"
@@ -100,4 +104,10 @@ rel = "manifest"
 #     post = "/:year/:month/:slug/"
 #     year = "/:slug/"
 #     month = "/:slug/"
+
+# [permalinks]
+#     # Optional. Change the permalink format for the 'post' content type.
+#     # The format shown here is the same one Jekyll/Octopress uses by default.
+#     post = "/:section/:slug"
+#     mainSections= "blog"
 	
