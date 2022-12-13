@@ -1,5 +1,7 @@
 ---
 date: "2022-10-29"
+# year: "2022"
+# month: "2022/10"
 title: "Hello, Welcome to Betterify!!"
 image: "images/blog/01.jpg"
 images: ["https://source.unsplash.com/VWcPlbHglYc.jpg"]

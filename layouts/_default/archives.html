@@ -11,7 +11,7 @@
 <!-- Beginning of Archives by Date -->
 <h2>By Date</h2>
 <ul class="archives-list">
-	{{ range $name, $taxonomy := .Site.Taxonomies.date }} {{- $cnt := .Count -}}
+	{{ range $name, $taxonomy := .Site.Taxonomies.month }} {{- $cnt := .Count -}}
 	  {{- with $.Site.GetPage (printf "%s" $name) -}}
           <li><a href="{{ .RelPermalink }}" title="All posts from {{ .Title }}">{{ .Title }}</a> ({{$cnt}})</li>
 	  {{ end }}
@@ -59,4 +59,3 @@
 <!-- End of Archives by Date -->
 
 {{ end }}  */}}
-

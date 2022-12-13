@@ -101,9 +101,9 @@ rel = "manifest"
 #     month = "/post/:slug/"
 
 # [permalinks]
-#     post = "/:year/:month/:slug/"
-#     year = "/:slug/"
-#     month = "/:slug/"
+#     blog = "/blog/:year/:month/:slug/"
+#     year = "/blog/:slug/"
+#     month = "/blog/:slug/"
 
 # [permalinks]
 #     # Optional. Change the permalink format for the 'post' content type.

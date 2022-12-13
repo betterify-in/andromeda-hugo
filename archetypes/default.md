@@ -1,7 +1,8 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-# images: []
+# year: ["{{ now.Format "2006" }}"]
+# month: ["{{ now.Format "2006/01" }}"]
 image:
 draft: true
 ---
