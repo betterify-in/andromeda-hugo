@@ -22,7 +22,7 @@ The board of directors of Paytm (One97 Communication) has approved the buyback o
 <h4 class="alert-heading">What is a Buyback?</h4>
   <p>A stock buyback is when a public company uses cash to buy shares of its own stock in the open market from the existing shareholders usually at a price higher than market price.</p>
   <hr>
-<h4 class="alert-heading">Whay a Buyback?</h4>
+<h4 class="alert-heading">Why a Buyback?</h4>
   <p class="mb-0">The main reason of buyback is to support the price and create value for shareholders. A buyback allows companies to invest in themselves. When the company buys back its own shares, the number of shares outstanding in the market reduces.</p>
 {{</ alert >}}
 
@@ -82,7 +82,7 @@ The maximum buyback is up to 1.62% of the paid-up Equity Share capital of the Co
 
 {{< alert class="info" >}}
 <h4 class="alert-heading">Paytm stock price journey: IPO to today</h4>
-  <p>The IPO date of Paytm was from 8th November 2021 to 10th November 2021. The price band was from ₹ 2,080 to ₹ 2,150 per Share. The face value of the share was ₹ 1 per Share. The lot size was 6 Shares. And the listing date was 18th November 2021. On the listing day, Paytm shares closed at Rs 1,564.15, down by Rs 585.85 from the issue price of Rs 2,150.</p>
+  <p>The IPO date of Paytm was from 8th November 2021 to 10th November 2021. The price band was from ₹ 2,080 to ₹ 2,150 per Share. The face value of the share was ₹ 1 per Share. The lot size was 6 Shares. And the listing date was 18th November 2021. On the listing day, Paytm shares closed at ₹ 1,564.15, down by ₹ 585.85 from the issue price of ₹ 2,150.</p>
   <hr>
   <p class="mb-0 font-weight-bold">And today the Paytm stock price is down by 75% from the issue price. The buyback strategy was to halt this price deterioration. <a href="https://www.google.com/finance/quote/PAYTM:NSE?hl=en" target="_blank" class="alert-link">Paytm Stock Price</a></p>
 {{</ alert >}}
