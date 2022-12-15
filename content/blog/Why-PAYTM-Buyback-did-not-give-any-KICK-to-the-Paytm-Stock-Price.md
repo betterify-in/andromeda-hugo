@@ -2,7 +2,7 @@
 date: "2022-12-14"
 title: "PAYTM: Why Paytm Buyback did not give any Kick to the Paytm Stock Price?"
 image: "images/blog/aidan-hancock-dA0SA67EgOQ-unsplash.jpg"
-images: ["https://source.unsplash.com/A0SA67EgOQ.jpg"]
+images: ["https://source.unsplash.com/HPM0CDfNtx0.jpg"]
 author_info: 
   name: "Betterify"
   image: "images/author/betterify.png"
