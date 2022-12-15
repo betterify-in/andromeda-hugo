@@ -78,6 +78,8 @@ The buyback price is up to ₹ 810 per Share and not at the rate. That means the
 
 The maximum buyback is up to 1.62% of the paid-up Equity Share capital of the Company, which is a very small portion compared to the total outstanding shares in the market.
 
+<p class="yellow">This buyback is not a sufficient measure to take the price of the Paytm stock up but it will surely give some kind of a break from the further fall.</p>
+
 ![Paytm Chart](https://docs.google.com/drawings/d/1xCPuiw7rkkgiA3oiQwoXKdnKdeuEFdrbltBSngc6GcQ/export/png)
 
 {{< alert class="info" >}}
