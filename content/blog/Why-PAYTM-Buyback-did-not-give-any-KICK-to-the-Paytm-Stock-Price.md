@@ -70,13 +70,15 @@ March 31, 2022.
 
 * The proceeds of the initial public offering of the Company, which are earmarked for the purposes mentioned in the Prospectus dated November 11, 2021 of the Company, and funds borrowed from banks and financial institutions, shall not be utilised by the Company for the purpose of the Buyback.
 
-## Why the buyback could not halt the price fall of Paytm?
+## Why the buyback could not halt the price fall of Paytm Stock?
 
 The buyback announcement of Paytm could not cheer the investors and the same could not halt the price fall. The stock witnessed 2% price fall on 14th December and closed at ₹ 529.80 down by 1.78%.
 
 The buyback price is up to ₹ 810 per Share and not at the rate. That means they can buy at whatever lower price available.
 
 The maximum buyback is up to 1.62% of the paid-up Equity Share capital of the Company, which is a very small portion compared to the total outstanding shares in the market.
+
+<p class="blue">The Founder & CEO of Paytm Vijay Shekhar Sharma in their own <a href="https://paytm.com/blog/investor-relations/our-board-unanimously-approves-buyback-of-equity-shares-from-open-market/" target="_blank">blog</a> said, “Over the last year, there is clear business momentum, and we are ahead of our plans. Looking at the monetisation opportunities in our core payment and credit business, we feel confident to generate healthy revenues and cash flows to invest in sales, marketing and technology. We value our shareholders and their journey with us in the public markets. I believe that a buyback at this stage will be immensely beneficial for our stakeholders and will drive long-term shareholder value.”</p>
 
 <p class="yellow">This buyback is not a sufficient measure to take the price of the Paytm stock up but it will surely give some kind of a break from the further fall.</p>
 
@@ -97,3 +99,55 @@ The maximum buyback is up to 1.62% of the paid-up Equity Share capital of the Co
   <footer class="blockquote-footer">Phillip Fisher <cite title="Source Title">American Stock Investor</cite></footer>
 </blockquote>  
 {{< /rawhtml >}}
+
+<!-- {{< details "This is the summary" >}}
+Collapsed text
+{{< /details >}}
+
+{{< rawhtml >}}
+<div class="accordion" id="accordionExample">
+  <div class="card">
+    <div class="card-header" id="headingOne">
+      <h2 class="mb-0">
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+          Collapsible Group Item #1
+        </button>
+      </h2>
+    </div>
+
+    <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
+      <div class="card-body">
+        Some placeholder content for the first accordion panel. This panel is shown by default, thanks to the <code>.show</code> class.
+      </div>
+    </div>
+  </div>
+  <div class="card">
+    <div class="card-header" id="headingTwo">
+      <h2 class="mb-0">
+        <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+          Collapsible Group Item #2
+        </button>
+      </h2>
+    </div>
+    <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
+      <div class="card-body">
+        Some placeholder content for the second accordion panel. This panel is hidden by default.
+      </div>
+    </div>
+  </div>
+  <div class="card">
+    <div class="card-header" id="headingThree">
+      <h2 class="mb-0">
+        <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+          Collapsible Group Item #3
+        </button>
+      </h2>
+    </div>
+    <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+      <div class="card-body">
+        And lastly, the placeholder content for the third and final accordion panel. This panel is hidden by default.
+      </div>
+    </div>
+  </div>
+</div>
+{{< /rawhtml >}} -->
