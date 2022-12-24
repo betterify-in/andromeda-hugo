@@ -266,7 +266,19 @@ typewritten-text {
    background-color: $primary-color;
 }
 
+// Content CSS
 .content a {
    text-decoration: none;
    border-bottom: 1.5px solid $primary-color;
 }
+
+// Details CSS
+details {   
+   margin-left: 20px;
+}
+
+// summary {
+//    margin: 0 20px;
+//    padding: 10px 20px;
+//    margin-inline-start: 20px;
+// }

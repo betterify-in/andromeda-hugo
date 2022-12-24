@@ -1508,3 +1508,6 @@ typewritten-text {
 .content a {
   text-decoration: none;
   border-bottom: 1.5px solid #FE6019; }
+
+details {
+  margin-left: 20px; }

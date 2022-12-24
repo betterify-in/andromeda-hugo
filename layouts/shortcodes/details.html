@@ -1,9 +1,8 @@
-<div class="card shadow google-slides mt-4 mb-4" id="Container">
-  <details>
+<p><details>
     <summary>{{ (.Get 0) | markdownify }}</summary>
     {{ .Inner | markdownify }}
-  </details>
-</DIV>
+</details></p>
+
 
 {{/*    
 {{< details "This is the summary" >}}
