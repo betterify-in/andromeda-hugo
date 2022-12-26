@@ -35,6 +35,42 @@ AUTHOR WEBSITE: https://gethugothemes.com
     <meta name="shareaholic:site_id" content="d2ce099ae0c967994d6d6b2446d90dbb" />
     <script data-cfasync="false" async src="https://cdn.shareaholic.net/assets/pub/shareaholic.js"></script>
     <!-- END SHAREAHOLIC CODE -->
+	<!-- Beginning of Algolia Plugin -->
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@algolia/algoliasearch-netlify-frontend@1/dist/algoliasearchNetlify.css" />
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@algolia/algoliasearch-netlify-frontend@1/dist/algoliasearchNetlify.js"></script>
+    <script type="text/javascript">
+         algoliasearchNetlify({
+            appId: '4YKPNK28MR',
+            apiKey: '<YOUR_ALGOLIA_SEARCH_API_KEY>',
+            siteId: 'b02ceece-7a1b-42e8-8f59-2f8c5b4b2e45',
+            branch: 'main',
+            selector: 'div#search',
+			// Optional
+			analytics: true,                              
+			hitsPerPage: 5,                               
+			poweredBy: true,                              
+			placeholder: 'Search ...',                     
+			openOnFocus: true,
+			// Theme
+			theme: {
+				mark: '#5468FF',                               
+				background: '#edf6f5',                      
+				selected: '#111432',                        
+				text: '#d6d6e7',                             
+				colorSourceIcon: '#d6d6e7',
+				border: '1px solid #0aa8a7',                  
+		  }
+         });
+    </script>
+	<style> 
+		#search {      
+		  padding: 10px 10px 10px 10px;
+		  text-align: center;
+		  display: flex;  
+		  justify-content: center;                                  
+	}   
+	</style>
+    <!-- End of Algolia Plugin -->
 </head>
 
 <body>
