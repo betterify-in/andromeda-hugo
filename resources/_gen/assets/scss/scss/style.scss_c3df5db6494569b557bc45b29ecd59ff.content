@@ -1511,3 +1511,8 @@ typewritten-text {
 
 details {
   margin-left: 20px; }
+
+#search {
+  padding: 10px 10px 10px 10px;
+  text-align: center;
+  justify-content: center; }

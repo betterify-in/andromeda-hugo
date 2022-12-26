@@ -167,8 +167,8 @@ table {
 // Mobile menu dropdown
 header {
   .dropdown-menu {
-    height: auto !important;
-  }
+    height: auto !important;    
+  }  
 }
 
 // Nav items hover
@@ -282,3 +282,11 @@ details {
 //    padding: 10px 20px;
 //    margin-inline-start: 20px;
 // }
+
+// Algolia Search CSS
+#search {      
+   padding: 10px 10px 10px 10px;
+   text-align: center;
+   //display: flex;  
+   justify-content: center;                       
+}
