@@ -1,0 +1,22 @@
+{{ $Mahindra := getCSV "," "https://docs.google.com/spreadsheets/d/e/2PACX-1vQDFcsd5ZXy3mRi0XAT0oX79jhG-lqXUruQCz4-Xf-hn6MlD7LJlcrBd5bOb7mhqBsNf2g6Xr8lUZ0i/pub?gid=249361434&single=true&output=csv" }}
+    <table class="table table-hover">
+        {{ range $Mahindra }}
+    <thead>
+      {{/*  <tr>
+        <th scope="col">Company</th>
+        <th scope="col">Price</th>
+        <th scope="col">Change</th>
+        <th scope="col">Change (%)</th>
+      </tr>  */}}
+    </thead>
+    <tbody>
+      <tr>
+        <td>{{ index . 1 }}</td>
+        <td>{{ index . 2 }}</td>
+        <td>{{ index . 3 }}</td>
+        <td>{{ index . 4 }}</td>
+      </tr>   
+         
+    </tbody>
+    {{ end }}
+  </table>   

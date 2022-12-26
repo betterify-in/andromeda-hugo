@@ -110,4 +110,12 @@ rel = "manifest"
 #     # The format shown here is the same one Jekyll/Octopress uses by default.
 #     post = "/:section/:slug"
 #     mainSections= "blog"
-	
+
+# [caches]
+#   [caches.getcsv] # A value of -1 will cache the file forever, 0 turns the cache off, or you can specify a time.
+#     maxAge = 0
+#   [caches.getjson] # Setting the maxAge to 14h, for example, means that if more than 14 hours have elapsed since your last build, your remote data file will be updated on your next build.
+#     maxAge = "14h"
+
+[caches.getcsv] # A value of -1 will cache the file forever, 0 turns the cache off, or you can specify a time.
+    maxAge = 0

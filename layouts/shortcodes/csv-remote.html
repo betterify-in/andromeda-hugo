@@ -1,28 +1,7 @@
 {{/*  {{ range getCSV "," "https://docs.google.com/spreadsheets/d/e/2PACX-1vQDFcsd5ZXy3mRi0XAT0oX79jhG-lqXUruQCz4-Xf-hn6MlD7LJlcrBd5bOb7mhqBsNf2g6Xr8lUZ0i/pub?output=csv" }}  */}}
 
 
-    {{/*  {{ $Quote := getCSV "," "https://docs.google.com/spreadsheets/d/e/2PACX-1vQDFcsd5ZXy3mRi0XAT0oX79jhG-lqXUruQCz4-Xf-hn6MlD7LJlcrBd5bOb7mhqBsNf2g6Xr8lUZ0i/pub?output=csv" }}
-    <table class="table table-hover">
-        {{ range $Quote }}
-    <thead>
-      <tr>
-        <th scope="col">Company</th>
-        <th scope="col">Price</th>
-        <th scope="col">Change</th>
-        <th scope="col">Change (%)</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>{{ .Company }}</td>
-        <td>{{ .Price }}</td>
-        <td>{{ .Change }}</td>
-        <td>{{ .Changepct }}</td>
-      </tr>   
-         
-    </tbody>
-    {{ end }}
-  </table>     */}}
+    
   
 
 {{/*  {{ $apples := getCSV "," "https://docs.google.com/spreadsheets/d/e/2PACX-1vRvHH3C21_53AEiR9MYxdG91a78L6a5pZWhj1kuqWM9ynYtBMQVGGBSmydyCpichyE9ewmhasFEnT73/pub?output=csv" }}  */}}
@@ -48,3 +27,24 @@
   </tr>   
   {{ end }}     
 </tbody>  */}}
+
+  <table>
+    <thead>
+      <tr>
+      <th>Name</th>
+      <th>Position</th>
+      <th>Salary</th>
+      </tr>
+    </thead>
+    <tbody>
+    {{ $url := "https://docs.google.com/spreadsheets/d/e/2PACX-1vSZcL3NsdvLBBYjdAtW3DtEXp60AyAL16hFJCiUG0ryw_61PnXWq8k25ALuRefjXZN3DjkkXYPHVn1i/pub?gid=1461390689&single=true&output=csv" }}
+    {{ $sep := "," }}
+    {{ range $i, $r := getCSV $sep $url }}    
+      <tr>
+        <td>{{ index $r 1 }}</td>
+        <td>{{ index $r 2 }}</td>
+        <td>{{ index $r 3 }}</td>        
+      </tr>      
+    {{ end }}
+    </tbody>
+  </table>
