@@ -4,7 +4,7 @@ date: 2022-12-16T16:33:31+05:30
 # year: ["2022"]
 # month: ["2022/12"]
 image:
-draft: false
+draft: true
 ---
 
 {{< details "This is the summary" >}}
