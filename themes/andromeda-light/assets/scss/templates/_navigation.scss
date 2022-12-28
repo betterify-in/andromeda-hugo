@@ -19,7 +19,7 @@ header {
   width: 100%;
   top: 0;
   left: 0;
-  z-index: 5;
+  z-index: 5; // For Algolia Search to Work
   background-color: $white;
   padding: 30px 0;
   transition: .15s ease-out;
