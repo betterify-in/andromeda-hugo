@@ -61,7 +61,7 @@ intro_video:
   title: "Watch <mark>Betterify TV</mark>"
   description: "We bring you news on Finance, Money, and Markets. <br> We share ideas and tips on Better <mark>Financial Management</mark> and Better Wealth Management."
   video_url: "https://www.youtube.com/embed/EQOhA_l2bRo" #https://www.youtube.com/embed/dyZcRRWiuuw
-  video_thumbnail: "images/video-popup.jpg"
+  video_thumbnail: "images/video-popup.png"
 
 
 # how_it_works

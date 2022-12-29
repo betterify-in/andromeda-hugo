@@ -62,7 +62,7 @@ rel = "manifest"
   mainSections = ["posts"]
   description = "We help in Better Management of Finances, Accounts, Investments, and Taxes (FAIT). Let’s Betterify!!"
   twitter_cards = true 
-  images = ["https://res.cloudinary.com/dnbgvuilt/image/upload/v1670586727/Twitter_Card_Betterify_lemidm.png"] # Hugo’s Twitter Card template requirement
+  images = ["https://res.cloudinary.com/dnbgvuilt/image/upload/v1672305395/Twitter_Card_Betterify_1_tze6dr.png"] # Hugo’s Twitter Card template requirement
   title = "Betterify - Better Financial Management"
   # tag = "tags"
 
