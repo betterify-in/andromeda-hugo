@@ -76,7 +76,7 @@ how_it_works:
   - subtitle: "Secondary Speciality"
     title: "How to make money in the <mark>Stock Markets</mark>?"
     description: "Our secondary speciality is to share share market news. What are the best stocks and companies to invest in?"
-    image: "images/features-02.png"
+    image: "images/features-02.png" #images/features-02.png
 
 
 # testimonials
