@@ -20,10 +20,10 @@ draft: false
 
 <u>**Month**</u> | <u>**Date**</u> |  <u>**Day**</u> |  <u>**Holiday**</u>
 --- | --- | --- | ---
-January | 26-Jan-23 | Thursday | Republic Day
-February | 18-Feb-23 | Saturday | <mark>Mahashivratri</mark>
-March | 07-Mar-23 | Tuesday | Holi
-March | 30-Mar-23 | Thursday | Ram Navami
+January | 26/Jan/23 | Thursday | Republic Day
+February | 18/Feb/23 | Saturday | <mark>Mahashivratri</mark>
+March | 07 Mar 23 | Tuesday | Holi
+March | 30 Mar 23 | Thursday | Ram Navami
 April | 04-Apr-23 | Tuesday | Mahavir Jayanti
 April | 07-Apr-23 | Friday | Good Friday
 April | 14-Apr-23 | Friday | Dr. Baba Saheb Ambedkar Jayanti
