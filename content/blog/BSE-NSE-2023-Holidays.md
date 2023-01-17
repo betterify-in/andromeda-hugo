@@ -22,23 +22,23 @@ draft: false
 --- | --- | --- | ---
 January | 26/Jan/23 | Thursday | Republic Day
 February | 18/Feb/23 | Saturday | <mark>Mahashivratri</mark>
-March | 07 Mar 23 | Tuesday | Holi
-March | 30 Mar 23 | Thursday | Ram Navami
-April | 04-Apr-23 | Tuesday | Mahavir Jayanti
-April | 07-Apr-23 | Friday | Good Friday
-April | 14-Apr-23 | Friday | Dr. Baba Saheb Ambedkar Jayanti
-April | 22-Apr-23 | Saturday | <mark>Id-Ul-Fitr (Ramzan ID)</mark>
-May | 01-May-23 | Monday | Maharashtra Day
-June | 28-Jun-23 | Wednesday | Bakri Id
-July | 29-Jul-23 | Saturday | <mark>Moharram</mark>
-August | 15-Aug-23 | Tuesday | Independence Day
-September | 19-Sep-23 | Tuesday | Ganesh Chaturthi
-October | 02-Oct-23 | Monday | Mahatma Gandhi Jayanti
-October | 24-Oct-23 | Tuesday | Dussehra
-November | 12-Nov-23 | Sunday | <mark>Diwali-Laxmi Pujan *</mark>
-November | 14-Nov-23 | Tuesday | Diwali-Balipratipada
-November | 27-Nov-23 | Monday | Gurunanak Jayanti
-December | 25-Dec-23 | Monday | Christmas
+March | 07/Mar/23 | Tuesday | Holi
+March | 30/Mar/23 | Thursday | Ram Navami
+April | 04/Apr/23 | Tuesday | Mahavir Jayanti
+April | 07/Apr/23 | Friday | Good Friday
+April | 14/Apr/23 | Friday | Dr. Baba Saheb Ambedkar Jayanti
+April | 22/Apr/23 | Saturday | <mark>Id-Ul-Fitr (Ramzan ID)</mark>
+May | 01/May/23 | Monday | Maharashtra Day
+June | 28/Jun/23 | Wednesday | Bakri Id
+July | 29/Jul/23 | Saturday | <mark>Moharram</mark>
+August | 15/Aug/23 | Tuesday | Independence Day
+September | 19/Sep/23 | Tuesday | Ganesh Chaturthi
+October | 02/Oct/23 | Monday | Mahatma Gandhi Jayanti
+October | 24/Oct/23 | Tuesday | Dussehra
+November | 12/Nov/23 | Sunday | <mark>Diwali-Laxmi Pujan *</mark>
+November | 14/Nov/23 | Tuesday | Diwali-Balipratipada
+November | 27/Nov/23 | Monday | Gurunanak Jayanti
+December | 25/Dec/23 | Monday | Christmas
 
 <p class="yellow">* The Muhurat Trading day timings will be notified closer to Diwali by the Exchanges.</p>
 
