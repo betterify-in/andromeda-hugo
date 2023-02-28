@@ -19,7 +19,7 @@ footer_info = "We help in Better Management of Finances, Accounts, Investments, 
 contact_form_action = "https://formspree.io/f/xbjbawve" # contact form works with https://formspree.io
 
 # copyright
-copyright = "© [Betterify](https://www.betterify.in/) | Designed By [Themefisher](https://themefisher.com/) and Developed By [Gethugothemes](https://gethugothemes.com/) | Proudly Hosted On [Netlify](https://www.netlify.com/)"
+copyright = "© [Betterify](https://www.betterify.in/) | [Hugo](https://gohugo.io/) Website Designed By [Themefisher](https://themefisher.com/) and Developed By [Gethugothemes](https://gethugothemes.com/) | Proudly Hosted On [Netlify](https://www.netlify.com/)"
 
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>" 
 custom_script= "" 
