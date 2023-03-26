@@ -1,19 +1,30 @@
 ---
-date: "2023-01-17"
+date: 2023-01-17
 # year: "2022"
 # month: "2022/10"
-title: "BSE NSE 2023 Holidays!!"
-image: "images/blog/boliviainteligente-AHw8R4TlC34-unsplash.jpg"
-images: ["https://source.unsplash.com/AHw8R4TlC34.jpg"]
-author_info: 
-  name: "Betterify"
-  image: "images/author/betterify.png"
+title: BSE NSE 2023 Holidays!!
+image: /images/blog/new_year_2023.jpg
+images:
+  - https://source.unsplash.com/AHw8R4TlC34.jpg
+author_info:
+  name: Betterify
+  image: images/author/betterify.png
 type: regular
-tags: ["BSE", "NSE", "Holidays", "Public Holidays"]
-categories: ["Investing", "Personal Finance", "How To", "Google"]
+tags:
+  - BSE
+  - NSE
+  - Holidays
+  - Public Holidays
+categories:
+  - Investing
+  - Personal Finance
+  - How To
+  - Google
 # meta description
-description: "At Betterify we help small companies and startups in Better Financial and Wealth Management. Want to know how we help? Welcome to Betterify!!"
+description: At Betterify we help small companies and startups in Better Financial and
+  Wealth Management. Want to know how we help? Welcome to Betterify!!
 draft: false
+preview: /assets/images/blog/new_year_2023.jpg
 ---
 
 # BSE NSE 2023 Holidays!!
