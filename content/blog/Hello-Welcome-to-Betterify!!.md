@@ -1,19 +1,30 @@
 ---
-date: "2022-10-29"
+date: 2022-10-29
 # year: "2022"
 # month: "2022/10"
-title: "Hello, Welcome to Betterify!!"
-image: "images/blog/01.jpg"
-images: ["https://source.unsplash.com/VWcPlbHglYc.jpg"]
-author_info: 
-  name: "Betterify"
-  image: "images/author/betterify.png"
+title: Hello, Welcome to Betterify!!
+image: images/blog/hello.jpg
+images:
+  - https://source.unsplash.com/VWcPlbHglYc.jpg
+author_info:
+  name: Betterify
+  image: images/author/betterify.png
 type: regular
-tags: ["Google", "Google Docs", "Google Drawing"]
-categories: ["Investing", "Personal Finance", "How To", "Google"]
+tags:
+  - Google
+  - Google Docs
+  - Google Drawing
+categories:
+  - Investing
+  - Personal Finance
+  - How To
+  - Google
 # meta description
-description: "At Betterify we help small companies and startups in Better Financial and Wealth Management. Want to know how we help? Welcome to Betterify!!"
+description: At Betterify we help small companies and startups in Better Financial and
+  Wealth Management. Want to know how we help? Welcome to Betterify!!
 draft: false
+slug: betterify
+preview: /assets/images/blog/hello.jpg
 ---
 {{< toc >}}
 # Welcome!!

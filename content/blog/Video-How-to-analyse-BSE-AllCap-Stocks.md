@@ -1,17 +1,32 @@
 ---
-date: "2022-11-09"
+date: 2022-11-09
 title: "Video: How to Analyse BSE All Cap Shares?"
-image: "images/blog/firmbee-com-dAmHWsRYP9c-unsplash.jpg"
-images: ["https://source.unsplash.com/tvzykmBf3r0.jpg"]
-author_info: 
-  name: "Betterify"
-  image: "images/author/betterify.png"
+image: images/blog/video_streaming.jpg
+images:
+  - https://source.unsplash.com/tvzykmBf3r0.jpg
+author_info:
+  name: Betterify
+  image: images/author/betterify.png
 type: regular
-tags: ["BSE", "BSE India", "BSE All Cap", "Shares", "Stocks", "Video", "YouTube" ]
-categories: ["Investing", "Money", "Videos", "How To"]
+tags:
+  - BSE
+  - BSE India
+  - BSE All Cap
+  - Shares
+  - Stocks
+  - Video
+  - YouTube
+categories:
+  - Investing
+  - Money
+  - Videos
+  - How To
 # meta description
-description: "This video helps in analyzing all BSE All Cap Shares. Want to know how to Analyse BSE All Cap Shares?"
+description: This video helps in analyzing all BSE All Cap Shares. Want to know how to
+  Analyse BSE All Cap Shares?
 draft: false
+slug: video-analyse-bse-cap-shares
+preview: /assets/images/blog/video_streaming.jpg
 ---
 
 The following [YouTube](https://www.youtube.com/channel/UCiyLlAY3_T1XiADSThStYGA) video explains how to analyse BSE All Cap Shares?:

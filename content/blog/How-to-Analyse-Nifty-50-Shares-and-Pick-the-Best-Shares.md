@@ -1,17 +1,29 @@
 ---
-date: "2022-10-31"
-title: "How to Analyse Nifty 50 Shares and Pick the Best Shares?"
-image: "images/blog/joshua-mayo-HASoyURgPMY-unsplash.jpg"
-images: ["https://source.unsplash.com/hpjSkU2UYSU.jpg"]
-author_info: 
-  name: "Betterify"
-  image: "images/author/betterify.png"
+date: 2022-10-31
+title: How to Analyse Nifty 50 Shares and Pick the Best Shares?
+image: images/blog/analysis.jpg
+images: 
+  - https://source.unsplash.com/hpjSkU2UYSU.jpg
+author_info:
+  name: Betterify
+  image: images/author/betterify.png
 type: regular
-tags: ["Nifty", "Nifty50", "Stocks", "Shares", "NSE"]
-categories: ["Investing", "Money", "How To"]
+tags:
+  - Nifty
+  - Nifty50
+  - Stocks
+  - Shares
+  - NSE
+categories:
+  - Investing
+  - Money
+  - How To
 # meta description
-description: "This post talks about the analysis of Nifty 50 Shares. Want to know how to Analyse Nifty 50 Shares and Pick the Best Shares?"
+description: This post talks about the analysis of Nifty 50 Shares. Want to know how to
+  Analyse Nifty 50 Shares and Pick the Best Shares?
 draft: false
+slug: analyse-nifty-50-shares-pick-shares
+preview: /assets/images/blog/analysis.jpg
 ---
 
 Have you ever thought of analysing the Nifty 50 shares to pick the best ones out of them?

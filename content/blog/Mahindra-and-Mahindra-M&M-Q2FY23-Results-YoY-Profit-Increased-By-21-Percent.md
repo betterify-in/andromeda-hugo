@@ -1,17 +1,33 @@
 ---
-date: "2022-11-11"
-title: "Mahindra and Mahindra (M&M) Q2FY23 Results: The YoY Profit Increased by 21%"
-image: "images/blog/joshua-mayo-HASoyURgPMY-unsplash.jpg"
-images: ["https://source.unsplash.com/InWI1lteYfU.jpg"]
-author_info: 
-  name: "Betterify"
-  image: "images/author/betterify.png"
+date: 2022-11-11
+title: In Q2FY23 Mahindra and Mahindra YoY Profit Increased by 21%
+image: images/blog/growth_analysis.jpg
+images:
+  - https://source.unsplash.com/InWI1lteYfU.jpg
+author_info:
+  name: Betterify
+  image: images/author/betterify.png
 type: featured
-tags: ["Results", "Q2FY23", "M&M", "Mahindra and Mahindra", "Nifty", "Nifty50", "Stocks", "Shares",]
-categories: ["Investing", "Money", "Results Analysis", "Companies"]
+tags:
+  - Results
+  - Q2FY23
+  - M&M
+  - Mahindra and Mahindra
+  - Nifty
+  - Nifty50
+  - Stocks
+  - Shares
+categories:
+  - Investing
+  - Money
+  - Results Analysis
+  - Companies
 # meta description
-description: "Mahindra and Mahindra (M&M) Q2FY23 results are announced on 11/11/22. This post and video tries to share the analysis of the results"
+description: Mahindra and Mahindra (M&M) Q2FY23 results are announced on 11/11/22. This
+  post and video tries to share the analysis of the results
 draft: false
+slug: q2fy23-mahindra-mahindra-yoy-profit-increased-21
+preview: /assets/images/blog/growth_analysis.jpg
 ---
 
 Mahindra and Mahindra (M&M) Q2FY23 results are announced today. The results are submitted to the exchanges today, 11th November 2022.
