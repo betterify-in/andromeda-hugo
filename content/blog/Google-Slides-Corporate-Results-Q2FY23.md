@@ -1,17 +1,31 @@
 ---
-date: "2022-11-30"
+date: 2022-11-30
 title: "Google Slides: Corporate Results Q2FY23"
-image: "images/blog/austin-distel-rxpThOwuVgE-unsplash.jpg"
-images: ["https://source.unsplash.com/bzqU01v-G54.jpg"]
-author_info: 
-  name: "Betterify"
-  image: "images/author/betterify.png"
+image: images/blog/finance_two.jpg
+images:
+  - https://source.unsplash.com/bzqU01v-G54.jpg
+author_info:
+  name: Betterify
+  image: images/author/betterify.png
 type: regular
-tags: ["Google", "Google Docs", "Google Slides", "Results", "Financial Results", "Q2FY23"]
-categories: ["Investing", "Corporate Results", "Google Workspace", "Google"]
+tags:
+  - Google
+  - Google Docs
+  - Google Slides
+  - Results
+  - Financial Results
+  - Q2FY23
+categories:
+  - Investing
+  - Corporate Results
+  - Google Workspace
+  - Google
 # meta description
-description: "At Betterify we help small companies and startups in Better Financial and Wealth Management. Want to know how we help? Welcome to Betterify!!"
+description: At Betterify we help small companies and startups in Better Financial and
+  Wealth Management. Want to know how we help? Welcome to Betterify!!
 draft: false
+slug: google-slides-corporate-results-q2fy23
+preview: /assets/images/blog/finance_two.jpg
 ---
 ## Corporate Results
 We present the <mark>Financial Results</mark> through the following [Google Slides](https://www.google.com/slides/about/) for the period Q2FY23:

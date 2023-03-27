@@ -1,17 +1,31 @@
 ---
-date: "2022-12-14"
-title: "Paytm: Why Paytm Buyback did not give any Kick to the Paytm Stock Price?"
-image: "images/blog/aidan-hancock-dA0SA67EgOQ-unsplash.jpg"
-images: ["https://source.unsplash.com/HPM0CDfNtx0.jpg"]
-author_info: 
-  name: "Betterify"
-  image: "images/author/betterify.png"
+date: 2022-12-14
+title: Why Paytm Buyback did not give any Kick to the Stock Price?
+image: images/blog/business_decisions.jpg
+images:
+  - https://source.unsplash.com/AHw8R4TlC34.jpg
+author_info:
+  name: Betterify
+  image: images/author/betterify.png
 type: regular
-tags: ["PAYTM", "Buyback", "One97 Communications", "Shares", "Stocks"]
-categories: ["Investing", "Money", "Buyback", "How To"]
+tags:
+  - PAYTM
+  - Buyback
+  - One97 Communications
+  - Shares
+  - Stocks
+categories:
+  - Investing
+  - Money
+  - Buyback
+  - How To
 # meta description
-description: "This article explains the Buyback decison of Paytm. And it also tries to analyse as to why the buyback decison did not give any kick to the Paytm Stock Price?"
+description: This article explains the Buyback decison of Paytm. And it also tries to
+  analyse as to why the buyback decison did not give any kick to the Paytm Stock
+  Price?
 draft: false
+slug: paytm-buyback-give-kick-stock-price
+preview: /assets/images/blog/business_decisions.jpg
 ---
 
 The board of directors of Paytm (One97 Communication) has approved the buyback of the shares of the company. This was approved in the meeting held on 13th December 2022. The certified copy of the resolution is [here](https://www.bseindia.com/xml-data/corpfiling/AttachLive/711ad7c5-5087-4e64-b0c3-3047e45dd98d.pdf).
