@@ -13,7 +13,7 @@ author = "Betterify"
 image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
 
 # footer information
-footer_info = "We help in Better Management of Finances, Accounts, Investments, and Taxes (FAIT). Let’s Betterify!!"
+footer_info = "We help in Better Management of Finances, Accounts, Investments, and Taxes (FAIT). <marker>Let’s Betterify!!</marker>"
 
 # contact form action
 contact_form_action = "https://formspree.io/f/xbjbawve" # contact form works with https://formspree.io

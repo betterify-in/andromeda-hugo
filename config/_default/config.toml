@@ -69,7 +69,7 @@ rel = "manifest"
 [taxonomies]
   series = 'series' # Hugo’s Open Graph template requirement 
   tag = "tags" # Tags and categories don’t work if not added
-  # category = "categories"
+  category = "categories" # Tags and categories don’t work if not added
   # year = "year"
 	# month = "month"
   # mainSections= "blog"
