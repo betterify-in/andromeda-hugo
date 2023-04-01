@@ -24,7 +24,7 @@ Nifty 50 Shares Analysis is a <mark>Web App</mark> that covers all the scrips in
 
 {{< rawhtml >}}
 <div class="card bd-callout bd-callout-info shadow">
-<h4 id="conveying-meaning-to-assistive-technologies">Nifty 50 Shares Analysis</h4>
+<h4 id="conveying-meaning-to-assistive-technologies"><marker>Nifty 50 Shares Analysis<marker></h4>
 <p class="yellow">The NIFTY 50 is a diversified 50 stock index accounting for 13 sectors of the economy. It is used for a variety of purposes such as benchmarking fund portfolios, index based derivatives and index funds. The NIFTY 50 Index represents about 62% of the free float market capitalization of the stocks listed on NSE as on September 30, 2022. The total traded value of NIFTY 50 index constituents for the last six months ending September 2022 is approximately 41% of the traded value of all stocks on the NSE.</p>
 </div>
 {{< /rawhtml >}}

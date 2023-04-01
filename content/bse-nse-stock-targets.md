@@ -24,8 +24,8 @@ BSE NSE Stock Targets is a <mark>Web App</mark> that gives the Targets of the st
 
 {{< rawhtml >}}
 <div class="card bd-callout bd-callout-info shadow">
-<h4 id="conveying-meaning-to-assistive-technologies">Disclaimer on Targets or Recommendations:</h4>
-<p class="yellow">The targets, views, and recommendations made above are those of the individual analysts or brokering companies and not of Betterify. We are just collating the information to help the investors from various public resources and brokering companies. Please consult your broker or financial representative or investment advisor before executing any trade or making any <b>Investment</b>.</p>
+<h4 id="conveying-meaning-to-assistive-technologies"><marker>Disclaimer on Targets or Recommendations:</marker></h4>
+<p class="yellow">The targets, views, and recommendations made above are those of the individual analysts or brokering companies and not of Betterify. We are just collating the information to help the investors from various public resources and brokering companies. <marker>Please consult your broker or financial representative or investment advisor before executing any trade or making any <b>Investment</b>.</marker></p>
 </div>
 {{< /rawhtml >}}
 

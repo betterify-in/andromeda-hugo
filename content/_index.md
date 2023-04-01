@@ -1,7 +1,7 @@
 ---
 # banner
 banner:
-  title: "We help in <mark>Better Management</mark> of Finances, Accounts, Investments, and Taxes (FAIT). <typewritten-text repeat>Let’s Betterify!!</typewritten-text>"
+  title: "We help in <mark>Better Management</mark> of Finances, Accounts, <marker>Investments</marker>, and Taxes (FAIT). <typewritten-text repeat>Let’s Betterify!!</typewritten-text>"
   button: "Betterify TV"
   button_link: "https://www.youtube.com/channel/UCiyLlAY3_T1XiADSThStYGA"
   image: "images/banner-app.png"
@@ -35,7 +35,7 @@ features:
   enable: true
   subtitle: "Financial Wellness"
   title: "Better Financial and <mark>Wealth Management</mark>"
-  description: "<mark>Financial Wellness</mark> gives us economic freedom. It helps us to manage our economic life. <br>It helps us in planning and managing our current and future financial needs and obligations."
+  description: "<mark>Financial Wellness</mark> gives us economic freedom. It helps us to manage our economic life. <br><marker>It helps us in planning and managing our current and future financial needs and obligations.</marker>"
   features_blocks:
   - icon: "las la-user"
     title: "Wealth Management"
@@ -59,7 +59,7 @@ intro_video:
   enable: true
   subtitle: "Short Intro Video"
   title: "Watch <mark>Betterify TV</mark>"
-  description: "We bring you news on Finance, Money, and Markets. <br> We share ideas and tips on Better <mark>Financial Management</mark> and Better Wealth Management."
+  description: "We bring you news on Finance, Money, and Markets. <br> We share ideas and tips on Better <mark>Financial Management</mark> and <marker>Better Wealth Management.</marker>"
   video_url: "https://www.youtube.com/embed/EQOhA_l2bRo" #https://www.youtube.com/embed/dyZcRRWiuuw
   video_thumbnail: "images/video-popup.png"
 
@@ -70,12 +70,12 @@ how_it_works:
   block:
   - subtitle: "Primary Speciality"
     title: "You will not miss anything on <mark>Business News</mark>"
-    description: "Our primary speciality is to share business news and economic news. All that is related to <mark>SMBs and startups</mark>."
+    description: "Our primary speciality is to share <marker>business news and economic news</marker>. All that is related to <mark>SMBs and startups</mark>."
     image: "images/features-01.png"
 
   - subtitle: "Secondary Speciality"
     title: "How to make money in the <mark>Stock Markets</mark>?"
-    description: "Our secondary speciality is to share share market news. What are the best stocks and companies to invest in?"
+    description: "Our secondary speciality is to <marker>share share market news</marker>. What are the best stocks and companies to invest in?"
     image: "images/features-02.png" #images/features-02.png
 
 
@@ -84,7 +84,7 @@ testimonials:
   enable: true
   subtitle: "Inspiration!!"
   title: "Quotes inspire us to <mark>achieve more</mark>"
-  description: "Following quotes of great achievers inspire us and help us to achieve <br>more in the areas of <mark>Financial Management</mark> and Wealth Management."
+  description: "Following quotes of great achievers inspire us and help us to achieve <br>more in the areas of <mark>Financial Management</mark> and <marker>Wealth Management</marker>."
   image_left: "images/testimonials-01.png"
   image_right: "images/testimonials-02.png"
   
