@@ -47,6 +47,13 @@ body::-webkit-scrollbar-thumb {
    //border-radius: 10px;
 }
 
+// Features Card
+.features-card {
+   //background-color: #F6FF33;
+   background-color: lighten($primary-color, 43);
+   
+}
+
 // Features Card Hover
 .features-card:hover {
    //background-color: #F6FF33;
@@ -115,6 +122,13 @@ table {
    margin-bottom: 4.25rem;
    margin-top: 2.25rem;
 }
+
+th {
+   //height: 50px;
+   font-weight: bold;
+   //text-align: left;
+   background-color: #FFE6DB;
+ }
 
 // Markdown Callout Card
 .bd-callout-info {
@@ -274,8 +288,14 @@ typewritten-text {
 
 // Details CSS
 details {   
-   margin-left: 20px;
+   //margin-left: 20px;
+   background: #f3f3f3;
+   margin-bottom: 10px;
+   padding: .5rem 1rem; 
+   color: #000000;   
 }
+
+
 
 // summary {
 //    margin: 0 20px;

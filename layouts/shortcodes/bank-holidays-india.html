@@ -1,0 +1,25 @@
+{{ $India := getCSV "," "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-Oa1HsBulZ1JmFENynC5yXWlnzLR1q5pbV6eR4W9RRC06kHbN-k5u47KrM7xl9DXtigQBc0eMVF3s/pub?output=csv" }}
+    <table class="table table-hover">
+        {{ range $India }}
+    <thead>
+      {{/*  <tr>
+        <th scope="col">Company</th>
+        <th scope="col">Price</th>
+        <th scope="col">Change</th>
+        <th scope="col">Change (%)</th>
+      </tr>  */}}
+    </thead>
+    <tbody>
+      <tr> 
+        <td style="font-weight:bold">{{ index . 0 }}</td>
+      </tr>
+      <tr>
+        <td>{{ index . 0 }}</td>
+        <td>{{ index . 1 }}</td>
+        <td>{{ index . 2 }}</td>
+        <td>{{ index . 4 }}</td>
+      </tr>   
+         
+    </tbody>
+    {{ end }}
+  </table>   

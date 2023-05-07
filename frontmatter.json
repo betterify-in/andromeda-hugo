@@ -86,22 +86,18 @@
   "frontMatter.content.pageFolders": [
     {
       "path": "[[workspace]]/content/blog",
-      "title": "blog",
-      "originalPath": "[[workspace]]/content/blog"
+      "title": "blog"
     },
     {
       "path": "[[workspace]]/assets",
-      "title": "assets",
-      "originalPath": "[[workspace]]/assets"
+      "title": "assets"
     },
     {
       "path": "[[workspace]]/assets/images/blog",
-      "title": "blog",
-      "originalPath": "[[workspace]]/assets/images/blog"
+      "title": "blog"
     },
     {
-      "title": "assets",
-      "path": "[[workspace]]/assets"
+      "path": "[[workspace]]/static"
     }
   ],
   "frontMatter.taxonomy.tags": [

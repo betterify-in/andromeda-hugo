@@ -24,7 +24,7 @@ categories:
 description: At Betterify we help small companies and startups in Better Financial and
   Wealth Management. Want to know how we help? Welcome to Betterify!!
 draft: false
-preview: null
+preview: /images/blog/new_year_2023.jpg
 slug: bse-nse-2023-holidays
 ---
 
