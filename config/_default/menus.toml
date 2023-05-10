@@ -27,6 +27,12 @@ hasChildren = true
   url = "bse-nse-stock-targets/"
   weight = 3
 
+  [[main]]
+  parent = "Apps"
+  name = "Adani Group"
+  url = "adani-group/"
+  weight = 4
+
 [[main]]
 name = "Blog"
 url = "blog/"
