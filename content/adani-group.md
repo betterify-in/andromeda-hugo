@@ -44,6 +44,8 @@ You are <mark>FREE</mark> to embed the Web App in your websites and blogs withou
 <iframe allowfullscreen="" height="400px" src="https://script.google.com/macros/s/AKfycbxEkQ9O_In7nRIx746280Y1zgrArcFb9FHU5eVp3yKC1KPSLBMfbkrAMcOl8NlU5dg/exec" style="border: 0px #ffffff none;" width="100%"></iframe>
 ```
 
+{{< gslides src="https://docs.google.com/presentation/d/e/2PACX-1vRQhf3gwCCIE1ZvriiylRmwp1x65sxucGPF1NFxEm_m3ZH3OQnjzhFVou9Ho0S1y6ZOo8kW0p_Zgw7W/embed?start=false&loop=false&delayms=3000" >}}
+
 {{< rawhtml >}}
 <blockquote class="blockquote mb-4">
   <p>I like to get those <mark>quarterly reports</mark>. I do not like guidance. I think the guidance leads to a lot of bad things, and I’ve seen it lead to a lot of bad things.</p>
