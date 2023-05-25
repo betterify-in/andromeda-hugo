@@ -62,10 +62,10 @@ rel = "manifest"
   mainSections = ["posts"]
   description = "We help in Better Management of Finances, Accounts, Investments, and Taxes (FAIT). Let’s Betterify!!"
   twitter_cards = true 
-  images = ["https://res.cloudinary.com/dnbgvuilt/image/upload/v1672305395/Twitter_Card_Betterify_1_tze6dr.png"] # Hugo’s Twitter Card template requirement
+  images = ["https://docs.google.com/drawings/d/e/2PACX-1vTrr7ZmAg6FBsQEflTT4DMDDCmQCZoGPxd1TACZj8qEhwL1jZ-t_pVN8-gsalVLdOBNJs3yI0NAeGHN/pub?w=960&amp;h=600"] # Hugo’s Twitter Card template requirement
   title = "Betterify - Better Financial Management"
   # tag = "tags"
-
+  # https://res.cloudinary.com/dnbgvuilt/image/upload/v1672305395/Twitter_Card_Betterify_1_tze6dr.png
 [taxonomies]
   series = 'series' # Hugo’s Open Graph template requirement 
   tag = "tags" # Tags and categories don’t work if not added
