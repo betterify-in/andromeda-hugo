@@ -4,7 +4,7 @@ date: "2023-05-10"
 layout: "adani"
 draft: false
 # Meta Description
-description: "Adani Group Dashboard a Web App that covers all the Adani Group scrips traded on the BSE and NSE. It gives the Market Cap analysis of the group companies post the Hindenburg Report apart from other analysis."
+description: "Adani Group Dashboard is a Web App that covers all the Adani Group scrips traded on the BSE and NSE and gives their Performance and Earnings."
 contact_image: "images/vectors/contact.png"
 ---
 
