@@ -19,19 +19,19 @@ who_we_are:
 what_we_do:
   enable: true
   subtitle: "Our Speciality"
-  title: "What We Do. We <mark>Betterify</mark> -"
+  title: "What Do We Do? We help <mark>Betterify!!</mark>"
   block:
   - title: "Financial Management"
-    content: "As <mark>Financial</mark> Managers we are skilled in the field of risk management, budget planning, strategic planning and <marker>financial data analysis</marker>."
+    content: "We provide all possible information on <mark>Financial Management</mark> by way of how-to articles, videos, ideas, insights, etc. We help you understand <marker>financial data analysis</marker>."
 
   - title: "Accounting Management"
-    content: "We’re here to offer the best support, to help you troubleshoot any of you business, <mark>accounting</mark> and taxation issues. You can trust us to solve your <marker>Accounting Problems</marker> into Opportunities."
+    content: "We provide all possible information on <mark>Accounting Management</mark> by way of <marker>how-to articles, videos, ideas, insights, etc</marker>. We also provide the best <mark>Bookkeeping Services</mark>."
     
   - title: "Investment Management"
-    content: "As investment management experts or <mark>investment</mark> management advisors we provide services to a wide array of clients ranging from affluent to high-net-worth and ultra-high-net-worth <marker>individuals and families</marker>."
+    content: "We provide all possible information on <mark>Investment Management</mark> by way of <marker>how-to articles, videos, ideas, insights, etc</marker>. We do not provide any kind of <mark>Investment Advice</mark>."
     
   - title: "Taxation Management"
-    content: "We’re here to offer the best support, to help you troubleshoot any of you business, accounting and <mark>taxation</mark> issues. You can trust us to solve your <marker>Taxation Problems</marker> into Opportunities."
+    content: "We provide all possible information on <mark>Taxation Management</mark> by way of <marker>how-to articles, videos, ideas, insights, etc</marker>. We do not provide any kind of <mark>Investment Advice</mark> or Taxation Advice."
 
 # our_mission
 our_mission:

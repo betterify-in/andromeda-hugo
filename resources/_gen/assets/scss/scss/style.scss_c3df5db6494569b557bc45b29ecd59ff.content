@@ -1604,3 +1604,6 @@ circle:after {
 marker {
   background: linear-gradient(180deg, rgba(255, 255, 255, 0) 65%, #60d0ff 65%);
   display: inline; }
+
+.alert-dismissible {
+  padding-top: 1.5rem; }

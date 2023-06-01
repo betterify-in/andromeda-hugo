@@ -39,19 +39,19 @@ features:
   features_blocks:
   - icon: "las la-user"
     title: "Wealth Management"
-    content: "As wealth management experts or <mark>Wealth Management</mark> advisors we provide services to a wide array of clients ranging from affluent to high-net-worth and ultra-high-net-worth individuals and families."
+    content: "We provide all possible information on <mark>Wealth Management</mark> by way of how-to articles, videos, ideas, insights, etc. We do not provide any kind of <mark>Investment Advice</mark> or Wealth Advice."
   - icon: "las la-user-circle"
     title: "Financial Management"
-    content: "As <mark>Financial Managers</mark> we are skilled in the field of risk management, budget planning, strategic planning and financial data analysis."
+    content: "We provide all possible information on <mark>Financial Management</mark> by way of how-to articles, videos, ideas, insights, etc. We help you understand financial data analysis."
   - icon: "las la-user-friends"
     title: "Accounting Management"
-    content: "We’re here to offer the best support, to help you troubleshoot any of you Business, <mark>Accounting</mark> and Taxation issues. You can trust us to solve your Accounting Problems into Opportunities."
+    content: "We provide all possible information on <mark>Accounting Management</mark> by way of how-to articles, videos, ideas, insights, etc. We also provide the best <mark>Bookkeeping Services</mark>."
   - icon: "las la-user-plus"
     title: "Investment Management"
-    content: "As investment management experts or <mark>Investment Management</mark> advisors we provide services to a wide array of clients ranging from affluent to high-net-worth and ultra-high-net-worth individuals and families."
+    content: "We provide all possible information on <mark>Investment Management</mark> by way of how-to articles, videos, ideas, insights, etc. We do not provide any kind of <mark>Investment Advice</mark>."
   - icon: "las la-users"
     title: "Taxation Management"
-    content: "We’re here to offer the best support, to help you troubleshoot any of you Business, Accounting and <mark>Taxation</mark> issues. You can trust us to solve your Accounting Problems into Opportunities."        
+    content: "We provide all possible information on <mark>Taxation Management</mark> by way of how-to articles, videos, ideas, insights, etc. We do not provide any kind of <mark>Investment Advice</mark> or Taxation Advice."        
 
 
 # intro_video
@@ -75,7 +75,7 @@ how_it_works:
 
   - subtitle: "Secondary Speciality"
     title: "How to make money in the <mark>Stock Markets</mark>?"
-    description: "Our secondary speciality is to <marker>share share market news</marker>. What are the best stocks and companies to invest in?"
+    description: "Our secondary speciality is to <marker>share market news</marker>. We provide information on stocks, and financial and capital markets."
     image: "images/features-02.png" #images/features-02.png
 
 
