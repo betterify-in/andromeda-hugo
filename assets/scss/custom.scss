@@ -450,3 +450,8 @@ marker {
 .alert-dismissible {
    padding-top: 1.5rem;
 }
+
+.alert-warning .alert-link {
+   //color: #F44336;
+   border-bottom: 1.5px solid #fe6019;
+}
