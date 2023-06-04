@@ -19,6 +19,23 @@ AUTHOR WEBSITE: https://gethugothemes.com
 	{{ else }}
 	{{ partial "style.html" . }}
 	{{ end }}
+
+	<!-- Beginning of PurgeCSS HTML -->
+	{{ $css := resources.Get "/scss/style.scss" | resources.PostCSS }} 
+	{{ $css := resources.Get "/scss/custom.scss" | resources.PostCSS }}
+    {{ if hugo.IsProduction }} 
+    {{ $css = $css | minify | fingerprint | resources.PostProcess }} 
+    {{ end }}
+
+    <link
+     rel="stylesheet"
+     href="{{ $css.RelPermalink }}"
+     {{ if hugo.IsProduction -}} 
+     integrity="{{ $css.Data.Integrity }}"
+     {{- end }}
+    />
+	<!-- End of PurgeCSS HTML -->
+
 	<!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-3ZTYKP665K"></script>
     <script>

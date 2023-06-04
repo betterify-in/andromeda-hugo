@@ -8,4 +8,3 @@ description: "Please use and fill the following Form to contact and get in touch
 contact_image: "images/vectors/contact.png"
 ---
 
-# Get in Touch with Us
