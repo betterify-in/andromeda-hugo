@@ -5,6 +5,7 @@ banner:
   button: "Betterify TV"
   button_link: "https://www.youtube.com/channel/UCiyLlAY3_T1XiADSThStYGA"
   image: "images/banner-app.png"
+  # images/banner-app.png
 
 
 # brands
