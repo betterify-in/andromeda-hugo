@@ -21,7 +21,7 @@
 blockquote {
     background-color: lighten(saturate($primary-color, 0.87), 38.24);
    &:hover {
-    background-color: $primary-color; // Added by Betterify
+    background-color: $primary-color; 
     //background-color: lighten(saturate($primary-color, 0.87), 38.24);
            }
 }
@@ -295,14 +295,6 @@ details {
    color: #000000;   
 }
 
-
-
-// summary {
-//    margin: 0 20px;
-//    padding: 10px 20px;
-//    margin-inline-start: 20px;
-// }
-
 // Algolia Search CSS
 #search {      
    padding: 10px 10px 10px 10px;
@@ -311,10 +303,9 @@ details {
    justify-content: center;                          
 }
 
-.searchbox {
-   // display: inline-block;
-   // position: fixed; 
-   z-index: 6; // For Algolia Search to Work
+// For Algolia Search to Work
+.searchbox {    
+   z-index: 6; 
 }
 
 .markme {
@@ -340,39 +331,6 @@ details {
    top: 73%;
 }
 
-// h3 {
-//    display: inline-block;   
-//    position: relative;
-//    font-style: normal;
-//    z-index: 1;
-// }
-// h3:after {
-//    position: absolute;
-//    width: 100%;
-//    height: 10px;
-//    left: 0;
-//    background-color: #60d0ff;
-//    z-index: -1;
-//    content: "";
-//    top: 50%;
-//    -webkit-transform: translateY(-50%);
-//    -moz-transform: translateY(-50%);
-//    -ms-transform: translateY(-50%);
-//    -o-transform: translateY(-50%);
-//    transform: translateY(-50%);
-//    top: 73%;
-// }
-
-// h3 {
-//    //background-image: linear-gradient(to right, #25aae1, #40e495, #30dd8a, #2bb673);
-//    background: yellow;
-// }
-// h3:hover {
-//    //background-image: linear-gradient(to right, #f5ce62, #e43603, #fa7199, #e85a19);
-//    background-image: linear-gradient(to right, #25aae1, #40e495, #30dd8a, #2bb673);
-//    color: none !important;
-// }
-
 
 h3 {
    //background: linear-gradient(180deg, rgba(255,255,255,0) 65%, #60d0ff 65%);
@@ -391,11 +349,6 @@ h3 {
    color:#ffffff;
  }
 
-//  .highlight {
-//    background: linear-gradient(180deg, rgba(255,255,255,0) 65%, #60d0ff 65%);
-//    //background: linear-gradient(180deg, #2bb673 65%, #25aae1 65%);
-//    display: inline-block;   
-//  }
 
  circle {
    position:relative;
@@ -452,6 +405,6 @@ marker {
 }
 
 .alert-warning .alert-link {
-   //color: #F44336;
+   /* color: #F44336; */
    border-bottom: 1.5px solid #fe6019;
 }
