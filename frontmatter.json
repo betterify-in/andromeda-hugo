@@ -99,44 +99,5 @@
     {
       "path": "[[workspace]]/static"
     }
-  ],
-  "frontMatter.taxonomy.tags": [
-    "BSE",
-    "BSE All Cap",
-    "BSE India",
-    "Buyback",
-    "Financial Results",
-    "Google",
-    "Google Docs",
-    "Google Drawing",
-    "Google Slides",
-    "Holidays",
-    "M&M",
-    "Mahindra and Mahindra",
-    "NSE",
-    "Nifty",
-    "Nifty50",
-    "One97 Communications",
-    "PAYTM",
-    "Public Holidays",
-    "Q2FY23",
-    "Results",
-    "Shares",
-    "Stocks",
-    "Video",
-    "YouTube"
-  ],
-  "frontMatter.taxonomy.categories": [
-    "Buyback",
-    "Companies",
-    "Corporate Results",
-    "Google",
-    "Google Workspace",
-    "How To",
-    "Investing",
-    "Money",
-    "Personal Finance",
-    "Results Analysis",
-    "Videos"
   ]
 }
