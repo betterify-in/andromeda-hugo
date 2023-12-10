@@ -3,7 +3,7 @@
 banner:
   title: "We help in <mark>Better Management</mark> of Finances, Accounts, <marker>Investments</marker>, and Taxes (FAIT). <typewritten-text repeat>Let’s Betterify!!</typewritten-text>"
   button: "Betterify TV"
-  button_link: "https://www.youtube.com/channel/UCiyLlAY3_T1XiADSThStYGA"
+  button_link: "https://www.youtube.com/@betterify"
   image: "images/banner-app.png"
   # images/banner-app.png
 

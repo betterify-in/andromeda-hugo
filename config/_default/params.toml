@@ -47,7 +47,7 @@ preloader = "images/favicon.png" # use jpg, png, svg or gif format.
 [navigation_button]
 enable = true
 label = "Betterify TV"
-link = "https://www.youtube.com/channel/UCiyLlAY3_T1XiADSThStYGA"
+link = "https://www.youtube.com/@betterify"
 
 # cookies
 [cookies]
@@ -62,7 +62,7 @@ enable = true
 title = "We bring you <mark>Video Stories</mark>"
 content = "We also share with you video series on topics of <mark>Better Financial Management</mark> <br>and better wealth management. <marker>Subscribe to Betterify TV for latest videos.</marker>"
 button = "Betterify TV"
-button_link = "https://www.youtube.com/channel/UCiyLlAY3_T1XiADSThStYGA"
+button_link = "https://www.youtube.com/@betterify"
 
 ############################# social site ########################
 [[social]]
@@ -78,12 +78,12 @@ link = "https://twitter.com/BetterifyIn" #!
 [[social]]
 title = "LinkedIn"
 icon = "lab la-linkedin" # https://icons8.com/line-awesome
-link = "#!"
+link = "https://www.linkedin.com/company/bettermanagenow"
 
 [[social]]
 title = "YouTube"
 icon = "lab la-youtube-square" # https://icons8.com/line-awesome
-link = "https://www.youtube.com/channel/UCiyLlAY3_T1XiADSThStYGA"
+link = "https://www.youtube.com/@betterify"
 
 [[social]]
 title = "GitHub"
