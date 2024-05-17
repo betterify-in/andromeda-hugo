@@ -2,6 +2,11 @@
   "dependencies": {
     "@fullhuman/postcss-purgecss": "^5.0.0",
     "postcss": "^8.4.24",
-    "postcss-cli": "^10.1.0"
+    "postcss-cli": "^10.1.0",
+    "tinacms": "^1.6.3"
+  },
+  "devDependencies": {
+    "@tinacms/cli": "^1.5.45",
+    "@types/node": "^20.12.12"
   }
 }
