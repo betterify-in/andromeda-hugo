@@ -54,10 +54,4 @@ title: BSE NSE 2023 Holidays!!
 
 <p class="blue">N.B. – The above holidays may be altered or changed by the Exchanges. Circular will be issued in advance for the same.</p>
 
-{{\< alert class="info" >}}
-
-<h4 class="alert-heading"><marker>BSE NSE 2023 Holidays</marker></h4>
-  <p>There are 18 trading holidays in total in addition to Saturday and Sunday according to the BSE and NSE holiday calendar for 2023.</p>
-  <hr>
-  <p class="mb-0">The highest number of holidays fall in April with a total of four holidays in addition to weekends. 14th and 21st April are two consecutive Fridays when the markets are closed for trading.</p>
-{{</ alert >}}
+{{\< alert class="info" >}}\<h4 class="alert-heading">\<marker>BSE NSE 2023 Holidays\</marker>\</h4>  \<p>There are 18 trading holidays in total in addition to Saturday and Sunday according to the BSE and NSE holiday calendar for 2023.\</p>  \<hr>  \<p class="mb-0">The highest number of holidays fall in April with a total of four holidays in addition to weekends. 14th and 21st April are two consecutive Fridays when the markets are closed for trading.\</p>{{\</ alert >}}
