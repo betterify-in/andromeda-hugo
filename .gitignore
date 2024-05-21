@@ -12,3 +12,4 @@ resources
 wiki
 node_modules
 .env
+secret.txt
