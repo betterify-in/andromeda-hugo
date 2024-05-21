@@ -61,5 +61,3 @@ title: BSE NSE 2023 Holidays!!
   <hr>
   <p class="mb-0">The highest number of holidays fall in April with a total of four holidays in addition to weekends. 14th and 21st April are two consecutive Fridays when the markets are closed for trading.</p>
 {{</ alert >}}
-
-PS: This line is added from Tina CMS Cloud.
