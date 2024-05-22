@@ -35,6 +35,12 @@ export default defineConfig({
         name: "post",
         label: "Posts",
         path: "content/blog",
+        defaultItem: () => {
+          return {
+            // When a new post is created the title field will be set to "New post"
+            title: 'New Post',
+          }
+        },
         fields: [
           {
             type: "string",
@@ -43,6 +49,46 @@ export default defineConfig({
             isTitle: true,
             required: true,
           },
+          {
+            type: 'datetime',
+            name: 'date',
+            label: 'Date'
+          },
+          {
+            type: 'image',
+            label: 'Image',
+            name: 'imgSrc',
+          },
+          {
+            label: "Author_info",
+            name: "author_info",
+            type: "object",
+            fields: [
+              {
+                label: "Name",
+                name: "name",
+                type: "string"
+              },
+              {
+                label: "Avatar",
+                name: "avatar",
+                type: "image"
+              },
+              
+            ]
+          },
+          {
+            label: 'Tags',
+            name: 'tags',
+            type: 'string',
+            list: true,
+          },
+          {
+            label: 'Categories',
+            name: 'categories',
+            type: 'string',
+            list: true,
+          },          
           {
             type: "rich-text",
             name: "body",

@@ -56,6 +56,7 @@ December | 25/Dec/23 | Monday | Christmas
 
 <p class="blue">N.B. – The above holidays may be altered or changed by the Exchanges. Circular will be issued in advance for the same.</p>
 
+
 {{< alert class="info" >}}
 <h4 class="alert-heading"><marker>BSE NSE 2023 Holidays</marker></h4>
   <p>There are 18 trading holidays in total in addition to Saturday and Sunday according to the BSE and NSE holiday calendar for 2023.</p>
