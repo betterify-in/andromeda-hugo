@@ -32,9 +32,9 @@ export default defineConfig({
   schema: {
     collections: [
       {
-        name: "post",
-        label: "Posts",
-        path: "content/blog",
+        name: "articles",
+        label: "Articles",
+        path: "content/news",
         defaultItem: () => {
           return {
             // When a new post is created the title field will be set to "New post"
