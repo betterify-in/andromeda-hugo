@@ -53,7 +53,7 @@ rel = "manifest"
 [markup.tableOfContents]
     startLevel = 1
     endLevel = 5
-    ordered = false
+    ordered = true
 
 [social]
   twitter = "BetterifyIn"

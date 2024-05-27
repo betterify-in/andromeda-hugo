@@ -1,0 +1,27 @@
+<!-- Scratchpad gets populated through call to .Inner -->  
+{{- .Inner -}}
+
+<nav class="nav nav-tabs" id="tabs-{{- $.Ordinal -}}" role="tablist">
+  {{- range $index, $element := $.Scratch.Get "tabs" -}}
+    <!-- Generate the IDs for the <a> and the <div> elements -->
+    {{- $tabid := printf "tab-%v-%v-tab" $.Ordinal $index | anchorize -}}
+    {{- $entryid := printf "tab-%v-%v" $.Ordinal $index | anchorize -}}
+    <a class="nav-item nav-link{{ if eq $index "0" }} active{{ end }}"
+      id="{{ $tabid }}" data-toggle="tab" href="#{{ $entryid }}" role="tab"
+      aria-controls="{{ $tabid }}" aria-selected="{{- cond (eq $index "0") "true" "false" -}}">
+      {{ index . "title" }}
+    </a>
+  {{- end -}}
+  </nav>
+
+<!-- Inner content -->
+<div class="tab-content" id="tabs-{{- $.Ordinal -}}-content">
+  {{- range $index, $element := $.Scratch.Get "tabs" -}}
+    {{- $tabid := printf "tab-%v-%v-tab" $.Ordinal $index | anchorize -}}
+    {{- $entryid := printf "tab-%v-%v" $.Ordinal $index | anchorize -}}
+    <div class="tab-pane fade{{ if eq $index "0" }} show active{{ end }}"
+        id="{{ $entryid }}" role="tabpanel" aria-labelled-by="{{ $tabid }}">
+    {{- highlight (index . "content") "" "" -}}
+     </div>
+  {{ end }}
+</div>

@@ -1,0 +1,9 @@
+<!-- Prefill title if not given as parameter -->
+{{ $title := default (printf "Tab %v" ( add $.Ordinal 1)) (.Get "title") }}
+
+<!-- store all tab info in dict tab -->
+{{ $tab := dict "title" $title }}
+{{ $tab = merge $tab (dict "content" (trim $.Inner "\n")) }}
+
+<!-- add dict tab to parent's scratchpad -->
+{{- $.Parent.Scratch.SetInMap "tabs" (printf "%v" $.Ordinal) $tab -}}

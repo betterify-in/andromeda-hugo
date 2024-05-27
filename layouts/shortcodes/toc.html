@@ -1,23 +1,12 @@
-<!-- Table of Contents TOC Shortcode By Betterify -->
+<!-- Beginning of Table of Contents TOC Shortcode By Betterify -->
 {{/*  <div class="toc card bd-callout bd-callout-info shadow">
     <h2>Table Of Contents</h2>
     {{ .Page.TableOfContents }}
 </div>  */}}
+<!-- Ending of Table of Contents TOC Shortcode By Betterify -->
 
-{{/*  <div class="accordion" id="accordionExample">
-    <div class="card">
-      <div class="card-header" id="headingOne">
-        <h2 class="mb-0">
-          <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-            Table of Contents #
-            {{ .Page.TableOfContents }}
-          </button>
-        </h2>
-      </div>
-    </div>
-</div>  */}}
-
-<div id="accordion">
+<!-- Beginning of Table of Contents TOC Shortcode By Betterify -->
+{{/*  <div id="accordion">
     <div class="card mb-4">
       <div class="card-header" id="headingOne">
         <h5 class="mb-0">
@@ -44,5 +33,20 @@
         <div class="card-body">{{ .Page.TableOfContents }}</div>
       </div>
     </div>
-  </div> 
-    
+  </div>   */}}
+<!-- Ending of Table of Contents TOC Shortcode By Betterify -->
+
+<!-- Beginning of Table of Contents TOC Shortcode By Betterify -->  
+
+{{ $class:= .Get "class" }}
+  <details class="toc card bd-callout bd-callout-info shadow table-of-content {{$class}}">
+    <summary>
+      {{ with i18n "toc" }}
+        {{ . }}
+      {{ else }}
+        Table Of Contents
+      {{ end }}
+    </summary>
+    {{ .Page.TableOfContents }}
+  </details>
+<!-- Ending of Table of Contents TOC Shortcode By Betterify -->    

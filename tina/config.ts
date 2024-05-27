@@ -52,31 +52,64 @@ export default defineConfig({
           {
             type: 'datetime',
             name: 'date',
-            label: 'Date'
+            label: 'Date',
           },
           {
             type: 'image',
             label: 'Image',
-            name: 'imgSrc',
+            name: 'image',
           },
           {
-            label: "Author_info",
-            name: "author_info",
+            label: "Author",
+            name: "author",
             type: "object",
-            fields: [
+            fields: [              
+              {
+                label: "Image",
+                name: "image",
+                type: "image",
+              },
               {
                 label: "Name",
                 name: "name",
-                type: "string"
-              },
-              {
-                label: "Avatar",
-                name: "avatar",
-                type: "image"
-              },
-              
-            ]
+                type: "string",
+              },              
+            ],
           },
+          // Begin
+          {
+            label: "Avatar",
+            name: "avatar",
+            type: "image",
+          },
+          {
+            label: "Writer",
+            name: "writer",
+            type: "string",
+          },
+          {
+            type: 'rich-text',
+            name: 'alertbody',
+            templates: [
+              {
+                name: 'alert',
+                label: 'alert',
+                match: {
+                  start: '{{',
+                  end: '}}',
+                },
+                fields: [
+                  {
+                    name: '_value',
+                    label: 'value',
+                    type: 'string',
+                    required: true,
+                  },
+                ],
+              },
+            ],
+          },
+          // End
           {
             label: 'Tags',
             name: 'tags',

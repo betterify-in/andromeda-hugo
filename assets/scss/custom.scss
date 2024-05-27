@@ -132,14 +132,15 @@ th {
 
 // Markdown Callout Card
 .bd-callout-info {
-   border-left-color: #5bc0de;
+   //border-left-color: #5bc0de;
+   border-left-color: #03a9f4;   
 }
 
 .bd-callout {
    padding: 1.25rem;
    margin-top: 1.25rem;
    margin-bottom: 1.25rem;
-   border: 1px solid #03a9f4;
+   border: 1px solid #03a9f4;   
    border-left-width: .25rem;
    border-radius: .25rem;
 }
@@ -336,13 +337,13 @@ details {
 
 h3 {
    //background: linear-gradient(180deg, rgba(255,255,255,0) 65%, #60d0ff 65%);
-   background: linear-gradient(180deg, #25aae1 65%, #2bb673 65%);
+   background: linear-gradient(180deg, #25aae1 65%, #2bb673 65%);      
    //display: inline;
  }
 
  h3:hover {
    //background: linear-gradient(180deg, rgba(255,255,255,0) 65%, #60d0ff 65%);
-   background: linear-gradient(180deg, #2bb673 65%, #25aae1 65%);
+   background: linear-gradient(180deg, #2bb673 65%, #25aae1 65%);      
    //display: inline;
    color: #dee2e6;
  }
