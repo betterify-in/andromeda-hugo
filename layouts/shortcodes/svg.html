@@ -1,0 +1,5 @@
+{{$svg := .Get 0}}
+{{ $svg  | readFile | safeHTML }}
+
+<!--How to use it?-->
+{{/*  {{< svg "static/images/author/betterify.svg" >}}  */}}
