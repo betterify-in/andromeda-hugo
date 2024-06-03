@@ -412,3 +412,9 @@ marker {
    /* color: #F44336; */
    border-bottom: 1.5px solid #fe6019;
 }
+
+@media (max-width: 400px) {
+   .header-height-fix {
+       height: 70px;
+   }
+}
