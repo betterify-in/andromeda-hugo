@@ -35,6 +35,7 @@ export default defineConfig({
         name: "articles",
         label: "Articles",
         path: "content/news",
+        format: "md",
         defaultItem: () => {
           return {
             // When a new post is created the title field will be set to "New post"
@@ -68,11 +69,14 @@ export default defineConfig({
                 label: "Image",
                 name: "image",
                 type: "image",
+                required: true,
               },
               {
                 label: "Name",
                 name: "name",
                 type: "string",
+                isTitle: true,
+                required: true,
               },              
             ],
           },
