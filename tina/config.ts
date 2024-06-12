@@ -51,69 +51,27 @@ export default defineConfig({
             required: true,
           },
           {
+            type: "string",
+            name: "description",
+            label: "Description",            
+          },
+          {
             type: 'datetime',
             name: 'date',
             label: 'Date',
           },
           {
             type: 'image',
-            label: 'Image',
-            name: 'image',
+            label: 'Preview',
+            name: 'preview',
           },
           {
-            label: "Author",
-            name: "author",
-            type: "object",
-            fields: [              
-              {
-                label: "Image",
-                name: "image",
-                type: "image",
-                required: true,
-              },
-              {
-                label: "Name",
-                name: "name",
-                type: "string",
-                isTitle: true,
-                required: true,
-              },              
-            ],
+            name: 'draft',
+            label: 'Draft',
+            type: 'boolean',
+            required: true,
+            description: 'If this is checked the post will not be published',
           },
-          // Begin
-          {
-            label: "Avatar",
-            name: "avatar",
-            type: "image",
-          },
-          {
-            label: "Writer",
-            name: "writer",
-            type: "string",
-          },
-          {
-            type: 'rich-text',
-            name: 'alertbody',
-            templates: [
-              {
-                name: 'alert',
-                label: 'alert',
-                match: {
-                  start: '{{',
-                  end: '}}',
-                },
-                fields: [
-                  {
-                    name: '_value',
-                    label: 'value',
-                    type: 'string',
-                    required: true,
-                  },
-                ],
-              },
-            ],
-          },
-          // End
           {
             label: 'Tags',
             name: 'tags',
@@ -125,7 +83,56 @@ export default defineConfig({
             name: 'categories',
             type: 'string',
             list: true,
-          },          
+          },
+          {
+            type: 'image',
+            label: 'Image',
+            name: 'image',
+          },
+          {
+            label: 'Images',
+            name: 'images',
+            type: 'string',            
+          },
+          {
+            label: "Author_info",
+            name: "author_info",
+            type: "object",
+            fields: [              
+              {
+                label: "Name",
+                name: "name",
+                type: "string",
+                isTitle: true,
+                required: true,
+              },
+              {
+                label: "Image",
+                name: "image",
+                type: "image",
+                required: true,
+              },
+                            
+            ],
+          },
+          {
+            type: 'string',
+            name: 'type',
+            label: 'Type',
+            list: true,
+            options: [
+              {
+                value: "regular",
+                label: "Regular"
+              }, {
+                value: "featured",
+                label: "Featured"
+              }
+            ]
+          },
+          // Begin
+          
+          // End                    
           {
             type: "rich-text",
             name: "body",

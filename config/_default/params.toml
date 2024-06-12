@@ -25,7 +25,7 @@ copyright = "© [Betterify](https://www.betterify.in/) | [Hugo](https://gohugo.i
 custom_script= "" 
 
 # Main Sections
-mainSections= ["blog"]
+mainSections= ["blog", "news"]
 
 # contact information
 [contact_info]
