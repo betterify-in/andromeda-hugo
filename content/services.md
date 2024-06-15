@@ -9,3 +9,7 @@ contact_image: "images/vectors/contact.png"
 ---
 
 {{< embed file="/static/snippets/services.html" >}}
+
+<br>
+
+{{< embed file="/static/snippets/team.html" >}}

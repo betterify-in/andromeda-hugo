@@ -39,6 +39,11 @@ url = "blog/"
 weight = 3
 
 [[main]]
+name = "Services"
+url = "services/"
+weight = 3
+
+[[main]]
 weight = 4
 name = "Pages"
 hasChildren = true
@@ -72,16 +77,17 @@ hasChildren = true
   name = "Categories"
   url = "categories/"
   weight = 10
+
+  [[main]]
+  parent = "Pages"
+  name = "Search"
+  url = "search/"
+  weight = 11
   
 [[main]]
 name = "Contact"
 url = "contact/"
 weight = 5
-
-[[main]]
-name = "Search"
-url = "search/"
-weight = 6
 
 # footer menu
 [[footer]]

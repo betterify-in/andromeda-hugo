@@ -8,7 +8,7 @@ tags:
   - Tina CMS
 categories:
   - Headless CMS
-image: /images/blog/business_plan.jpg
+image: /images/blog/business_analytics.jpg
 images: ''
 author_info:
   name: Betterify
