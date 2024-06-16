@@ -27,7 +27,7 @@ quality = 100
 [caches]
 [caches.images]
 dir = ":resourceDir/_gen"
-maxAge = "720h"
+maxAge = "-1h"
 
 [caches.assets]
 dir = ":resourceDir/_gen"
