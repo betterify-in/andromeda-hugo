@@ -3,3 +3,8 @@
     class="alert alert-{{ with .Get "class" }}{{.}}{{end}}">
     {{ .Inner | markdownify }}
 </div>
+
+
+{{/*  {{< alert class="info" >}}
+Some Rich Text
+{{< /alert >}}  */}}

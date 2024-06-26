@@ -1,10 +1,10 @@
 ---
 title: "Services"
-date: "2022-10-25"
+date: "2024-06-01"
 layout: "services"
 draft: false
 # Meta Description
-description: "Nifty 50 Shares Analysis is a Web App that covers all the scrips in the Nifty 50 Index (50 scrips). This Web App caters to the needs of investment in stock market and stock analysis of the Indian Stock Market. This Web App is free to use and we are trying hard to keep it FREE FOREVER."
+description: "We help small businesses, SMBs, business owners, and professionals with better management of Finances, Accounts, Investments, and Taxes (FAIT)."
 contact_image: "images/vectors/contact.png"
 ---
 
@@ -12,4 +12,4 @@ contact_image: "images/vectors/contact.png"
 
 <br>
 
-{{< embed file="/static/snippets/team.html" >}}
+{{< embed file="/static/snippets/cta.html" >}}

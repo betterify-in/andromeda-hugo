@@ -40,8 +40,20 @@ weight = 3
 
 [[main]]
 name = "Services"
-url = "services/"
 weight = 3
+hasChildren = true
+
+  [[main]]
+  parent = "Services"
+  name = "Summary"
+  url = "services/"
+  weight = 1
+
+  [[main]]
+  parent = "Services"
+  name = "Team"
+  url = "team/"
+  weight = 2
 
 [[main]]
 weight = 4
