@@ -792,7 +792,20 @@ marker {
 // ctaspan
 .ctaspan {
    margin-bottom: 40px;
+   background-color:#fe6019;
+   position: relative;   
+   animation-duration: 15s;
+   animation-name: ctaspan;
+   z-index: 2;
 }
+
+@keyframes ctaspan {
+   0%   {background-color:#fe6019; left:0px; top:0px;}
+   25%  {background-color:#FF1493; left:200px; top:0px;}
+   50%  {background-color:#7B68EE; left:200px; top:200px;}
+   75%  {background-color:#32CD32; left:0px; top:200px;}
+   85% {background-color:#fe6019; left:0px; top:0px;}
+ }
 
 // button CSS
 .ctap {

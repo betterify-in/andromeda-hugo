@@ -8,3 +8,7 @@ description: "Please use Google Search to search any content in the Betterify We
 ---
 
 {{< gcse >}}
+
+<br>
+
+{{< embed file="/static/snippets/cta.html" >}}

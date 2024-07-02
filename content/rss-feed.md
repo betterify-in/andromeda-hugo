@@ -27,6 +27,3 @@ description: "We are providing RSS Feed of all our content and Blog Posts. RSS i
 {{< rawhtml >}}
 <a href="https://rss.app/feeds/zlrZcSlbaT28in6A.xml" target="_blank" class="btn btn-primary btn-lg mb-4">Betterify Feed <i class="las la-rss"></i></a>
 {{< /rawhtml >}}
-
-<br>
-{{< revue >}}

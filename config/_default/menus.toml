@@ -45,7 +45,7 @@ hasChildren = true
 
   [[main]]
   parent = "Services"
-  name = "Summary"
+  name = "Services - All"
   url = "services/"
   weight = 1
 
@@ -92,9 +92,15 @@ hasChildren = true
 
   [[main]]
   parent = "Pages"
-  name = "Search"
-  url = "search/"
+  name = "Newsletter"
+  url = "newsletter/"
   weight = 11
+
+  [[main]]
+  parent = "Pages"
+  name = "Google Search"
+  url = "search/"
+  weight = 12
   
 [[main]]
 name = "Contact"
