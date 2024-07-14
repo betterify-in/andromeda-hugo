@@ -1,0 +1,25 @@
+<!-- Beginning Tags By Betterify -->
+{{/*  <h4 class="widget-title"><i class="bi bi-tags-fill"></i> Tags:{{ i18n "tags" }}</h4>  */}}
+{{- $tags := .Language.Params.Taxonomies.tag | default "tags" }}
+<ul class="post-tags"><i class="bi bi-tags-fill"></i> Tags:{{ i18n "tags" }}
+{{- range ($.GetTerms $tags) }}
+{{/*  {{ range $index, $elements:= .Params.Tags }}
+{{ if ne $index 0 }}, {{ end }}  */}}
+<li>
+  <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
+  {{/*  <a href="{{ `tags/` | relLangURL }}{{ . | lower }}">{{ . | humanize }}</a>  */}}
+</li>
+{{- end }}
+</ul>
+<!-- Ending Tags By Betterify -->
+<!-- Beginning Categories By Betterify -->
+{{/*  <h4 class="widget-title mt-2"><i class="bi bi-tags-fill"></i> Categories:{{ i18n "categories" }}</h4>  */}}
+{{- $categories := .Language.Params.Taxonomies.categories | default "categories" }}
+<ul class="post-tags"><i class="bi bi-tags-fill"></i> Categories:{{ i18n "tags" }}
+{{- range ($.GetTerms $categories) }}
+<li>
+    <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
+</li>
+{{- end }}
+</ul> 
+<!-- Ending Categories By Betterify -->

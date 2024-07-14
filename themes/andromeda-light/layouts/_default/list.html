@@ -5,7 +5,7 @@
 {{ partial "page-header.html" . }}
 
 <section class="section-sm" data-aos="fade-in">
-  <div class="container-xxl">
+  <div class="container-xxl" data-aos="fade-up" data-aos-delay="50">
     <div class="row justify-content-center">
     {{ $paginator := .Paginate (where site.RegularPages "Section" "in" site.Params.mainSections) }}
     {{ range $paginator.Pages }}
@@ -106,6 +106,8 @@
         <div class="content">
           {{.Content}}
         </div>
+        <!-- Tags -->
+        {{ partial "tags.html" .}}
       </div>
     </div>
   </div>

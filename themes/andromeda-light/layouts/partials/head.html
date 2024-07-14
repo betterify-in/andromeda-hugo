@@ -1,6 +1,12 @@
 <meta charset="utf-8">
 <title>{{.Title | default site.Title}}</title>
 
+<!-- Beginning Tags -->
+<meta name="keywords" content="{{ if .Params.keywords -}}
+    {{- range $i, $e := .Params.keywords }}{{ if $i }}, {{ end }}{{ $e }}{{ end }} {{- else }}
+    {{- range $i, $e := .Params.tags }}{{ if $i }}, {{ end }}{{ $e }}{{ end }} {{- end -}}">
+<!-- Ending Tags -->
+
 <!-- base url -->
 {{ if or (eq site.BaseURL "/") (eq site.BaseURL "http://localhost:1313/") (eq site.BaseURL "http://examplesite.org/") (eq site.BaseURL "https://examplesite.org/") (eq site.BaseURL "http://examplesite.com/") (eq site.BaseURL "https://www.betterify.in/")}}{{else}}
 <base href="{{ site.BaseURL }}">

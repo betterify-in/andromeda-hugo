@@ -1,17 +1,7 @@
 {{- define "main" }}
 {{ partial "page-header.html" . }}
 
-{{/*  {{- if .Title }}
-<header class="page-header">
-    <h1>{{ .Title }}</h1>
-    {{- if .Description }}
-    <div class="post-description">
-        {{ .Description }}
-    </div>
-    {{- end }}
-</header>
-{{- end }}  */}}
-
+<!-- Beginning Tags Section -->
 <section class="section-sm ml-5 mr-5 mt-3 mb-3" data-aos="fade-up" data-aos-delay="50">
 <ul class="terms-tags">
     {{- $type := .Type }}
@@ -20,13 +10,11 @@
     {{- $count := .Count }}
     {{- with site.GetPage (printf "/%s/%s" $type $name) }}
     <li>
-        <a href="{{ .Permalink }}">{{ .Name }} <sup><strong><sup>{{ $count }}</sup></strong></sup></a>
-        {{/*  <a href="{{ `tags/` | relLangURL }}{{ $name | urlize | lower }}">{{ $name | humanize }}</a>  */}}
+        <a href="{{ .Permalink }}">{{ .Name }} <sup><strong><sup>{{ $count }}</sup></strong></sup></a>        
     </li>
     {{- end }}
     {{- end }}
 </ul>
 </section>
+<!-- Ending Tags Section -->
 {{- end }}
-
-{{/* end main */ -}}

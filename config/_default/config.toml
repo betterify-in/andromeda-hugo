@@ -66,10 +66,11 @@ rel = "manifest"
   title = "Betterify - Better Financial Management"
   # tag = "tags"
   # https://res.cloudinary.com/dnbgvuilt/image/upload/v1672305395/Twitter_Card_Betterify_1_tze6dr.png
+
 [taxonomies]
-  series = 'series' # Hugo’s Open Graph template requirement 
-  tag = "tags" # Tags and categories don’t work if not added
   category = "categories" # Tags and categories don’t work if not added
+  series = "series" # Hugo’s Open Graph template requirement 
+  tag = "tags" # Tags and categories don’t work if not added
   # year = "year"
 	# month = "month"
   # mainSections= "blog"

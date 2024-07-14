@@ -1,0 +1,19 @@
+{{ $_hugo_config := `{ "version": 1 }` }}
+<a {{ with .Get "href"}} href="{{.}}" target="_blank" {{ end }} class="btn btn-orange-moon text-white shadow mb-5px">
+  {{ $icon := .Get "icon" }}
+  {{ $iconposition := .Get "icon-position" }}
+  {{ if ($icon) }}
+    {{ if or (not ($iconposition)) (eq $iconposition "left") }}
+  <i class="{{$icon}}"></i>
+    {{ end }}
+  {{ end }}
+  {{ .Inner }}
+  {{ if and ($icon) (eq $iconposition "right")}}
+  <i class="{{$icon}}"></i>
+  {{ end }}
+</a>
+
+
+{{/*  {{< button href="https://getgrav.org/" >}}
+Get Grav <i class="las la-arrow-right"></i>
+{{< /button >}}  */}}

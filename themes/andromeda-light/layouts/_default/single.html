@@ -45,22 +45,10 @@
         <div class="content">
           {{.Content}}
         </div>   
-        <!-- Beginning Tags By Betterify -->
-        {{- $tags := .Language.Params.Taxonomies.tag | default "tags" }}
-        <ul class="post-tags">
-        {{- range ($.GetTerms $tags) }}
-        <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
-        {{- end }}
-        </ul>
-        <!-- Ending Tags By Betterify -->
-        <!-- Beginning Categories By Betterify -->
-        {{- $categories := .Language.Params.Taxonomies.categories | default "categories" }}
-        <ul class="post-tags">
-        {{- range ($.GetTerms $categories) }}
-        <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
-        {{- end }}
-        </ul> 
-        <!-- Ending Categories By Betterify -->        
+
+        <!-- Tags -->
+        {{ partial "tags.html" .}}
+                
       </div>
       
       {{ if .Site.DisqusShortname }}

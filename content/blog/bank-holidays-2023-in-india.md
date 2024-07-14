@@ -4,7 +4,7 @@ description: This post gives the list of Bank Holidays in 2023 in India.
 date: 2023-04-02T13:25:34.804Z
 preview: /images/blog/party_celebration.jpg
 draft: false
-tags:
+tags: 
   - Holidays
   - Year 2023
 categories:
@@ -68,7 +68,7 @@ December  | 23-Dec-23 | Saturday  | Fourth Saturday
 December  | 25-Dec-23 | Monday    | Christmas Day              
 {{< /details >}}
 
-{{< button href="https://getgrav.org/" >}}
+<!-- {{< button href="https://getgrav.org/" >}}
 Get Grav <i class="las la-arrow-right"></i>
 {{< /button >}}
 
@@ -94,4 +94,4 @@ Content in Tab 1
     {{< tab title = "Tab Two" >}}
 Content in Tab 2
     {{< /tab >}}
-{{< /tabs >}}
+{{< /tabs >}} -->

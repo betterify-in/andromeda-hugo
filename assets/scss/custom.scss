@@ -67,7 +67,7 @@ body::-webkit-scrollbar-thumb {
 // down Button
 .btn.btn-primary {
    color: #ffff;
-   text-decoration: none;
+   text-decoration: none;   
 }
 
 // Card Hover Yellow
@@ -225,6 +225,7 @@ typewritten-text {
    display: inline-block;
    margin-inline-end: 3px;
    margin-bottom: 5px;
+   margin-left: 5px;
 }
 
 .post-tags a,
@@ -818,9 +819,19 @@ marker {
    background: linear-gradient(to right, #f7b733, #fc4a1a); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
    color: #fff;
    //border: 3px solid #eee;
+   margin-bottom: 20px;
 }
 
 //CTA CSS
 .ctah2 {
    font-size: 2.5rem;
 }
+
+// TOC Table of Content CSS
+.table-of-content summary {
+   //background-color: #03a9f4;
+   background-color: #046A38 !important;
+ } 
+ .table-of-content li {
+   list-style-type: circle;
+ }
