@@ -67,27 +67,27 @@ December  | 9-Dec-23  | Saturday  | Second Saturday
 December  | 23-Dec-23 | Saturday  | Fourth Saturday            
 December  | 25-Dec-23 | Monday    | Christmas Day              
 {{< /details >}}
-
+ 
 <!-- {{< button href="https://getgrav.org/" >}}
 Get Grav <i class="las la-arrow-right"></i>
-{{< /button >}}
+{{< /button >}} -->
 
-<style>
+<!-- <style>
   .btn {
     border: 1px solid #007aff;
     margin-bottom: 25px;
   }
-</style>
+</style> -->
 
-{{< alert class="primary" >}}
+<!-- {{< alert class="primary" >}}
 <h4 class="alert-heading">Well done!</h4>
 <hr>
 <p>This is just a warning!!</p>
-{{< /alert >}}
+{{< /alert >}} -->
 
-## Tabbed pane
+<!-- ## Tabbed pane -->
 
-{{< tabs >}}
+<!-- {{< tabs >}}
     {{< tab title = "Tab One" >}}
 Content in Tab 1
     {{< /tab >}}
