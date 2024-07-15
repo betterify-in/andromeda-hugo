@@ -808,6 +808,12 @@ marker {
    85% {background-color:#fe6019; left:0px; top:0px;}
  }
 
+ @media (max-width: 1000px) {
+   .ctaspan {
+      animation-duration: 0s;
+   }
+}
+
 // button CSS
 .ctap {
    font-size: 1.5rem;
