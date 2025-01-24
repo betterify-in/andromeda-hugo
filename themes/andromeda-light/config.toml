@@ -12,6 +12,10 @@ white = "#ffffff"
 black = "#000000"
 light = "#FAFAFA"
 primary_color = "#FE6019"
+green_color = "#057b42"
+blue_color = "#0E0B93"
+yellow_color = "#ffeb3b"
+light_color = "#fff7f3"
 
 # font variable
 h1 = "48px"

@@ -1,0 +1,32 @@
+media:
+  input: assets
+  output: /assets
+content:
+  - name: posts
+    label: Posts
+    type: collection
+    path: content/blog
+    view:
+      fields: [ title, draft, date ]
+    fields:
+      - { name: pubDatetime, label: Date, type: date } 
+      - { name: modDatetime, label: Date, type: date } 
+      - { name: title, label: Title, type: string, required: true } 
+      - { name: ogImage, label: Title, type: string } 
+      - { name: slug, label: Slug, type: string } 
+      - { name: draft, label: Draft, type: boolean, required: true } 
+      - { name: tags, label: Tags, type: string, list: true } 
+      - { name: categories, label: Categories, type: string, list: true }
+      - { name: description, label: Description, type: string }
+      - { name: body, label: Body, type: rich-text }
+      - { name: preview, label: Preview, type: string }
+      - { name: images, label: Images, type: string }
+      - { name: author_info, label: Author_info, type: object,
+          fields: [
+             - name: name, label: Name, type: string, required: true ],
+             [
+             - name: image, label: Image, type: string, required: true ]
+              }
+      - { name: tag, label: Tag, type: select,
+            options:
+                values: [ Tech, News, Sports ]}

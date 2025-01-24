@@ -1,9 +1,14 @@
 // Color Variables
+
 {{ with site.Params.variables }}
-$white: {{.white | default "#ffffff"}};
+$white: {{.white | default "#FFFFFF"}};
 $black: {{.black | default "#000000"}};
 $light: {{.light | default "#FAFAFA"}};
 $primary-color: {{.primary_color | default "#FE6019"}};
+$green-color: {{.green_color | default "#057B42"}};
+$blue-color: {{.blue_color | default "#0E0B93"}};
+$yellow-color: {{.yellow_color | default "#F6FF33"}};
+$light-color: {{.light_color | default "#FFF7F3"}};
 
 
 // Font Variables

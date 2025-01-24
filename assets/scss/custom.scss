@@ -72,7 +72,7 @@ body::-webkit-scrollbar-thumb {
 
 // Card Hover Yellow
 .card:hover {
-   background-color: #ffeb3b;
+   background-color: $yellow-color;
 }
 
 // Markdown Content Image
@@ -197,21 +197,23 @@ header {
 }
 
 .nav-item:hover {
-   background: #F6FF33;
+   background-color: $yellow-color;
    border-radius: 15px 5px;
 }
 
 // Mark highlight color
 mark {
-   background-color: #F6FF33;
-   color: black;
+   background-color: $yellow-color;
+   color: $black;
+   //color: black;
    border-radius: 15px 5px;
 }
 
 // Markdown color text
 typewritten-text {
    font-weight: bold;
-   color: #fe6019;
+   //color: #fe6019;
+   color: $primary-color;
    background-color: $light;
 }
 
@@ -242,13 +244,14 @@ typewritten-text {
    padding-inline-start: 14px;
    padding-inline-end: 14px;
    //color: var(--secondary);
-   color: #000000;
+   //color: #000000;
+   color: $black;
    font-size: 14px;
    line-height: 34px;
    //background: var(--code-bg);
    margin-top: 20px;
    //background-color: $light;
-   background-color: #F6FF33;
+   background-color: $yellow-color;
 }
 
 .post-tags a:hover,
@@ -296,7 +299,8 @@ details {
    background: #f3f3f3;
    margin-bottom: 10px;
    padding: .5rem 1rem;
-   color: #000000;
+   //color: #000000;
+   color: $black;
 }
 
 // Algolia Search CSS
@@ -348,11 +352,13 @@ h3:hover {
    background: linear-gradient(180deg, #2bb673 65%, #25aae1 65%);
    //display: inline;
    //color: #dee2e6;
-   color: #ffffff;
+   //color: #ffffff;
+   color: $white;
 }
 
 .blog-card .card-title a:hover {
-   color: #ffffff;
+   //color: #ffffff;
+   color: $white;
 }
 
 
@@ -414,7 +420,8 @@ marker {
 
 .alert-warning .alert-link {
    /* color: #F44336; */
-   border-bottom: 1.5px solid #fe6019;
+   //border-bottom: 1.5px solid #fe6019;
+   border-bottom: 1.5px solid $primary-color;
 }
 
 @media (max-width: 400px) {
@@ -432,7 +439,8 @@ marker {
    color: #222222;
    font-size: 45px;
    //margin: 0 0 15px;
-   border-left: 5px solid #fe6019;
+   //border-left: 5px solid #fe6019;
+   border-left: 5px solid $primary-color;
    padding-left: 15px;
 }
 
@@ -461,7 +469,8 @@ marker {
    border-radius: 10px;
    width: 0;
    //background: #20247b;
-   background: #046A38;
+   //background-color: #057b42;
+   background-color: $green-color;
    z-index: -1;
    -moz-transition: ease all 0.35s;
    -o-transition: ease all 0.35s;
@@ -478,7 +487,8 @@ marker {
 
 .team .member:hover {
    top: -5px;
-   color: #fff;
+   //color: #fff;
+   color: $white;
 }
 
 .team .member:hover:after {
@@ -525,7 +535,8 @@ marker {
 }
 
 .team .member:hover h4 {
-   color: #ffffff;
+   //color: #ffffff;
+   color: $white;
 }
 
 .team .member span {
@@ -578,8 +589,10 @@ marker {
 
 .team .member .social a:hover {
    //background: #0880e8;
-   background: #fe6019;
-   color: #fff;
+   //background: #fe6019;
+   background: $primary-color;
+   //color: #fff;
+   color: $white;
 }
 
 .team .member .social a+a {
@@ -616,8 +629,10 @@ marker {
    width: 70px;
    height: 70px;
    line-height: 70px;
-   background: #fe6019;
-   color: #ffffff;
+   //background: #fe6019;
+   background: $primary-color;
+   //color: #ffffff;
+   color: $white;
    text-align: center;
    border-radius: 50%;
    margin-bottom: 22px;
@@ -660,11 +675,13 @@ marker {
 }
 
 .feature-box-1:hover h5 {
-   color: #ffffff;
+   //color: #ffffff;
+   color: $white;
 }
 
 .feature-box-1:hover p {
-   color: #ffffff;
+   //color: #ffffff;
+   color: $white;
 }
 
 .feature-box-1:hover:after {
@@ -691,7 +708,8 @@ marker {
    color: #222222;
    font-size: 45px;
    margin: 0 0 15px;
-   border-left: 5px solid #fe6019;
+   //border-left: 5px solid #fe6019;
+   border-left: 5px solid $primary-color;
    padding-left: 15px;
 }
 
@@ -715,7 +733,8 @@ marker {
   justify-content: center;
   margin-bottom: 20px;
   transition: ease-in-out 0.3s;
-  color: #fff;
+  //color: #fff;
+  color: $white;
 }
 
 .services .icon-box .icon i {
@@ -741,13 +760,16 @@ marker {
 
 .services .icon-box:hover {
   transform: translateY(-10px);
-  border-color: #fe6019;
-  background-color: #fffaf3;
+  //border-color: #fe6019;
+  border-color: $primary-color;
+  //background-color: #fffaf3;
+  background-color: $light-color;
   
 }
 
 .services .icon-box:hover h4 a {
-  color: #fe6019;
+  //color: #fe6019;
+  color: $primary-color;
 }
 
 // Bookkeeping Features
@@ -795,7 +817,8 @@ marker {
 // ctaspan
 .ctaspan {
    margin-bottom: 40px;
-   background-color:#fe6019;
+   //background-color:#fe6019;
+   background-color: $primary-color;
    position: relative;   
    animation-duration: 15s;
    animation-name: ctaspan;
@@ -822,10 +845,11 @@ marker {
 }
 
 .btn-orange-moon {
-   background: #fc4a1a;  /* fallback for old browsers */
-   background: -webkit-linear-gradient(to right, #f7b733, #fc4a1a);  /* Chrome 10-25, Safari 5.1-6 */
-   background: linear-gradient(to right, #f7b733, #fc4a1a); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-   color: #fff;
+   //background: #fc4a1a;  /* fallback for old browsers */
+   background: #FE6019;
+   background: -webkit-linear-gradient(to right, #f7b733, #FE6019);  /* Chrome 10-25, Safari 5.1-6 */
+   background: linear-gradient(to right, #f7b733, #FE6019); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+   color: #FFFFFF;
    //border: 3px solid #eee;
    margin-bottom: 20px;
 }
@@ -838,8 +862,58 @@ marker {
 // TOC Table of Content CSS
 .table-of-content summary {
    //background-color: #03a9f4;
-   background-color: #046A38 !important;
+   background-color: $green-color !important;
  } 
  .table-of-content li {
    list-style-type: circle;
  }
+
+// Counts CSS
+.counts {
+  background: url("../img/counts-bg.jpg") center center no-repeat;
+  background-size: cover;
+  padding: 40px 0 60px 0;
+  position: relative;
+}
+
+.counts::before {
+  content: "";
+  position: absolute;
+  //background: rgba(17, 17, 17, 0.9);
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+}
+
+.counts .title {
+  position: relative;
+  color: $black;
+  margin-bottom: 40px;
+}
+
+.counts .title h3 {
+  font-size: 36px;
+  font-weight: 700;
+}
+
+.counts .counters span {
+  font-size: 48px;
+  display: block;
+  font-weight: 700;
+  color: #009961;
+}
+
+.counts .counters p {
+  padding: 0;
+  margin: 0 0 20px 0;
+  //font-family: "Raleway", sans-serif;
+  font-size: 18px;
+  color: $black;
+}
+
+@media (min-width: 1200px) {
+  .counts {
+    background-attachment: fixed;
+  }
+}
