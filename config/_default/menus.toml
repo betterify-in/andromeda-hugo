@@ -101,6 +101,12 @@ hasChildren = true
   name = "Google Search"
   url = "search/"
   weight = 12
+
+  [[main]]
+  parent = "Pages"
+  name = "Hashnode Blog"
+  url = "https://blog.betterify.in/"
+  weight = 12
   
 [[main]]
 name = "Contact"
