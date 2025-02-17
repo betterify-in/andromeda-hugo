@@ -104,7 +104,7 @@ hasChildren = true
 
   [[main]]
   parent = "Pages"
-  name = "Hashnode Blog"
+  name = "Hashnode"
   url = "https://blog.betterify.in/"
   weight = 12
   
