@@ -1,6 +1,7 @@
 [build]
   publish = "public"
-  command = "tinacms build && hugo --minify --gc"  
+  command = "hugo --minify --gc"
+  #command = "tinacms build && hugo --minify --gc"  // Caused build error.
   
 [build.environment]
   HUGO_VERSION = "0.85.0"
