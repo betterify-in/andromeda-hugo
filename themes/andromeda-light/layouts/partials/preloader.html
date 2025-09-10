@@ -1,4 +1,4 @@
-{{ if site.Params.preloader.enable }}
+{{/*  {{ if site.Params.preloader.enable }}
 <div class="preloader">
 
   <!-- get image path -->
@@ -33,6 +33,42 @@
   {{ end }}
   {{ end }}
   <!-- /check image existence -->
+
+</div>
+{{ end }}  */}}
+
+{{ if site.Params.preloader.enable }}
+<div class="preloader">
+
+  {{ $preloaderPath := site.Params.preloader.preloader }}
+  {{ if $preloaderPath }}
+
+    {{ $ext := lower (path.Ext $preloaderPath) }}
+
+    {{ if eq $ext ".svg" }}
+      <!-- SVG: use as-is, no processing -->
+      <img class="img-fluid la-spin" loading="preload" decoding="async" src="{{ $preloaderPath | relURL }}" aria-label="preloader" title="preloader" alt="preloader">
+    {{ else }}
+      {{ if fileExists (add `assets/` $preloaderPath) }}
+        {{ $preloader := resources.Get $preloaderPath }}
+        {{ $preloader_ext := path.Ext $preloader }}
+        {{ $preloader_width := $preloader.Width }}
+
+        {{ if ne $preloader_ext ".gif" }}
+          {{ $option_webp := add (add (string $preloader_width) "x") " webp" }}
+          {{ .Scratch.Set "preloader" ($preloader.Resize $option_webp).RelPermalink }}
+          {{ $option := add (string $preloader_width) "x" }}
+          {{ .Scratch.Set "preloader_fallback" ($preloader.Resize $option).RelPermalink }}
+        {{ else }}
+          {{ .Scratch.Set "preloader" $preloader.RelPermalink }}
+        {{ end }}
+
+        <img class="img-fluid la-spin" loading="preload" decoding="async" src="{{ .Scratch.Get `preloader` }}" aria-label="preloader" title="preloader"
+          onerror="this.onerror=null;this.src='{{ .Scratch.Get `preloader_fallback` }}'" alt="preloader">
+      {{ end }}
+    {{ end }}
+
+  {{ end }}
 
 </div>
 {{ end }}

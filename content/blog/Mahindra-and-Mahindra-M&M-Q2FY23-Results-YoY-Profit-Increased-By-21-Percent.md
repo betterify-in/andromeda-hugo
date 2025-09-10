@@ -6,7 +6,7 @@ images:
   - https://source.unsplash.com/InWI1lteYfU.jpg
 author_info:
   name: Betterify
-  image: images/author/betterify.png
+  image: images/author/betterify.svg
 type: featured
 tags:
   - Results

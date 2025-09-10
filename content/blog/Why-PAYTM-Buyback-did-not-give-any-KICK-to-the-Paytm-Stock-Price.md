@@ -6,7 +6,7 @@ images:
   - https://source.unsplash.com/AHw8R4TlC34.jpg
 author_info:
   name: Betterify
-  image: images/author/betterify.png
+  image: images/author/betterify.svg
 type: regular
 tags:
   - PAYTM

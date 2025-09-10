@@ -22,11 +22,16 @@
         {{ with .Params.author_info }}
         <div class="user-image mr-3">
           {{ if .image }}
-          {{ $img:= resources.Get (.image) }}
-          {{ $img:= $img.Fill "70x70" }}
-          {{ $imgWebp:= $img.Fill "70x70 webp" }}
-          <img loading="lazy" decoding="async" class="rounded-circle" src="{{ $imgWebp.RelPermalink }}" alt="author image" onerror="this.onerror=null;this.src='{{$img.RelPermalink}}'">
+          {{ if (hasSuffix .image ".svg") }}
+            <img loading="lazy" decoding="async" class="rounded-circle" src="{{ .image | relURL }}" alt="author image">
+          {{ else }}
+            {{ $img:= resources.Get (.image) }}
+            {{ $img:= $img.Fill "70x70" }}
+            {{ $imgWebp:= $img.Fill "70x70 webp" }}
+            <img loading="lazy" decoding="async" class="rounded-circle" src="{{ $imgWebp.RelPermalink }}" alt="author image" onerror="this.onerror=null;this.src='{{$img.RelPermalink}}'">
           {{ end }}
+        {{ end }}
+
         </div>
         {{ end }}
         <div class="user-info">

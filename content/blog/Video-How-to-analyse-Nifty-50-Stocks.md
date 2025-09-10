@@ -6,7 +6,7 @@ images:
   - https://source.unsplash.com/4siwRamtFAk.jpg
 author_info:
   name: Betterify
-  image: images/author/betterify.png
+  image: images/author/betterify.svg
 type: regular
 tags:
   - NSE

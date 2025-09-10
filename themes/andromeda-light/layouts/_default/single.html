@@ -25,11 +25,16 @@
             {{ with .Params.author_info }}
             <div class="user-image mr-3">
               {{ if .image }}
-              {{ $img:= resources.Get (.image) }}
-              {{ $img:= $img.Fill "70x70" }}
-              {{ $imgWebp:= $img.Fill "70x70 webp" }}
-              <img loading="lazy" decoding="async" class="rounded-circle" src="{{ $imgWebp.RelPermalink }}" alt="author image" onerror="this.onerror=null;this.src='{{$img.RelPermalink}}'">
+              {{ if (hasSuffix .image ".svg") }}
+                <img loading="lazy" decoding="async" class="rounded-circle" src="{{ .image | relURL }}" alt="author image">
+              {{ else }}
+                {{ $img:= resources.Get (.image) }}
+                {{ $img:= $img.Fill "70x70" }}
+                {{ $imgWebp:= $img.Fill "70x70 webp" }}
+                <img loading="lazy" decoding="async" class="rounded-circle" src="{{ $imgWebp.RelPermalink }}" alt="author image" onerror="this.onerror=null;this.src='{{$img.RelPermalink}}'">
               {{ end }}
+            {{ end }}
+
             </div>
             {{ end }}
             <div class="user-info">
@@ -44,13 +49,13 @@
         <div class="mb-4 shareaholic-canvas" data-app="share_buttons" data-app-id="33069982"></div>
         <div class="content">
           {{.Content}}
-        </div>   
+        </div>
 
         <!-- Tags -->
         {{ partial "tags.html" .}}
-                
+
       </div>
-      
+
       {{ if .Site.DisqusShortname }}
       <div class="col-lg-8" data-aos="fade-in">
         <!-- comments -->
@@ -60,7 +65,7 @@
       </div>
       {{ end }}
     </div>
-  </div>  
+  </div>
 </section>
 <!-- end of blog-details -->
 
@@ -73,7 +78,7 @@
           <h2 class="title">Recent Articles</h2>
         </div>
       </div>
-      
+
       {{ $recent := (where site.RegularPages "Section" "in" site.Params.mainSections) | intersect (where site.RegularPages ".Title" "!=" .Title) }}
       {{ range first 2 $recent }}
       <div class="col-lg-5">
@@ -81,7 +86,7 @@
       </div>
       {{ end }}
     </div>
-  </div>  
+  </div>
 </section>
 <!-- end of blog-section -->
 

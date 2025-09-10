@@ -15,7 +15,7 @@ images:
 author_info:
   author_info: null
   name: Betterify
-  image: images/author/betterify.png
+  image: images/author/betterify.svg
 type: regular
 slug: bank-holidays-2023-india
 ---
