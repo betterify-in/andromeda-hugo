@@ -1,4 +1,4 @@
-<!-- 
+<!--
 
 PROJECT: Andromeda Hugo
 VERSION: 1.0.0
@@ -21,20 +21,20 @@ AUTHOR WEBSITE: https://gethugothemes.com
 	{{ end }}
 
 	<!-- Beginning of PurgeCSS HTML -->
-	{{/*  {{ $css := resources.Get "scss/style.scss" | resources.PostCSS }} 
-    {{ if hugo.IsProduction }} 
-    {{ $css = $css | minify | fingerprint | resources.PostProcess }} 
+	{{ $css := resources.Get "scss/style.scss" | resources.PostCSS }}
+    {{ if hugo.IsProduction }}
+    {{ $css = $css | minify | fingerprint | resources.PostProcess }}
     {{ end }}
 
     <link
      rel="stylesheet"
      href="{{ $css.RelPermalink }}"
-     {{ if hugo.IsProduction -}} 
+     {{ if hugo.IsProduction -}}
      integrity="{{ $css.Data.Integrity }}"
      {{- end }}
-    />  */}}
+    />
 	<!-- End of PurgeCSS HTML -->
-	
+
 	<!-- Bootstrap Icons -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
 	<!-- Google tag (gtag.js) -->
@@ -69,24 +69,24 @@ AUTHOR WEBSITE: https://gethugothemes.com
             branch: 'main',
             selector: 'div#search',
 			// Optional
-			analytics: true,                              
-			hitsPerPage: 5,                               
-			poweredBy: true,                              
-			placeholder: 'Algolia Search ...',                     
+			analytics: true,
+			hitsPerPage: 5,
+			poweredBy: true,
+			placeholder: 'Algolia Search ...',
 			openOnFocus: true,
 			detached: true,
 			//detached: { mediaQuery: '(max-width: 400px)' },
 			// Theme
 			theme: {
-				mark: '#5468FF',                               
-				background: '#fffaf3',                      
-				selected: '#111432',                        
-				text: '#d6d6e7',                             
+				mark: '#5468FF',
+				background: '#fffaf3',
+				selected: '#111432',
+				text: '#d6d6e7',
 				colorSourceIcon: '#d6d6e7',
-				border: '1px solid #0aa8a7',                  
+				border: '1px solid #0aa8a7',
 		  }
          });
-    </script>	
+    </script>
     <!-- End of Algolia Plugin -->
 </head>
 

@@ -4,12 +4,11 @@ Thumbs.db
 .tmp
 .sass-cache
 npm-debug.log
-node_modules
+node_modules/
 builds
 package-lock.json
 public
 resources
 wiki
-node_modules
 .env
 secret.txt

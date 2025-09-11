@@ -1,4 +1,4 @@
-const purgecss = require("@fullhuman/postcss-purgecss")({
+const purgecss = require('@fullhuman/postcss-purgecss')({
   content: ["./hugo_stats.json"],
   defaultExtractor: (content) => {
     const els = JSON.parse(content).htmlElements;
