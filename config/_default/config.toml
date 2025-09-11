@@ -127,8 +127,8 @@ rel = "manifest"
 [caches.getcsv] # A value of -1 will cache the file forever, 0 turns the cache off, or you can specify a time.
     maxAge = 0
 
-# [minify]
-#   minifyOutput = true # Using PurgeCSS is a great way of reducing the compiled CSS size, but consider always minifying the other static assets at build time by adding this to your Hugo config file. 
+[minify]
+  minifyOutput = true # Using PurgeCSS is a great way of reducing the compiled CSS size, but consider always minifying the other static assets at build time by adding this to your Hugo config file. 
 # This will minify your CSS, HTML, JS, JSON, SVGs and XML automatically.
 
 [build]
