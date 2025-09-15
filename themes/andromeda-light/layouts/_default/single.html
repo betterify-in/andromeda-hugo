@@ -56,7 +56,7 @@
 
       </div>
 
-      {{ if .Site.DisqusShortname }}
+      {{ if .Site.Config.Services.Disqus.Shortname }}
       <div class="col-lg-8" data-aos="fade-in">
         <!-- comments -->
         <div class="mt-5">
@@ -106,5 +106,6 @@
 </section>
 {{ end }}
 <!-- /regular page -->
-<div class="shareaholic-canvas" data-app="follow_buttons" data-app-id="28674708"></div>
+{{/*  <div class="shareaholic-canvas" data-app="follow_buttons" data-app-id="28674708"></div>  */}}
+<div class="mb-4 shareaholic-canvas" data-app="share_buttons" data-app-id="{{ .Site.Params.shareaholic.app_id }}"></div>
 {{ end }}

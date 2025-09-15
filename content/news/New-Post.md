@@ -3,7 +3,7 @@ title: New Post
 description: This is a new post from Tina CMS.
 date: 2024-06-10T18:30:00.000Z
 preview: /images/blog/business_plan.jpg
-draft: false
+draft: true
 tags:
   - Tina CMS
 categories:

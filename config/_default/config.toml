@@ -2,14 +2,20 @@
 baseURL = "https://www.betterify.in/"
 title = "Betterify - Better Financial Management"
 theme = "andromeda-light"
-# post pagination
-paginate = "6"
-# post excerpt
+
+[pagination]
+  disableAliases = false
+  pagerSize = 6 # post excerpts
+  path = 'page'
+
 summaryLength = "10"
+
 # google analytics
 googleAnalytics = "G-3ZTYKP665K" # example: UA-123-45, for more info, read the article https://support.google.com/analytics/answer/1008080?hl=en
-# disqus short name
-disqusShortname = "betterify" # get your shortname form here : https://disqus.com
+
+[services]
+  [services.disqus]
+    shortname = "betterify"
 
 ############################# Modules ##############################
 [module]
@@ -61,8 +67,11 @@ rel = "manifest"
     endLevel = 5
     ordered = true
 
-[social]
+[params.social]
   twitter = "BetterifyIn"
+
+[params.shareaholic]
+  app_id = "33069982"
 
 [params]
   mainSections = ["posts"]
