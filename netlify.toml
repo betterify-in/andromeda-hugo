@@ -8,8 +8,7 @@
   HUGO_BASEURL = "https://www.betterify.in/"
 
 [[plugins]]
-  package = "netlify-plugin-hugo-cache-resources"
-  version = "0.2.0"
+  package = "netlify-plugin-hugo-cache-resources"  
 
 [[headers]]
   for = "/*" # This defines which paths this specific [[headers]] block will cover.
