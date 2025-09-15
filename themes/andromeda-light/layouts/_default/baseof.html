@@ -21,7 +21,7 @@ AUTHOR WEBSITE: https://gethugothemes.com
 	{{ end }}
 
 	<!-- Beginning of PurgeCSS HTML -->
-	{{ $css := resources.Get "scss/style.scss" | resources.PostCSS }}
+	{{/*  {{ $css := resources.Get "scss/style.scss" | resources.PostCSS }}
     {{ if hugo.IsProduction }}
     {{ $css = $css | minify | fingerprint | resources.PostProcess }}
     {{ end }}
@@ -32,7 +32,7 @@ AUTHOR WEBSITE: https://gethugothemes.com
      {{ if hugo.IsProduction -}}
      integrity="{{ $css.Data.Integrity }}"
      {{- end }}
-    />
+    />  */}}
 	<!-- End of PurgeCSS HTML -->
 
 	<!-- Bootstrap Icons -->
