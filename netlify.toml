@@ -9,6 +9,7 @@
 
 [[plugins]]
   package = "netlify-plugin-hugo-cache-resources"
+  version = "0.2.0"
 
 [[headers]]
   for = "/*" # This defines which paths this specific [[headers]] block will cover.
