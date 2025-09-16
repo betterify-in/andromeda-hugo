@@ -40,7 +40,7 @@ quality = 100
 
 # Preloader
 [preloader]
-enable = true
+enable = false
 preloader = "images/preloader.svg" # use jpg, png, svg or gif format.
 
 # Navigation button
