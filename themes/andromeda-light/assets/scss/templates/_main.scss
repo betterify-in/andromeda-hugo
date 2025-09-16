@@ -933,7 +933,7 @@
     -moz-text-decoration-color: transparent;
   }
 
-  .card-title a:hover {   
+  .card-title a:hover {
     //color: lighten($black, 20.00);
     color: $primary-color;
     //text-decoration-color: lighten($black, 26.67);
@@ -961,7 +961,7 @@
       content: "";
       height: 100%;
       width: 100%;
-      border: 2px solid $primary-color;
+      //border: 2px solid $primary-color;
       border-radius: 50%;
       top: 0;
       left: 0;
