@@ -5,7 +5,7 @@ content:
   - name: posts
     label: Posts
     type: collection
-    path: content/blog
+    path: content/blog, content/news
     view:
       fields: [ title, draft, date, ]
     fields:
