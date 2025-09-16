@@ -56,8 +56,8 @@
 
       </div>
 
-      {{/*  {{ if .Site.Config.Services.Disqus.Shortname }}  */}}
-      {{ if and (not (eq .Site.Config.Services.Disqus.Shortname "")) (not .Params.comments) }}
+      {{ if .Site.Config.Services.Disqus.Shortname }}
+      {{/*  {{ if and (not (eq .Site.Config.Services.Disqus.Shortname "")) (not .Params.comments) }}  */}}
       <div class="col-lg-8" data-aos="fade-in">
         <!-- comments -->
         <div class="mt-5">

@@ -4,7 +4,6 @@ description: This post gives the list of Bank Holidays in 2023 in India.
 date: 2023-04-02T13:25:34.804Z
 preview: /images/blog/party_celebration.jpg
 draft: false
-comments: false # This will disable comments for this post
 tags: 
   - Holidays
   - Year 2023

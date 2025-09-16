@@ -20,7 +20,6 @@ description: >-
   At Betterify we help small companies and startups in Better Financial and
   Wealth Management. Want to know how we help? Welcome to Betterify!!
 draft: false
-comments: false # This will disable comments for this post
 slug: betterify
 preview: /assets/images/blog/hello.jpg
 title: 'Hello, Welcome to Betterify!!'

@@ -2,7 +2,7 @@
 date: 2022-10-31
 title: How to Analyse Nifty 50 Shares and Pick the Best Shares?
 image: images/blog/analysis.jpg
-images: 
+images:
   - https://source.unsplash.com/hpjSkU2UYSU.jpg
 author_info:
   name: Betterify
@@ -18,11 +18,8 @@ categories:
   - Investing
   - Money
   - How To
-# meta description
-description: This post talks about the analysis of Nifty 50 Shares. Want to know how to
-  Analyse Nifty 50 Shares and Pick the Best Shares?
+description: This post talks about the analysis of Nifty 50 Shares. Want to know how to Analyse Nifty 50 Shares and Pick the Best Shares?
 draft: false
-comments: false # This will disable comments for this post
 slug: analyse-nifty-50-shares-pick-shares
 preview: /assets/images/blog/analysis.jpg
 ---
