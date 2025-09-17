@@ -6,7 +6,7 @@ content:
     label: Posts
     type: collection
     path: content/blog
-  - name: nes
+  - name: news
     label: News
     type: collection    
     path: content/news
