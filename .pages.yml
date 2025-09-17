@@ -6,6 +6,8 @@ content:
     label: Posts
     type: collection
     path: content/blog
+    view:
+      fields: [ title, draft, date ]
   - name: news
     label: News
     type: collection    
