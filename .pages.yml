@@ -6,12 +6,12 @@ content:
     label: Posts
     type: collection
     path: content/blog
-  - name: posts
-    label: Posts
+  - name: nes
+    label: News
     type: collection    
     path: content/news
     view:
-      fields: [ title, draft, date, ]
+      fields: [ title, draft, date ]
     fields:
       - { name: pubDatetime, label: Date, type: date } 
       - { name: modDatetime, label: Date, type: date } 
