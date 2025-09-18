@@ -22,8 +22,7 @@ categories:
   - Videos
   - How To
 # meta description
-description: This video helps in analyzing all Nifty 50 Shares. Want to know how to Analyse
-  Nifty 50 Shares?
+description: This video helps in analyzing all Nifty 50 Shares. Want to know how to Analyse Nifty 50 Shares?
 draft: false
 slug: video-analyse-nifty-50-shares
 preview: /assets/images/blog/video_streaming.jpg

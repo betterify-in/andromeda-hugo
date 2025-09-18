@@ -20,9 +20,7 @@ categories:
   - Buyback
   - How To
 # meta description
-description: This article explains the Buyback decison of Paytm. And it also tries to
-  analyse as to why the buyback decison did not give any kick to the Paytm Stock
-  Price?
+description: This article explains the Buyback decison of Paytm. And it also tries to analyse as to why the buyback decison did not give any kick to the Paytm Stock Price?
 draft: false
 slug: paytm-buyback-give-kick-stock-price
 preview: /assets/images/blog/business_analytics.jpg

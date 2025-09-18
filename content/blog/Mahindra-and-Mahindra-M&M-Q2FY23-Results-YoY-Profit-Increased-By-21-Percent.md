@@ -23,8 +23,7 @@ categories:
   - Results Analysis
   - Companies
 # meta description
-description: Mahindra and Mahindra (M&M) Q2FY23 results are announced on 11/11/22. This
-  post and video tries to share the analysis of the results
+description: Mahindra and Mahindra (M&M) Q2FY23 results are announced on 11/11/22. This post and video tries to share the analysis of the results
 draft: false
 slug: q2fy23-mahindra-mahindra-yoy-profit-increased-21
 preview: /assets/images/blog/growth_analysis.jpg

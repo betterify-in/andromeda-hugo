@@ -22,8 +22,7 @@ categories:
   - Videos
   - How To
 # meta description
-description: This video helps in analyzing all BSE All Cap Shares. Want to know how to
-  Analyse BSE All Cap Shares?
+description: This video helps in analyzing all BSE All Cap Shares. Want to know how to analyse BSE All Cap Shares?
 draft: false
 slug: video-analyse-bse-cap-shares
 preview: /assets/images/blog/video_streaming.jpg
