@@ -56,3 +56,7 @@ The 2021 amendment to the LODR regulations is significant because:
 {{< button-gradient href="https://www.sebi.gov.in/sebi_data/attachdocs/sep-2025/order_matter_milestone_rehvar.pdf" target="_blank" >}}
 SEBI Order <i class="las la-arrow-right"></i>
 {{< /button-gradient >}}
+
+**Mr. Gautam Adani has posted on X the following, after the market regulator SEBI gave clean chit in the Hindenburg allegations:**
+
+{{< x user="gautam_adani" id="1968673211912171829" >}}
