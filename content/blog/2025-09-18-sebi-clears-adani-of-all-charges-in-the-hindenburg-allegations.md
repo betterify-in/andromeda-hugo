@@ -13,7 +13,7 @@ categories:
   - Legal
   - Adani
   - Hindenburg
-image: /images/blog/business_analytics.jpg
+image: /images/blog/party_undraw.webp
 images: ""
 author_info:
   name: Betterify
@@ -26,7 +26,7 @@ type: regular
 - **Regulatory Framework**: Allegations involve violations of SEBI Act, LODR Regulations, and PFUTP Regulations.
 - **Noticees**: Key parties include Noticees 1, 2, 3, 6, 7, and 8.
 - **Transactions**: Loans between entities were scrutinized for classification as related party transactions.
-- **Findings**: No evidence of fraudulent activity; transactions deemed non-manipulative.
+- <span class="yellow"> <b>Findings</b>: No evidence of fraudulent activity; transactions deemed non-manipulative.<span/>
 - **Legal Precedents**: Past regulations did not cover the transactions in question; SCN lacks specificity and relies on suspicion.
 
 **What allegations were made against Noticees in the Show Cause Notice (SCN)?**

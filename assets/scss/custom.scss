@@ -919,3 +919,13 @@ marker {
     background-attachment: fixed;
   }
 }
+
+code {
+   //background: var(--code-bg);
+   background: #f3f3f3;
+   color: #e83e8c;
+   font-size: 0.95em;
+   padding: 0.2em 0.4em;
+   border-radius: 6px;
+}
+
