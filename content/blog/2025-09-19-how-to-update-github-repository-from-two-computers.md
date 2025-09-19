@@ -12,7 +12,7 @@ categories:
   - How To
   - GitHub
   - Hugo
-image: /images/blog/proud-coder_bivp 1.webp
+image: /images/blog/proud-coder_bivp.png
 images: ""
 author_info:
   name: Avadhoot Dandekar

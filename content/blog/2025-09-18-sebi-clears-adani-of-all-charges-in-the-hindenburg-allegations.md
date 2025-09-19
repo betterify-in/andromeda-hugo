@@ -13,7 +13,7 @@ categories:
   - Legal
   - Adani
   - Hindenburg
-image: /images/blog/party_undraw.webp
+image: /images/blog/party.png
 images: ""
 author_info:
   name: Betterify
