@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog on Betterify - Better Financial Management</title><link>http://localhost:1313/blog/</link><description>Recent content in Blog on Betterify - Better Financial Management</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 19 Sep 2025 06:44:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>How to update GitHub Repository from two Computers?</title><link>http://localhost:1313/blog/2025-09-19-how-to-update-github-repository-from-two-computers/</link><pubDate>Fri, 19 Sep 2025 06:44:00 +0000</pubDate><guid>http://localhost:1313/blog/2025-09-19-how-to-update-github-repository-from-two-computers/</guid><description>&lt;p&gt;Updating a GitHub repository from two different computers involves a standard Git workflow. Assuming that you have two computers - Computer A and Computer B. Follow the following workflow to effectively update your GitHub repository from both the computers.&lt;/p&gt;
 &lt;h2 id="1-initial-setup-on-both-computers"&gt;1. Initial Setup on Both Computers:&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Install Git&lt;/strong&gt;: Ensure Git is installed on both computers. Git is a version control system. You can install from here 
+&lt;li&gt;&lt;strong&gt;Install Git&lt;/strong&gt;: Ensure Git is installed on both computers. Git is a version control system. You can install from here: 
 
 
-&lt;a href="https://git-scm.com/" target="_blank" rel="noopener"&gt;Git&lt;/a&gt;.&lt;/li&gt;
+&lt;a href="https://git-scm.com/" target="_blank" rel="noopener"&gt;Git&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Configure Git&lt;/strong&gt;: Set your user name and email on both machines for proper commit attribution:&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;code&gt;&amp;gt;git config --global user.name &amp;quot;Your Name&amp;quot;&lt;/code&gt; // Configures your name&lt;/p&gt;</description></item><item><title>SEBI clears Adani of all Charges in Hindenburg allegations</title><link>http://localhost:1313/blog/2025-09-18-sebi-clears-adani-of-all-charges-in-the-hindenburg-allegations/</link><pubDate>Thu, 18 Sep 2025 18:24:47 +0000</pubDate><guid>http://localhost:1313/blog/2025-09-18-sebi-clears-adani-of-all-charges-in-the-hindenburg-allegations/</guid><description>&lt;h2 id="summary-of-allegations-against-adani-group"&gt;Summary of Allegations Against Adani Group:&lt;/h2&gt;

@@ -23,7 +23,7 @@ type: regular
 Updating a GitHub repository from two different computers involves a standard Git workflow. Assuming that you have two computers - Computer A and Computer B. Follow the following workflow to effectively update your GitHub repository from both the computers. 
 
 ## 1. Initial Setup on Both Computers:
-- **Install Git**: Ensure Git is installed on both computers. Git is a version control system. You can install from here [Git](https://git-scm.com/).
+- **Install Git**: Ensure Git is installed on both computers. Git is a version control system. You can install from here: [Git](https://git-scm.com/)
 - **Configure Git**: Set your user name and email on both machines for proper commit attribution:
 
 ```>git config --global user.name "Your Name"``` // Configures your name
@@ -77,3 +77,5 @@ Push the changes to GitHub.
 If you make conflicting changes to the same lines of code on both computers before pushing and pulling, Git will notify you of a merge conflict during the ```git pull``` or ```git push``` operation. You will need to manually resolve these conflicts in your text editor, then stage and commit the resolved changes before pushing.
 
 <span class="yellow">By following this push-and-pull workflow, you can effectively keep your GitHub repository synchronized across multiple machines.</span>  
+
+***Note:*** You can access the Git Cheat Sheet here: [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
