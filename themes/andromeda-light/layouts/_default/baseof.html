@@ -112,8 +112,8 @@ AUTHOR WEBSITE: https://gethugothemes.com
 	{{ partial "footer.html" . }}
 	{{ end }}
 	<!-- Start of HubSpot Embed Code -->
-	<script type="text/javascript" id="hs-script-loader" async defer src="//js-na1.hs-scripts.com/46351913.js"></script>
-	<!-- End of HubSpot Embed Code -->
+  <script type="text/javascript" id="hs-script-loader" async defer src="//js-na2.hs-scripts.com/243908396.js"></script>
+<!-- End of HubSpot Embed Code -->
     <!--Start of Tawk.to Script-->
 	{{/*  <script type="text/javascript">
 	var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
@@ -128,110 +128,55 @@ AUTHOR WEBSITE: https://gethugothemes.com
 	</script>  */}}
 	<!--End of Tawk.to Script-->	
 </body>
+<!-- Begin Copy to Clipboard Button for Code Blocks -->
 <script>
-
   function createCopyButton(highlightDiv) {
-
     const button = document.createElement("button");
-
     button.className = "copy-code-button";
-
     button.type = "button";
-
     button.innerText = "Copy";
-
     button.addEventListener("click", () => copyCodeToClipboard(button, highlightDiv));
-
     highlightDiv.insertBefore(button, highlightDiv.firstChild);
-
-  
-
     const wrapper = document.createElement("div");
-
     wrapper.className = "highlight-wrapper";
-
     highlightDiv.parentNode.insertBefore(wrapper, highlightDiv);
-
     wrapper.appendChild(highlightDiv);
-
   }
-
-  
-
   document.querySelectorAll(".highlight").forEach((highlightDiv) => createCopyButton(highlightDiv));
-
-  
-
   async function copyCodeToClipboard(button, highlightDiv) {
-
     const codeToCopy = highlightDiv.querySelector(":last-child > :last-child > code").innerText;
-
     try {
-
       var result = await navigator.permissions.query({ name: "clipboard-write" });
-
       if (result.state == "granted" || result.state == "prompt") {
-
         await navigator.clipboard.writeText(codeToCopy);
-
       } else {
-
         copyCodeBlockExecCommand(codeToCopy, highlightDiv);
-
       }
-
     } catch (_) {
-
       copyCodeBlockExecCommand(codeToCopy, highlightDiv);
-
     } finally {
-
    button.blur();
-
     button.innerText = "Copied!";
-
     setTimeout(function () {
-
       button.innerText = "Copy";
-
     }, 2000);  }
-
   }
-
-  
-
   function copyCodeBlockExecCommand(codeToCopy, highlightDiv) {
-
     const textArea = document.createElement("textArea");
-
     textArea.contentEditable = "true";
-
     textArea.readOnly = "false";
-
     textArea.className = "copyable-text-area";
-
     textArea.value = codeToCopy;
-
     highlightDiv.insertBefore(textArea, highlightDiv.firstChild);
-
     const range = document.createRange();
-
     range.selectNodeContents(textArea);
-
     const sel = window.getSelection();
-
     sel.removeAllRanges();
-
     sel.addRange(range);
-
     textArea.setSelectionRange(0, 999999);
-
     document.execCommand("copy");
-
     highlightDiv.removeChild(textArea);
-
   }
-
   </script>
-
+ <!-- End Copy to Clipboard Button for Code Blocks -->
 </html>
