@@ -20,9 +20,12 @@ author_info:
 type: regular
 ---
 
+{{< toc >}}
+
 Updating a GitHub repository from two different computers involves a standard Git workflow. Assuming that you have two computers - Computer A and Computer B. Follow the following workflow to effectively update your GitHub repository from both the computers. 
 
 ## 1. Initial Setup on Both Computers:
+
 - **Install Git**: Ensure Git is installed on both computers. Git is a version control system. You can install from here: [Git](https://git-scm.com/)
 - **Configure Git**: Set your user name and email on both machines for proper commit attribution:
 

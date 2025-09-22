@@ -2,12 +2,12 @@
 title: "Pricing"
 date: "2022-10-25"
 layout: "pricing"
-draft: false
+draft: true
 # Meta Description
-description: "Nifty 50 Shares Analysis is a Web App that covers all the scrips in the Nifty 50 Index (50 scrips). This Web App caters to the needs of investment in stock market and stock analysis of the Indian Stock Market. This Web App is free to use and we are trying hard to keep it FREE FOREVER."
+description: "Nifty 50 Shares Analysis is a Web App that covers all the scrips in the Nifty 50 Index (50 scrips). This WebApp is free to use."
 contact_image: "images/vectors/contact.png"
 ---
-
+<!-- markdownlint-disable MD033 -->
 {{< rawhtml >}}
 <!-- This snippet uses Font Awesome 5 Free as a dependency. You can download it at fontawesome.io! -->
 <!-- https://startbootstrap.com/snippets/pricing-table -->
@@ -94,7 +94,6 @@ contact_image: "images/vectors/contact.png"
   </div>
 </section>
 
-
 <style>
 section.pricing {
   //background: #007bff;
@@ -147,7 +146,6 @@ section.pricing {
 }
 
 /* Hover Effects on Card */
-
 @media (min-width: 992px) {
   .pricing .card:hover {
     margin-top: -.25rem;

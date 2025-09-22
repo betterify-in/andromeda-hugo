@@ -1,6 +1,6 @@
 ---
 title: SEBI clears Adani of all Charges in Hindenburg allegations
-description: "SEBI gives Clean Chit To Gautam Adani and Adani Group Companies In the Hindenburg Case. "
+description: "SEBI gives Clean Chit To Gautam Adani and Adani Group Companies In the Hindenburg Case."
 date: 2025-09-18T18:24:47.223Z
 preview: /images/blog/business_decisions.jpg
 draft: false
@@ -21,8 +21,8 @@ author_info:
 type: regular
 ---
 
-## Summary of Allegations Against Adani Group:
-
+## Summary of Allegations Against Adani Group
+<!-- markdownlint-disable MD033 -->
 - **Regulatory Framework**: Allegations involve violations of SEBI Act, LODR Regulations, and PFUTP Regulations.
 - **Noticees**: Key parties include Noticees 1, 2, 3, 6, 7, and 8.
 - **Transactions**: Loans between entities were scrutinized for classification as related party transactions.
@@ -53,6 +53,7 @@ The 2021 amendment to the LODR regulations is significant because:
 2. The amendment is prospective, effective from April 1, 2023, indicating that it does not apply to past transactions, thereby clarifying the regulatory framework.
 3. It allows companies time to adjust their practices to comply with the new regulations, reflecting SEBI's intent to enhance transparency and governance in related party dealings.
 
+<!-- markdownlint-disable MD034 -->
 {{< button-gradient href="https://www.sebi.gov.in/sebi_data/attachdocs/sep-2025/order_matter_milestone_rehvar.pdf" target="_blank" >}}
 SEBI Order <i class="las la-arrow-right"></i>
 {{< /button-gradient >}}

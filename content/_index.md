@@ -5,9 +5,7 @@ banner:
   button: "Betterify TV"
   button_link: "https://www.youtube.com/@betterify"
   image: "images/banner-app.png"
-  # images/banner-app.png
-
-
+  
 # brands
 brands_carousel:
   enable: true
@@ -29,7 +27,6 @@ brands_carousel:
   - "images/brands/10-github.png"
   - "images/brands/11-photos.png"
   - "images/brands/12-messenger.png"
-
 
 # features
 features:
@@ -54,16 +51,14 @@ features:
     title: "Taxation Management"
     content: "We provide all possible information on <mark>Taxation Management</mark> by way of how-to articles, videos, ideas, insights, etc. We do not provide any kind of <mark>Investment Advice</mark> or Taxation Advice."        
 
-
 # intro_video
 intro_video:   
   enable: true
   subtitle: "Short Intro Video"
   title: "Watch <mark>Betterify TV</mark>"
   description: "We bring you news on Finance, Money, and Markets. <br> We share ideas and tips on Better <mark>Financial Management</mark> and <marker>Better Wealth Management.</marker>"
-  video_url: "https://www.youtube.com/embed/EQOhA_l2bRo" #https://www.youtube.com/embed/dyZcRRWiuuw
+  video_url: "https://www.youtube.com/embed/EQOhA_l2bRo?si=armmHPjyWb6V2xCQ" 
   video_thumbnail: "images/video-popup.png"
-
 
 # how_it_works
 how_it_works:   
@@ -77,8 +72,7 @@ how_it_works:
   - subtitle: "Secondary Speciality"
     title: "How to make money in the <mark>Stock Markets</mark>?"
     description: "Our secondary speciality is to <marker>share market news</marker>. We provide information on stocks, and financial and capital markets."
-    image: "images/features-02.png" #images/features-02.png
-
+    image: "images/features-02.png" 
 
 # testimonials
 testimonials:   

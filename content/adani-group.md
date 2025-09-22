@@ -7,14 +7,14 @@ draft: false
 description: "Adani Group Dashboard is a Web App that covers all the Adani Group scrips traded on the BSE and NSE and gives their Performance and Earnings."
 contact_image: "images/vectors/contact.png"
 ---
-
+<!-- markdownlint-disable MD033 -->
 We all at <mark>Betterify</mark> very strongly believe in the Financial Freedom of all individuals. In that spirit we are trying to make <mark>Financial Education</mark> and Financial Management Education as simple as possible.
 
 <span class="blue">The following Web App gives Market Cap analysis of all the Adani Group companies post the Hindenburg Research Report on 23rd January 2023. It also gives the analysis of latest Quarterly Results of all the companies of the Adani Group traded on BSE and NSE. This Web App can become handy for investorrs, analysts, and research students. This Web App is free to use and we are trying hard to keep it FREE FOREVER.<span>
 
 <!-- ![Nifty 50 Drawing](https://docs.google.com/drawings/d/1M8VQsH_cnqZ4aOPL8OX_aj0Fa6S9m9w9PSPgV79j3wg/export/png) -->
 
-Adani Group Dashboard is a <mark>Web App</mark> that covers analysis of all the scrips in the Adani Group traded on the BSE and NSE. Please see the App in action below: 
+Adani Group Dashboard is a <mark>Web App</mark> that covers analysis of all the scrips in the Adani Group traded on the BSE and NSE. Please see the App in action below:
 
 {{< rawhtml >}}
 <div class="card shadow mt-2 mb-4">
@@ -32,7 +32,9 @@ Adani Group Dashboard is a <mark>Web App</mark> that covers analysis of all the 
 You may also like to see the App in action in the browser. It is device responsive and mobile friendly:
 
 {{< rawhtml >}}
-<a href="https://script.google.com/macros/s/AKfycbxEkQ9O_In7nRIx746280Y1zgrArcFb9FHU5eVp3yKC1KPSLBMfbkrAMcOl8NlU5dg/exec" target="_blank" class="btn btn-primary btn-lg mb-4">See in Browser <i class="bi bi-stars"></i></a>
+<a href="https://script.google.com/macros/s/AKfycbxEkQ9O_In7nRIx746280Y1zgrArcFb9FHU5eVp3yKC1KPSLBMfbkrAMcOl8NlU5dg/exec" target="_blank" class="btn btn-primary btn-lg mb-4">See in Browser <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-stars" viewBox="0 0 16 16">
+  <path d="M7.657 6.247c.11-.33.576-.33.686 0l.645 1.937a2.89 2.89 0 0 0 1.829 1.828l1.936.645c.33.11.33.576 0 .686l-1.937.645a2.89 2.89 0 0 0-1.828 1.829l-.645 1.936a.361.361 0 0 1-.686 0l-.645-1.937a2.89 2.89 0 0 0-1.828-1.828l-1.937-.645a.361.361 0 0 1 0-.686l1.937-.645a2.89 2.89 0 0 0 1.828-1.828zM3.794 1.148a.217.217 0 0 1 .412 0l.387 1.162c.173.518.579.924 1.097 1.097l1.162.387a.217.217 0 0 1 0 .412l-1.162.387A1.73 1.73 0 0 0 4.593 5.69l-.387 1.162a.217.217 0 0 1-.412 0L3.407 5.69A1.73 1.73 0 0 0 2.31 4.593l-1.162-.387a.217.217 0 0 1 0-.412l1.162-.387A1.73 1.73 0 0 0 3.407 2.31zM10.863.099a.145.145 0 0 1 .274 0l.258.774c.115.346.386.617.732.732l.774.258a.145.145 0 0 1 0 .274l-.774.258a1.16 1.16 0 0 0-.732.732l-.258.774a.145.145 0 0 1-.274 0l-.258-.774a1.16 1.16 0 0 0-.732-.732L9.1 2.137a.145.145 0 0 1 0-.274l.774-.258c.346-.115.617-.386.732-.732z"/>
+</svg></i></a>
 {{< /rawhtml >}}
 
 You are <mark>FREE</mark> to embed the Web App in your websites and blogs without modifying the <mark>Copyrights</mark>. Find the embed code below:
@@ -40,7 +42,7 @@ You are <mark>FREE</mark> to embed the Web App in your websites and blogs withou
 ```javascript
 <iframe allowfullscreen="" height="400px" src="https://script.google.com/macros/s/AKfycbxEkQ9O_In7nRIx746280Y1zgrArcFb9FHU5eVp3yKC1KPSLBMfbkrAMcOl8NlU5dg/exec" style="border: 0px #ffffff none;" width="100%"></iframe>
 ```
-
+<!-- markdownlint-disable MD034 -->
 {{< gslides src="https://docs.google.com/presentation/d/e/2PACX-1vRQhf3gwCCIE1ZvriiylRmwp1x65sxucGPF1NFxEm_m3ZH3OQnjzhFVou9Ho0S1y6ZOo8kW0p_Zgw7W/embed?start=false&loop=false&delayms=3000" >}}
 
 {{< rawhtml >}}

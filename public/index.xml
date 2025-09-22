@@ -1,4 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Betterify - Better Financial Management</title><link>http://localhost:1313/</link><description>Recent content on Betterify - Better Financial Management</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 19 Sep 2025 06:44:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml"/><item><title>How to update GitHub Repository from two Computers?</title><link>http://localhost:1313/blog/2025-09-19-how-to-update-github-repository-from-two-computers/</link><pubDate>Fri, 19 Sep 2025 06:44:00 +0000</pubDate><guid>http://localhost:1313/blog/2025-09-19-how-to-update-github-repository-from-two-computers/</guid><description>&lt;p&gt;Updating a GitHub repository from two different computers involves a standard Git workflow. Assuming that you have two computers - Computer A and Computer B. Follow the following workflow to effectively update your GitHub repository from both the computers.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Betterify - Better Financial Management</title><link>http://localhost:1313/</link><description>Recent content on Betterify - Better Financial Management</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 19 Sep 2025 06:44:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml"/><item><title>How to update GitHub Repository from two Computers?</title><link>http://localhost:1313/blog/2025-09-19-how-to-update-github-repository-from-two-computers/</link><pubDate>Fri, 19 Sep 2025 06:44:00 +0000</pubDate><guid>http://localhost:1313/blog/2025-09-19-how-to-update-github-repository-from-two-computers/</guid><description>&lt;details class="toc card bd-callout bd-callout-info shadow table-of-content "&gt;
+ &lt;summary&gt;
+ 
+ Table Of Contents
+ 
+ &lt;/summary&gt;
+ &lt;nav id="TableOfContents"&gt;
+ &lt;ol&gt;
+ &lt;li&gt;
+ &lt;ol&gt;
+ &lt;li&gt;&lt;a href="#1-initial-setup-on-both-computers"&gt;1. Initial Setup on Both Computers:&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="#2-workflow-for-updating"&gt;2. Workflow for Updating:&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="#3-resolving-conflicts-if-they-occur"&gt;3. Resolving Conflicts (if they occur):&lt;/a&gt;&lt;/li&gt;
+ &lt;/ol&gt;
+ &lt;/li&gt;
+ &lt;/ol&gt;
+&lt;/nav&gt;
+ &lt;/details&gt;
+ 
+&lt;p&gt;Updating a GitHub repository from two different computers involves a standard Git workflow. Assuming that you have two computers - Computer A and Computer B. Follow the following workflow to effectively update your GitHub repository from both the computers.&lt;/p&gt;
 &lt;h2 id="1-initial-setup-on-both-computers"&gt;1. Initial Setup on Both Computers:&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Install Git&lt;/strong&gt;: Ensure Git is installed on both computers. Git is a version control system. You can install from here: 
@@ -7,7 +26,8 @@
 &lt;a href="https://git-scm.com/" target="_blank" rel="noopener"&gt;Git&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Configure Git&lt;/strong&gt;: Set your user name and email on both machines for proper commit attribution:&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;code&gt;&amp;gt;git config --global user.name &amp;quot;Your Name&amp;quot;&lt;/code&gt; // Configures your name&lt;/p&gt;</description></item><item><title>SEBI clears Adani of all Charges in Hindenburg allegations</title><link>http://localhost:1313/blog/2025-09-18-sebi-clears-adani-of-all-charges-in-the-hindenburg-allegations/</link><pubDate>Thu, 18 Sep 2025 18:24:47 +0000</pubDate><guid>http://localhost:1313/blog/2025-09-18-sebi-clears-adani-of-all-charges-in-the-hindenburg-allegations/</guid><description>&lt;h2 id="summary-of-allegations-against-adani-group"&gt;Summary of Allegations Against Adani Group:&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;&amp;gt;git config --global user.name &amp;quot;Your Name&amp;quot;&lt;/code&gt; // Configures your name&lt;/p&gt;</description></item><item><title>SEBI clears Adani of all Charges in Hindenburg allegations</title><link>http://localhost:1313/blog/2025-09-18-sebi-clears-adani-of-all-charges-in-the-hindenburg-allegations/</link><pubDate>Thu, 18 Sep 2025 18:24:47 +0000</pubDate><guid>http://localhost:1313/blog/2025-09-18-sebi-clears-adani-of-all-charges-in-the-hindenburg-allegations/</guid><description>&lt;h2 id="summary-of-allegations-against-adani-group"&gt;Summary of Allegations Against Adani Group&lt;/h2&gt;
+&lt;!-- markdownlint-disable MD033 --&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Regulatory Framework&lt;/strong&gt;: Allegations involve violations of SEBI Act, LODR Regulations, and PFUTP Regulations.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Noticees&lt;/strong&gt;: Key parties include Noticees 1, 2, 3, 6, 7, and 8.&lt;/li&gt;
@@ -15,29 +35,7 @@
 &lt;li&gt;&lt;span class="yellow"&gt; &lt;b&gt;Findings&lt;/b&gt;: No evidence of fraudulent activity; transactions deemed non-manipulative.&lt;span/&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Legal Precedents&lt;/strong&gt;: Past regulations did not cover the transactions in question; SCN lacks specificity and relies on suspicion.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;What allegations were made against Noticees in the Show Cause Notice (SCN)?&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Bookkeeping</title><link>http://localhost:1313/bookkeeping/</link><pubDate>Tue, 18 Jun 2024 00:00:00 +0000</pubDate><guid>http://localhost:1313/bookkeeping/</guid><description>&lt;!-- ======= Services Section ======= --&gt;
-&lt;section id="services" class="services"&gt;
- &lt;div class="container"&gt;
-
- &lt;div class="section-title"&gt;
- &lt;h2 class="services-title"&gt;Accounting &amp; Bookkeeping&lt;/h2&gt;
- &lt;p&gt;Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.&lt;/p&gt;
- &lt;/div&gt;
-
- &lt;div class="row"&gt;
- &lt;div class="col-lg-4 col-md-6 d-flex align-items-stretch"&gt;
- &lt;div class="icon-box"&gt;
- &lt;div class="icon"&gt;&lt;i class="bi bi-chat-left-dots"&gt;&lt;/i&gt;&lt;/div&gt;
- &lt;h4&gt;&lt;a href=""&gt;Lorem Ipsum&lt;/a&gt;&lt;/h4&gt;
- &lt;p&gt;Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi&lt;/p&gt;
- &lt;/div&gt;
- &lt;/div&gt;
-
- &lt;div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0"&gt;
- &lt;div class="icon-box"&gt;
- &lt;div class="icon"&gt;&lt;i class="bi bi-chat-square-dots-fill"&gt;&lt;/i&gt;&lt;/div&gt;
- &lt;h4&gt;&lt;a href=""&gt;Sed ut perspiciatis&lt;/a&gt;&lt;/h4&gt;
- &lt;p&gt;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore&lt;/p&gt;</description></item><item><title>Services</title><link>http://localhost:1313/services/</link><pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate><guid>http://localhost:1313/services/</guid><description>&lt;!-- &lt;link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet"&gt; --&gt;
+&lt;p&gt;&lt;strong&gt;What allegations were made against Noticees in the Show Cause Notice (SCN)?&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Services</title><link>http://localhost:1313/services/</link><pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate><guid>http://localhost:1313/services/</guid><description>&lt;!-- &lt;link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet"&gt; --&gt;
 
 &lt;!-- https://www.bootdey.com/snippets/view/services-section-page --&gt;
 
@@ -120,7 +118,8 @@
  &lt;div class="optionalParent"&gt;
  &lt;div class="clear foot"&gt;
  &lt;input type="submit" value="Subscribe ➤" name="subscribe" id="mc-embedded-subscribe" class="btn btn-primary mx-5"&gt; 
- &lt;p class="brandingLogo"&gt;&lt;a href="http://eepurl.com/isdhj2" target="_blank" title="Mailchimp - email marketing made easy and fun"&gt;&lt;img src="https://eep.io/mc-cdn-images/template_images/branding_logo_text_light_dtp.svg"&gt;&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Adani Group Dashboard</title><link>http://localhost:1313/adani-group/</link><pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate><guid>http://localhost:1313/adani-group/</guid><description>&lt;p&gt;We all at &lt;mark&gt;Betterify&lt;/mark&gt; very strongly believe in the Financial Freedom of all individuals. In that spirit we are trying to make &lt;mark&gt;Financial Education&lt;/mark&gt; and Financial Management Education as simple as possible.&lt;/p&gt;
+ &lt;p class="brandingLogo"&gt;&lt;a href="http://eepurl.com/isdhj2" target="_blank" title="Mailchimp - email marketing made easy and fun"&gt;&lt;img src="https://eep.io/mc-cdn-images/template_images/branding_logo_text_light_dtp.svg"&gt;&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Adani Group Dashboard</title><link>http://localhost:1313/adani-group/</link><pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate><guid>http://localhost:1313/adani-group/</guid><description>&lt;!-- markdownlint-disable MD033 --&gt;
+&lt;p&gt;We all at &lt;mark&gt;Betterify&lt;/mark&gt; very strongly believe in the Financial Freedom of all individuals. In that spirit we are trying to make &lt;mark&gt;Financial Education&lt;/mark&gt; and Financial Management Education as simple as possible.&lt;/p&gt;
 &lt;p&gt;&lt;span class="blue"&gt;The following Web App gives Market Cap analysis of all the Adani Group companies post the Hindenburg Research Report on 23rd January 2023. It also gives the analysis of latest Quarterly Results of all the companies of the Adani Group traded on BSE and NSE. This Web App can become handy for investorrs, analysts, and research students. This Web App is free to use and we are trying hard to keep it FREE FOREVER.&lt;span&gt;&lt;/p&gt;</description></item><item><title>Bank Holidays 2023 in India</title><link>http://localhost:1313/blog/bank-holidays-2023-india/</link><pubDate>Sun, 02 Apr 2023 13:25:34 +0000</pubDate><guid>http://localhost:1313/blog/bank-holidays-2023-india/</guid><description>&lt;p&gt;&lt;details&gt;
  &lt;summary&gt;&lt;marker&gt;Bank Holidays 2023 in India&lt;/marker&gt;&lt;/summary&gt;
  &lt;table&gt;
@@ -791,154 +790,4 @@ See in Browser &lt;i class="las la-arrow-right"&gt;&lt;/i&gt;
  &lt;div class="content mt-4"&gt;
  &lt;h5 class="title"&gt;Fully Responsive&lt;/h5&gt;
  &lt;p class="text-muted mt-3 mb-0"&gt;It is a long established fact that a reader will be distracted by the when looking at its layout.&lt;/p&gt;</description></item><item><title>Nifty 50</title><link>http://localhost:1313/nifty/</link><pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate><guid>http://localhost:1313/nifty/</guid><description>&lt;p&gt;We all at &lt;mark&gt;Betterify&lt;/mark&gt; very strongly believe in the Financial Freedom of all individuals. In that spirit we are trying to make &lt;mark&gt;Financial Education&lt;/mark&gt; and Financial Management Education as simple as possible.&lt;/p&gt;
-&lt;p&gt;&lt;span class="blue"&gt;The following Web App caters to the needs of investment in stock market and stock analysis of the Indian Stock Market. This Web App is free to use and we are trying hard to keep it FREE FOREVER.&lt;span&gt;&lt;/p&gt;</description></item><item><title>Pricing</title><link>http://localhost:1313/pricing/</link><pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate><guid>http://localhost:1313/pricing/</guid><description>&lt;!-- This snippet uses Font Awesome 5 Free as a dependency. You can download it at fontawesome.io! --&gt;
-&lt;!-- https://startbootstrap.com/snippets/pricing-table --&gt;
-&lt;section class="pricing py-5"&gt;
- &lt;div class="container"&gt;
- &lt;div class="row"&gt;
- &lt;!-- Free Tier --&gt;
- &lt;div class="col-lg-4"&gt;
- &lt;div class="card mb-5 mb-lg-0"&gt;
- &lt;div class="card-body"&gt;
- &lt;h5 class="card-title text-muted text-uppercase text-center"&gt;Free&lt;/h5&gt;
- &lt;h6 class="card-price text-center"&gt;$0&lt;span class="period"&gt;/month&lt;/span&gt;&lt;/h6&gt;
- &lt;hr&gt;
- &lt;ul class="fa-ul"&gt;
- &lt;li&gt;&lt;span class="fa-li"&gt;&lt;i class="fas fa-check"&gt;&lt;/i&gt;&lt;/span&gt;Single User&lt;/li&gt;
- &lt;li&gt;&lt;span class="fa-li"&gt;&lt;i class="fas fa-check"&gt;&lt;/i&gt;&lt;/span&gt;5GB Storage&lt;/li&gt;
- &lt;li&gt;&lt;span class="fa-li"&gt;&lt;i class="fas fa-check"&gt;&lt;/i&gt;&lt;/span&gt;Unlimited Public Projects&lt;/li&gt;
- &lt;li&gt;&lt;span class="fa-li"&gt;&lt;i class="fas fa-check"&gt;&lt;/i&gt;&lt;/span&gt;Community Access&lt;/li&gt;
- &lt;li class="text-muted"&gt;&lt;span class="fa-li"&gt;&lt;i class="fas fa-times"&gt;&lt;/i&gt;&lt;/span&gt;Unlimited
- Private Projects&lt;/li&gt;
- &lt;li class="text-muted"&gt;&lt;span class="fa-li"&gt;&lt;i class="fas fa-times"&gt;&lt;/i&gt;&lt;/span&gt;Dedicated
- Phone Support&lt;/li&gt;
- &lt;li class="text-muted"&gt;&lt;span class="fa-li"&gt;&lt;i class="fas fa-times"&gt;&lt;/i&gt;&lt;/span&gt;Free Subdomain
- &lt;/li&gt;
- &lt;li class="text-muted"&gt;&lt;span class="fa-li"&gt;&lt;i class="fas fa-times"&gt;&lt;/i&gt;&lt;/span&gt;Monthly Status
- Reports&lt;/li&gt;
- &lt;/ul&gt;
- &lt;div class="d-grid"&gt;
- &lt;a href="#" class="btn btn-primary text-uppercase"&gt;Button&lt;/a&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;!-- Plus Tier --&gt;
- &lt;div class="col-lg-4"&gt;
- &lt;div class="card mb-5 mb-lg-0"&gt;
- &lt;div class="card-body"&gt;
- &lt;h5 class="card-title text-muted text-uppercase text-center"&gt;Plus&lt;/h5&gt;
- &lt;h6 class="card-price text-center"&gt;$9&lt;span class="period"&gt;/month&lt;/span&gt;&lt;/h6&gt;
- &lt;hr&gt;
- &lt;ul class="fa-ul"&gt;
- &lt;li&gt;&lt;span class="fa-li"&gt;&lt;i class="fas fa-check"&gt;&lt;/i&gt;&lt;/span&gt;&lt;strong&gt;5 Users&lt;/strong&gt;&lt;/li&gt;
- &lt;li&gt;&lt;span class="fa-li"&gt;&lt;i class="fas fa-check"&gt;&lt;/i&gt;&lt;/span&gt;50GB Storage&lt;/li&gt;
- &lt;li&gt;&lt;span class="fa-li"&gt;&lt;i class="fas fa-check"&gt;&lt;/i&gt;&lt;/span&gt;Unlimited Public Projects&lt;/li&gt;
- &lt;li&gt;&lt;span class="fa-li"&gt;&lt;i class="fas fa-check"&gt;&lt;/i&gt;&lt;/span&gt;Community Access&lt;/li&gt;
- &lt;li&gt;&lt;span class="fa-li"&gt;&lt;i class="fas fa-check"&gt;&lt;/i&gt;&lt;/span&gt;Unlimited Private Projects&lt;/li&gt;
- &lt;li&gt;&lt;span class="fa-li"&gt;&lt;i class="fas fa-check"&gt;&lt;/i&gt;&lt;/span&gt;Dedicated Phone Support&lt;/li&gt;
- &lt;li&gt;&lt;span class="fa-li"&gt;&lt;i class="fas fa-check"&gt;&lt;/i&gt;&lt;/span&gt;Free Subdomain&lt;/li&gt;
- &lt;li class="text-muted"&gt;&lt;span class="fa-li"&gt;&lt;i class="fas fa-times"&gt;&lt;/i&gt;&lt;/span&gt;Monthly Status
- Reports&lt;/li&gt;
- &lt;/ul&gt;
- &lt;div class="d-grid"&gt;
- &lt;a href="#" class="btn btn-primary text-uppercase"&gt;Button&lt;/a&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;!-- Pro Tier --&gt;
- &lt;div class="col-lg-4"&gt;
- &lt;div class="card"&gt;
- &lt;div class="card-body"&gt;
- &lt;h5 class="card-title text-muted text-uppercase text-center"&gt;Pro&lt;/h5&gt;
- &lt;h6 class="card-price text-center"&gt;$49&lt;span class="period"&gt;/month&lt;/span&gt;&lt;/h6&gt;
- &lt;hr&gt;
- &lt;ul class="fa-ul"&gt;
- &lt;li&gt;&lt;span class="fa-li"&gt;&lt;i class="fas fa-check"&gt;&lt;/i&gt;&lt;/span&gt;&lt;strong&gt;Unlimited Users&lt;/strong&gt;
- &lt;/li&gt;
- &lt;li&gt;&lt;span class="fa-li"&gt;&lt;i class="fas fa-check"&gt;&lt;/i&gt;&lt;/span&gt;150GB Storage&lt;/li&gt;
- &lt;li&gt;&lt;span class="fa-li"&gt;&lt;i class="fas fa-check"&gt;&lt;/i&gt;&lt;/span&gt;Unlimited Public Projects&lt;/li&gt;
- &lt;li&gt;&lt;span class="fa-li"&gt;&lt;i class="fas fa-check"&gt;&lt;/i&gt;&lt;/span&gt;Community Access&lt;/li&gt;
- &lt;li&gt;&lt;span class="fa-li"&gt;&lt;i class="fas fa-check"&gt;&lt;/i&gt;&lt;/span&gt;Unlimited Private Projects&lt;/li&gt;
- &lt;li&gt;&lt;span class="fa-li"&gt;&lt;i class="fas fa-check"&gt;&lt;/i&gt;&lt;/span&gt;Dedicated Phone Support&lt;/li&gt;
- &lt;li&gt;&lt;span class="fa-li"&gt;&lt;i class="fas fa-check"&gt;&lt;/i&gt;&lt;/span&gt;&lt;strong&gt;Unlimited&lt;/strong&gt; Free
- Subdomains&lt;/li&gt;
- &lt;li&gt;&lt;span class="fa-li"&gt;&lt;i class="fas fa-check"&gt;&lt;/i&gt;&lt;/span&gt;Monthly Status Reports&lt;/li&gt;
- &lt;/ul&gt;
- &lt;div class="d-grid"&gt;
- &lt;a href="#" class="btn btn-primary text-uppercase"&gt;Button&lt;/a&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;/div&gt;
-&lt;/section&gt;
-
-
-&lt;style&gt;
-section.pricing {
- //background: #007bff;
- //background: linear-gradient(to right, #0062E6, #33AEFF);
-}
-
-.pricing .card {
- border: none;
- border-radius: 1rem;
- transition: all 0.2s;
- box-shadow: 0 0.5rem 1rem 0 rgba(0, 0, 0, 0.1);
-}
-
-.pricing hr {
- margin: 1.5rem 0;
-}
-
-.pricing .card-title {
- margin: 0.5rem 0;
- font-size: 0.9rem;
- letter-spacing: .1rem;
- font-weight: bold;
-}
-
-.pricing .card-price {
- font-size: 3rem;
- margin: 0;
-}
-
-.pricing .card-price .period {
- font-size: 0.8rem;
-}
-
-.pricing ul li {
- margin-bottom: 1rem;
-}
-
-.pricing .text-muted {
- opacity: 0.7;
-}
-
-.pricing .btn {
- font-size: 80%;
- border-radius: 5rem;
- letter-spacing: .1rem;
- font-weight: bold;
- padding: 1rem;
- opacity: 0.7;
- transition: all 0.2s;
-}
-
-/* Hover Effects on Card */
-
-@media (min-width: 992px) {
- .pricing .card:hover {
- margin-top: -.25rem;
- margin-bottom: .25rem;
- box-shadow: 0 0.5rem 1rem 0 rgba(0, 0, 0, 0.3);
- }
-
- .pricing .card:hover .btn {
- opacity: 1;
- }
-}
-&lt;/style&gt;</description></item></channel></rss>
+&lt;p&gt;&lt;span class="blue"&gt;The following Web App caters to the needs of investment in stock market and stock analysis of the Indian Stock Market. This Web App is free to use and we are trying hard to keep it FREE FOREVER.&lt;span&gt;&lt;/p&gt;</description></item></channel></rss>
