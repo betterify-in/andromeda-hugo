@@ -1038,3 +1038,8 @@ pre {
    border: 1.25px solid #232326;
    margin: 0 0 0 1px;
 }
+
+// Fixing jump in Navigation
+html {
+  overflow-y: scroll;
+}
