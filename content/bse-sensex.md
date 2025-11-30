@@ -1,10 +1,10 @@
 ---
-title: "BSE AllCap"
+title: "BSE Sensex"
 date: "2022-10-25"
-layout: "bse-allcap"
+layout: "bse-sensex"
 draft: false
 # Meta Description
-description: "The BSE All Cap Web App caters to the needs of investment in stock market and stock analysis of the Indian Stock Market. This Web App is free to use and we are trying hard to keep it FREE FOREVER."
+description: "The BSE Sensex Web App caters to the needs of investment in stock market and stock analysis of the Indian Stock Market. This Web App is free to use and we are trying hard to keep it FREE FOREVER."
 contact_image: "images/vectors/contact.png"
 ---
 
@@ -14,25 +14,25 @@ We all at <mark>Betterify</mark> very strongly believe in the Financial Freedom 
 
 <!-- ![BSE All Cap Drawing](https://docs.google.com/drawings/d/1hOAeX36wib0iSK6OmOyxfnMibK8HNosJBVfP-L6vSD0/export/png) -->
 
-BSE AllCap Shares Analysis is a <mark>Web App</mark> that covers all the scrips in the BSE AllCap Index (more than 900 scrips). Please see the App in action below: 
+BSE Sensex Shares Analysis is a <mark>Web App</mark> that covers 30 well-established and financially sound companies listed on the Bombay Stock Exchange. Please see the App in action below: 
 
 {{< rawhtml >}}
 <div class="card shadow mt-2 mb-4">
-<iframe allowfullscreen="" height="400px" src="https://script.google.com/macros/s/AKfycbynt_6E2R9hqNPssmRKFBqlLrpy4d1ox1o7xuE1fmB0cAjS6nmoN0vsPdqGKKcJWFAZ7Q/exec" style="border: 0px #ffffff none;" width="100%"></iframe>
+<iframe allowfullscreen="" height="400px" src="https://script.google.com/macros/s/AKfycbxmJjQX9cF2tBRk2q51OVQnUjlKXSDaxjlwFUhwdoO-NuCjATNnNa_In1vFaYrv2md7/exec" style="border: 0px #ffffff none;" width="100%"></iframe>
 </div>
 {{< /rawhtml >}}
 
 {{< rawhtml >}}
 <div class="card bd-callout bd-callout-info shadow">
-<h4 id="conveying-meaning-to-assistive-technologies"><marker>BSE AllCap Shares Analysis</marker></h4>
-<p class="yellow">The total active shares traded on BSE are 4000+ scrips and the BSE AllCap index contains 1000+ scrips. And the BSE AllCap Index does a Turnover of more than 95% (97.36% as on 1st Oct, 2021) of the total BSE turnover.</p>
+<h4 id="conveying-meaning-to-assistive-technologies"><marker>BSE Sensex Shares Analysis</marker></h4>
+<p class="yellow">The BSE SENSEX is an Indian free-float market-weighted stock market index of 30 well-established and financially sound companies listed on the Bombay Stock Exchange.</p>
 </div>
 {{< /rawhtml >}}
 
 You may also like to see the App in action in the browser. It is device responsive and mobile friendly:
 
 {{< rawhtml >}}
-<a href="https://script.google.com/macros/s/AKfycbwiVPTW7ny7wYbeXNK09IFl4dks3LYiTE-zlv71C756rBdMN5YV1Efe8sJX9JLMq9MC/exec" target="_blank" class="btn btn-primary btn-lg mb-4">See in Browser <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" width="30px" height="30px" fill="currentColor">
+<a href="https://script.google.com/macros/s/AKfycbxmJjQX9cF2tBRk2q51OVQnUjlKXSDaxjlwFUhwdoO-NuCjATNnNa_In1vFaYrv2md7/exec" target="_blank" class="btn btn-primary btn-lg mb-4">See in Browser <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" width="30px" height="30px" fill="currentColor">
   <path fill-rule="evenodd" d="M10.293 15.707a1 1 0 010-1.414L14.586 10l-4.293-4.293a1 1 0 111.414-1.414l5 5a1 1 0 010 1.414l-5 5a1 1 0 01-1.414 0z" clip-rule="evenodd" />
   <path fill-rule="evenodd" d="M4.293 15.707a1 1 0 010-1.414L8.586 10 4.293 5.707a1 1 0 011.414-1.414l5 5a1 1 0 010 1.414l-5 5a1 1 0 01-1.414 0z" clip-rule="evenodd" />
 </svg></a>
@@ -41,7 +41,7 @@ You may also like to see the App in action in the browser. It is device responsi
 You are <mark>FREE</mark> to embed the Web App in your websites and blogs without modifying the <mark>Copyrights</mark>. Find the embed code below:
 
 ```javascript
-<iframe allowfullscreen="" height="400px" src="https://script.google.com/macros/s/AKfycbwiVPTW7ny7wYbeXNK09IFl4dks3LYiTE-zlv71C756rBdMN5YV1Efe8sJX9JLMq9MC/exec" style="border: 0px #ffffff none;" width="100%"></iframe>
+<iframe allowfullscreen="" height="400px" src="https://script.google.com/macros/s/AKfycbxmJjQX9cF2tBRk2q51OVQnUjlKXSDaxjlwFUhwdoO-NuCjATNnNa_In1vFaYrv2md7/exec" style="border: 0px #ffffff none;" width="100%"></iframe>
 ```
 
 {{< rawhtml >}}

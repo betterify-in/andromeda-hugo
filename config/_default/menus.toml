@@ -11,8 +11,8 @@ hasChildren = true
 
   [[main]]
   parent = "Apps"
-  name = "BSE AllCap"
-  url = "bse-allcap/"
+  name = "BSE Sensex"
+  url = "bse-sensex/"
   weight = 2
 
   [[main]]
