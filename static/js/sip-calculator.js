@@ -24,12 +24,15 @@ function calculateSIP() {
   document.getElementById('result').style.display = 'block';
 }
 
-// Allow Enter key to calculate
+// Allow Enter key to calculate - ADD NULL CHECK HERE
 document.addEventListener('DOMContentLoaded', function() {
-  document.getElementById('sipCalculatorForm').addEventListener('keypress', function(e) {
-    if (e.key === 'Enter') {
-      e.preventDefault();
-      calculateSIP();
-    }
-  });
+  const form = document.getElementById('sipCalculatorForm');
+  if (form) {
+    form.addEventListener('keypress', function(e) {
+      if (e.key === 'Enter') {
+        e.preventDefault();
+        calculateSIP();
+      }
+    });
+  }
 });

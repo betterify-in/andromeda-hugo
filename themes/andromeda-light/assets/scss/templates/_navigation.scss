@@ -46,7 +46,7 @@ header {
   .navbar-brand {
     @include tablet {
       img {
-        height: 30px;
+        height: 45px; // 30px to 45px
       }
     }
   }
