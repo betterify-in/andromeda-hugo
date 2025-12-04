@@ -789,12 +789,16 @@ See in Browser &lt;i class="las la-arrow-right"&gt;&lt;/i&gt;
  &lt;/div&gt;
  &lt;div class="content mt-4"&gt;
  &lt;h5 class="title"&gt;Fully Responsive&lt;/h5&gt;
- &lt;p class="text-muted mt-3 mb-0"&gt;It is a long established fact that a reader will be distracted by the when looking at its layout.&lt;/p&gt;</description></item><item><title>Goal SIP Planner</title><link>http://localhost:1313/goal-sip-planner/</link><pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate><guid>http://localhost:1313/goal-sip-planner/</guid><description>&lt;div class="row" data-aos="fade-up" data-aos-delay="50" id="sipplanner"&gt;
+ &lt;p class="text-muted mt-3 mb-0"&gt;It is a long established fact that a reader will be distracted by the when looking at its layout.&lt;/p&gt;</description></item><item><title>Goal SIP Planner</title><link>http://localhost:1313/goal-sip-planner/</link><pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate><guid>http://localhost:1313/goal-sip-planner/</guid><description>&lt;section class="section-bg services-section px-2" data-aos="fade-up" data-aos-delay="50" id="sipplanner"&gt;
+ &lt;div class="container"&gt;
+&lt;div class="row"&gt;
  &lt;!-- &lt;div class="w-100"&gt; --&gt;
  &lt;div class="services-section-title"&gt;
  &lt;h2 class="services-title"&gt;Goal SIP Planner&lt;/h2&gt;
  &lt;p&gt;The following SIP Planner will help you calculate the monthly SIP needed to reach your financial goals:&lt;/p&gt;
  &lt;/div&gt;
  &lt;!-- &lt;/div&gt; --&gt;
- &lt;/div&gt;</description></item><item><title>Nifty 50</title><link>http://localhost:1313/nifty/</link><pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate><guid>http://localhost:1313/nifty/</guid><description>&lt;p&gt;We all at &lt;mark&gt;Betterify&lt;/mark&gt; very strongly believe in the Financial Freedom of all individuals. In that spirit we are trying to make &lt;mark&gt;Financial Education&lt;/mark&gt; and Financial Management Education as simple as possible.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;/section&gt;</description></item><item><title>Nifty 50</title><link>http://localhost:1313/nifty/</link><pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate><guid>http://localhost:1313/nifty/</guid><description>&lt;p&gt;We all at &lt;mark&gt;Betterify&lt;/mark&gt; very strongly believe in the Financial Freedom of all individuals. In that spirit we are trying to make &lt;mark&gt;Financial Education&lt;/mark&gt; and Financial Management Education as simple as possible.&lt;/p&gt;
 &lt;p&gt;&lt;span class="blue"&gt;The following Web App caters to the needs of investment in stock market and stock analysis of the Indian Stock Market. This Web App is free to use and we are trying hard to keep it FREE FOREVER.&lt;span&gt;&lt;/p&gt;</description></item></channel></rss>
