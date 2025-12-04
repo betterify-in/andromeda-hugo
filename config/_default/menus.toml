@@ -33,6 +33,12 @@ hasChildren = true
   url = "adani-group/"
   weight = 4
 
+  [[main]]
+  parent = "Apps"
+  name = "SIP Planner"
+  url = "goal-sip-planner/"
+  weight = 5
+
 [[main]]
 name = "Blog"
 url = "blog/"

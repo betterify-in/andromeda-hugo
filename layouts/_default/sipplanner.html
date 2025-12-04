@@ -1,0 +1,65 @@
+{{define "main"}}
+{{ partial "page-header.html" . }}
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 mx-auto">
+        <!--<h1 class="mb-4">{{.Title}}</h1>
+        <p class="mb-4">{{.Description}}</p>-->
+
+        <!-- Render title, front-matter description and the Markdown body -->        
+
+        <!--{{ with .Params.description }}
+        <p class="mb-4">{{ . | markdownify }}</p>
+        {{ end }}-->
+
+        <!-- The page body (Markdown) will be rendered here -->
+        <div class="page-content mb-4">
+          {{ .Content }}
+        </div>
+
+        <div class="card shadow">
+          <div class="card-body p-4">
+            <form id="sipCalculatorForm">
+              <div class="form-group mb-3">
+                <label for="targetCorpus" class="form-label">Target Corpus (₹)</label>
+                <input type="number" class="form-control" id="targetCorpus" placeholder="1000000" required>
+              </div>
+
+              <div class="form-group mb-3">
+                <label for="years" class="form-label">Investment Period (Years)</label>
+                <input type="number" class="form-control" id="years" placeholder="5" min="1" required>
+              </div>
+
+              <div class="form-group mb-3">
+                <label for="investmentMode" class="form-label">Investment Mode</label>
+                <select class="form-control" id="investmentMode" required>
+                  <option value="">Select Investment Mode</option>
+                  <option value="6">Fixed Deposit (FD) - 6% per annum</option>
+                  <option value="12">Bonds - 12% per annum</option>
+                  <option value="8">Savings Account - 8% per annum</option>
+                  <option value="10">Balanced Mutual Fund - 10% per annum</option>
+                  <option value="14">Equity Mutual Fund - 14% per annum</option>
+                  <option value="5">Government Securities - 5% per annum</option>
+                </select>
+              </div>
+
+              <button type="button" class="btn btn-primary w-100" onclick="calculateSIP()">Calculate Monthly SIP</button>
+            </form>
+
+            <div id="result" class="mt-4" style="display:none;">
+              <div class="alert alert-success">
+                <h4>Results</h4>
+                <p class="mb-2"><strong>Target Corpus:</strong> <span id="resultCorpus"></span></p>
+                <p class="mb-2"><strong>Investment Period:</strong> <span id="resultYears"></span> years</p>
+                <p class="mb-2"><strong>Annual Rate of Return:</strong> <span id="resultROR"></span>%</p>
+                <p class="mb-0"><strong>Monthly SIP Required:</strong> <span id="monthlySIP" style="font-size: 24px; color: #007bff;">₹0</span></p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{end}}
